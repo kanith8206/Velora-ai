@@ -58,8 +58,8 @@ export default function Landing() {
       a: 'Yes! Velora is capable of generating real-time comparison metrics for any consumer hardware or catalog item available globally, highlighting specifications, price points, and active pros/cons.'
     },
     {
-      q: 'Is Firebase Authentication safe and secure?',
-      a: 'Absolutely. All logins, accounts, and Google integrations are secured by Google Firebase Auth servers, meaning we never store or see your passwords directly.'
+      q: 'Is Supabase Authentication safe and secure?',
+      a: 'Absolutely. All logins, accounts, and integrations are secured by Supabase Auth servers, meaning we never store or see your passwords directly.'
     },
     {
       q: 'Does it cost anything to use Velora?',

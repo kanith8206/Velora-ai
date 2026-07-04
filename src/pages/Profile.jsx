@@ -16,7 +16,7 @@ import {
   Lock,
   Globe
 } from 'lucide-react';
-import { updateProfile } from 'firebase/auth';
+import { supabase } from '../supabaseClient';
 import { toast } from 'react-hot-toast';
 
 export default function Profile() {
@@ -35,10 +35,10 @@ export default function Profile() {
       navigate('/auth');
       return;
     }
-    setDisplayName(user.displayName || '');
-    setPhotoURL(user.photoURL || '');
-    fetchWishlist(user.uid);
-    fetchSearches(user.uid);
+    setDisplayName(user.user_metadata?.displayName || '');
+    setPhotoURL(user.user_metadata?.photoURL || '');
+    fetchWishlist(user.id);
+    fetchSearches(user.id);
   }, [user]);
 
   const handleUpdateProfile = async (e) => {
@@ -46,10 +46,16 @@ export default function Profile() {
     if (!user) return;
 
     try {
-      await updateProfile(user, {
-        displayName,
-        photoURL: photoURL || `https://api.dicebear.com/7.x/initials/svg?seed=${displayName}`
+      await supabase.auth.updateUser({
+        data: {
+          displayName,
+          photoURL: photoURL || `https://api.dicebear.com/7.x/initials/svg?seed=${displayName}`
+        }
       });
+      await supabase.from('users').update({
+        display_name: displayName,
+        photo_url: photoURL || `https://api.dicebear.com/7.x/initials/svg?seed=${displayName}`
+      }).eq('id', user.id);
       toast.success("Profile details updated!");
       setIsEditing(false);
     } catch (err) {
@@ -101,7 +107,7 @@ export default function Profile() {
         <div className="bg-[#0C0C0F]/40 border border-[#1E1E24] rounded-2xl p-6 text-center space-y-6 shadow-xl">
           <div className="relative inline-block">
             <img 
-              src={user.photoURL || `https://api.dicebear.com/7.x/initials/svg?seed=${user.email}`} 
+              src={user.user_metadata?.photoURL || `https://api.dicebear.com/7.x/initials/svg?seed=${user.email}`}
               alt="Profile avatar" 
               className="w-24 h-24 rounded-full border-4 border-[#D4AF37] mx-auto shadow-lg"
               referrerPolicy="no-referrer"
@@ -117,7 +123,7 @@ export default function Profile() {
 
           <div className="space-y-1">
             <h3 className="font-sans font-extrabold text-lg text-white">
-              {user.displayName || 'Velora User'}
+              {user.user_metadata?.displayName || 'Velora User'}
             </h3>
             <p className="text-xs text-slate-400 flex items-center justify-center gap-1">
               <Mail className="w-3.5 h-3.5 text-slate-500" />
@@ -125,7 +131,7 @@ export default function Profile() {
             </p>
             <p className="text-[10px] text-slate-500 flex items-center justify-center gap-1 font-mono uppercase tracking-wider">
               <Calendar className="w-3.5 h-3.5 text-slate-600" />
-              Member Since: {user.metadata.creationTime ? new Date(user.metadata.creationTime).toLocaleDateString() : 'Active Member'}
+              Member Since: {user.created_at ? new Date(user.created_at).toLocaleDateString() : 'Active Member'}
             </p>
           </div>
 
@@ -173,7 +179,7 @@ export default function Profile() {
           {/* SECURITY VERIFIED BAR */}
           <div className="p-3.5 bg-emerald-500/5 border border-emerald-500/20 rounded-xl text-emerald-400 text-[11px] font-semibold flex items-center gap-2 justify-center">
             <ShieldCheck className="w-4 h-4 text-emerald-400 shrink-0" />
-            <span>Firebase Security Layer Active</span>
+            <span>Supabase Security Layer Active</span>
           </div>
         </div>
 
