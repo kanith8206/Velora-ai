@@ -33,7 +33,7 @@
   <br/><br/>
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/golden.png" width="100%" alt="divider" />
+<hr style="border: 1px solid #E2B53E; margin: 40px 0; opacity: 0.3;" />
 
 </div>
 
