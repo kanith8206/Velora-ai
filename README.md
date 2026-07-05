@@ -1,36 +1,39 @@
 <div align="center">
 
-<img src="https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=2000&auto=format&fit=crop" alt="Velora AI Header" width="100%" style="border-radius: 15px; margin-bottom: 20px;"/>
+<img src="https://images.unsplash.com/photo-1618221118493-9cfa1a1c00da?q=80&w=2000&auto=format&fit=crop" alt="Velora AI Elegant Header" width="100%" style="border-radius: 12px; margin-bottom: 20px;"/>
 
-# ✦ Velora AI ✦
-
-<h3 align="center">
-  The Future of E-Commerce is Conversational & Lightning Fast
-</h3>
+<h1 align="center" style="font-weight: 300; letter-spacing: 4px;">
+  <br/>
+  V E L O R A &nbsp;&nbsp; A I
+  <br/>
+</h1>
 
 <p align="center">
-  <strong>Intelligent Shopping • Ultra-Low Latency Inference • Personalized Choices</strong>
+  <i style="font-size: 1.2em; color: #E2B53E;">The Genesis of Intelligent Commerce.</i>
 </p>
 
+<p align="center" style="max-width: 600px; margin: 0 auto; color: #888;">
+  Velora AI is an ultra-premium, AI-native digital boutique. Built for the discerning shopper, it discards traditional search bars in favor of a <b>lightning-fast, conversational concierge</b> powered by Groq’s LPU Inference Engine. Experience shopping as a curated dialogue.
+</p>
+
+<br/>
+
 <p align="center">
-  <a href="#-core-features">Features</a> •
-  <a href="https://velora-ai.vercel.app/">Live Demo</a> •
-  <a href="#-performance--speed">Performance</a> •
-  <a href="#-architecture">Architecture</a> •
-  <a href="#-quick-start-run-locally">Quick Start</a>
+  <a href="#-core-features"><strong>Explore Features</strong></a> &nbsp;•&nbsp;
+  <a href="https://velora-ai.vercel.app/"><strong>Live Experience</strong></a> &nbsp;•&nbsp;
+  <a href="#-performance--speed"><strong>Groq Architecture</strong></a>
 </p>
 
 <div align="center">
-  
-  [![React](https://img.shields.io/badge/React-19-000000?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev)
-  [![Vite](https://img.shields.io/badge/Vite-5.0-000000?style=for-the-badge&logo=vite&logoColor=646CFF)](https://vitejs.dev)
-  [![TailwindCSS](https://img.shields.io/badge/Tailwind-v3-000000?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC)](https://tailwindcss.com)
-  [![Groq](https://img.shields.io/badge/Powered_by-Groq_AI-000000?style=for-the-badge&logo=ai&logoColor=f472b6)](https://groq.com/)
-  [![Firebase](https://img.shields.io/badge/Firebase-Auth-000000?style=for-the-badge&logo=firebase&logoColor=FFCA28)](https://firebase.google.com/)
-  
+  <br/>
+  <a href="https://react.dev"><img src="https://img.shields.io/badge/React_19-121212?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/></a>
+  <a href="https://tailwindcss.com"><img src="https://img.shields.io/badge/Tailwind_CSS-121212?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC" alt="Tailwind"/></a>
+  <a href="https://groq.com/"><img src="https://img.shields.io/badge/Groq_AI_Inference-121212?style=for-the-badge&logo=ai&logoColor=f472b6" alt="Groq"/></a>
+  <a href="https://firebase.google.com/"><img src="https://img.shields.io/badge/Firebase_Auth-121212?style=for-the-badge&logo=firebase&logoColor=FFCA28" alt="Firebase"/></a>
+  <br/><br/>
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/golden.png" width="100%" alt="divider" />
 
 </div>
 
@@ -127,12 +130,6 @@ graph TD;
     Express -->|JSON Response| Client;
 ```
 
-### Component Breakdown
-* **Frontend:** React 19, Vite, Tailwind CSS v3, Framer Motion, Zustand, React Router v6, Lucide Icons.
-* **Backend:** Node.js, Express.js.
-* **AI Integration:** `groq-sdk`.
-* **Database & Auth:** Firebase.
-
 ---
 
 ## 🚀 Quick Start (Run Locally)
@@ -169,19 +166,6 @@ Run the magic command to start both the Vite frontend and Express backend simult
 npm run dev
 ```
 Open **`http://localhost:3000`** in your browser and experience instant AI shopping!
-
----
-
-## 🛡️ Security & Privacy
-* **Secure API Routing:** All Groq API calls are handled server-side via Express to protect your private API keys from being exposed to the client browser.
-* **Authenticated Sessions:** Firebase handles secure JWT token management to ensure user data (Wishlists, Chat History) remains private.
-
----
-
-## 🛣️ Roadmap
-- [ ] **Stripe Integration:** Enable seamless 1-click checkouts directly from the chat interface.
-- [ ] **Voice Input:** Allow users to talk to Velora using Web Speech API.
-- [ ] **Real-time Pricing:** Integrate with third-party web scrapers to fetch live prices and stock availability.
 
 ---
 
