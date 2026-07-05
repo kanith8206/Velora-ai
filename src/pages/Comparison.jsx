@@ -34,30 +34,23 @@ export default function Comparison() {
     { name: 'Availability', key: 'availability' },
   ];
 
-  // Gather all unique group titles across products
-  const allGroupTitles = Array.from(
+  const getAllSpecs = (product) => {
+    let flatSpecs = {};
+    if (product.specGroups) {
+      product.specGroups.forEach(g => {
+        flatSpecs = { ...flatSpecs, ...g.specs };
+      });
+    } else if (product.specs) {
+      flatSpecs = { ...product.specs };
+    }
+    return flatSpecs;
+  };
+
+  const allSpecKeys = Array.from(
     new Set(
-      comparisonList.flatMap(p => 
-        (p.specGroups || [{ title: "General Specs", specs: p.specs }]).map(g => g.title)
-      )
+      comparisonList.flatMap(p => Object.keys(getAllSpecs(p)))
     )
   );
-
-  // For each group, gather unique spec keys
-  const groupedSpecs = allGroupTitles.map(title => {
-    const keys = new Set();
-    comparisonList.forEach(p => {
-      const groups = p.specGroups || [{ title: "General Specs", specs: p.specs }];
-      const group = groups.find(g => g.title === title);
-      if (group) {
-        Object.keys(group.specs).forEach(k => keys.add(k));
-      }
-    });
-    return {
-      title,
-      keys: Array.from(keys)
-    };
-  });
 
   // Logic to determine overall winner among current items (simple heuristic based on rating & pricing value ratio)
   const determineWinner = () => {
@@ -185,34 +178,31 @@ export default function Comparison() {
                     </tr>
                   ))}
 
-                  {/* GROUPED SPECS */}
-                  {groupedSpecs.map((group, gIdx) => (
-                    <React.Fragment key={`group-${gIdx}`}>
-                      <tr className="bg-[#121216] border-y border-[#1E1E24]">
-                        <td colSpan={comparisonList.length + 1} className="py-4 px-6">
-                          <h4 className="font-sans font-bold text-sm text-[#E2B53E] uppercase tracking-wider">
-                            {group.title}
-                          </h4>
-                        </td>
-                      </tr>
-                      {group.keys.map((specKey, sIdx) => (
-                        <tr key={`spec-${gIdx}-${sIdx}`} className="border-b border-[#1E1E24]/60 hover:bg-[#0C0C0F]/20">
-                          <td className="py-4 px-6 font-semibold text-slate-400">
-                            {specKey}
+                  {/* TECHNICAL SPECIFICATIONS */}
+                  {allSpecKeys.length > 0 && (
+                    <tr className="bg-[#121216] border-y border-[#1E1E24]">
+                      <td colSpan={comparisonList.length + 1} className="py-4 px-6">
+                        <h4 className="font-sans font-bold text-sm text-[#E2B53E] uppercase tracking-wider">
+                          Technical Specifications
+                        </h4>
+                      </td>
+                    </tr>
+                  )}
+                  {allSpecKeys.map((specKey, sIdx) => (
+                    <tr key={`spec-${sIdx}`} className="border-b border-[#1E1E24]/60 hover:bg-[#0C0C0F]/20">
+                      <td className="py-4 px-6 font-semibold text-slate-400">
+                        {specKey}
+                      </td>
+                      {comparisonList.map((product) => {
+                        const flatSpecs = getAllSpecs(product);
+                        const val = flatSpecs[specKey] || '-';
+                        return (
+                          <td key={product.id} className="py-4 px-6 text-slate-200 leading-relaxed">
+                            {val}
                           </td>
-                          {comparisonList.map((product) => {
-                            const productGroups = product.specGroups || [{ title: "General Specs", specs: product.specs }];
-                            const productGroup = productGroups.find(g => g.title === group.title);
-                            const val = productGroup?.specs[specKey] || '-';
-                            return (
-                              <td key={product.id} className="py-4 px-6 text-slate-200 leading-relaxed">
-                                {val}
-                              </td>
-                            );
-                          })}
-                        </tr>
-                      ))}
-                    </React.Fragment>
+                        );
+                      })}
+                    </tr>
                   ))}
 
                   {/* PROS & CONS IN THE TABLE */}
