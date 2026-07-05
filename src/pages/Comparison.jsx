@@ -123,7 +123,7 @@ export default function Comparison() {
                       <th key={product.id} className="py-6 px-6 relative w-1/4 min-w-[200px]">
                         <div className="flex flex-col gap-3">
                           <div className="relative aspect-video w-32 rounded-lg overflow-hidden border border-[#1E1E24]">
-                            <img src={product.image} className="w-full h-full object-cover" alt={product.name} referrerPolicy="no-referrer" />
+                            <img src={product.image} className="w-full h-full object-cover" alt={product.name} />
                           </div>
                           <div>
                             <span className="text-[10px] font-mono text-[#E2B53E] uppercase tracking-wider">{product.brand}</span>

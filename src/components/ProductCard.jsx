@@ -51,7 +51,6 @@ function ProductImage({ src, alt, category }) {
         onLoad={() => setLoaded(true)}
         onError={() => { setErrored(true); setLoaded(true); }}
         className="w-full h-full object-contain group-hover:scale-105 transition-all duration-500 relative z-0"
-        referrerPolicy="no-referrer"
       />
     </div>
   );

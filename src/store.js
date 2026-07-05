@@ -2,6 +2,7 @@ import { create } from 'zustand';
 import { supabase } from './supabaseClient';
 import axios from 'axios';
 import { toast } from 'react-hot-toast';
+import { PRODUCTS, CATEGORIES } from './productsData';
 
 // 1. AUTH STORE
 export const useAuthStore = create((set) => ({
@@ -149,7 +150,31 @@ export const useProductStore = create((set, get) => ({
       set({ products: response.data, loading: false });
     } catch (err) {
       console.error("Error fetching products:", err);
-      set({ loading: false });
+      let filtered = [...PRODUCTS];
+      const activeFilters = queryFilters || get().filter;
+      if (activeFilters.category && activeFilters.category !== 'all') {
+        filtered = filtered.filter(p => p.category === activeFilters.category);
+      }
+      if (activeFilters.brand && activeFilters.brand !== 'all') {
+        filtered = filtered.filter(p => p.brand.toLowerCase() === String(activeFilters.brand).toLowerCase());
+      }
+      if (activeFilters.rating) {
+        filtered = filtered.filter(p => p.rating >= parseFloat(activeFilters.rating));
+      }
+      if (activeFilters.maxPrice) {
+        filtered = filtered.filter(p => p.price <= parseFloat(activeFilters.maxPrice));
+      }
+      const search = get().searchQuery;
+      if (search) {
+        const q = String(search).toLowerCase();
+        filtered = filtered.filter(p => 
+          p.name.toLowerCase().includes(q) || 
+          p.description.toLowerCase().includes(q) ||
+          p.brand.toLowerCase().includes(q) ||
+          p.keyFeatures.some(f => f.toLowerCase().includes(q))
+        );
+      }
+      set({ products: filtered, loading: false });
     }
   },
   fetchCategories: async () => {
@@ -158,6 +183,7 @@ export const useProductStore = create((set, get) => ({
       set({ categories: response.data });
     } catch (err) {
       console.error("Error fetching categories:", err);
+      set({ categories: CATEGORIES });
     }
   },
   fetchProductById: async (id) => {
@@ -166,7 +192,10 @@ export const useProductStore = create((set, get) => ({
       set({ selectedProduct: response.data });
       return response.data;
     } catch (err) {
-      const foundInCurrent = get().products.find(p => p.id === id);
+      let foundInCurrent = get().products.find(p => p.id === id);
+      if (!foundInCurrent) {
+        foundInCurrent = PRODUCTS.find(p => p.id === id);
+      }
       if (foundInCurrent) {
         set({ selectedProduct: foundInCurrent });
         return foundInCurrent;

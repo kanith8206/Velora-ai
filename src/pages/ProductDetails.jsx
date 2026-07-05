@@ -109,7 +109,6 @@ export default function ProductDetails() {
               onError={(e) => {
                 e.target.src = 'https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=600&auto=format&fit=crop&q=80';
               }}
-              referrerPolicy="no-referrer"
             />
             {product.discount > 0 && (
               <span className="absolute top-4 left-4 bg-rose-500 text-white text-[11px] font-bold px-3 py-1 rounded-md shadow-md uppercase tracking-wider">
