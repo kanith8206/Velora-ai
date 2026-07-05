@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://images.unsplash.com/photo-1618221118493-9cfa1a1c00da?q=80&w=2000&auto=format&fit=crop" alt="Velora AI Elegant Header" width="100%" style="border-radius: 12px; margin-bottom: 20px;"/>
+<img src="https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?q=80&w=2000&auto=format&fit=crop" alt="Velora AI AI Shopping Assistant" width="100%" style="border-radius: 12px; margin-bottom: 20px;"/>
 
 <h1 align="center" style="font-weight: 300; letter-spacing: 4px;">
   <br/>
