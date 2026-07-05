@@ -11,21 +11,21 @@ export const CATEGORIES = [
     "name": "Laptops",
     "description": "Premium notebooks for productivity, creativity, and development.",
     "icon": "Laptop",
-    "image": "https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?w=600&auto=format&fit=crop&q=80"
+    "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=600&auto=format&fit=crop&q=80"
   },
   {
     "id": "tablets",
     "name": "Tablets",
     "description": "Versatile tablets for entertainment, drawing, and portable work.",
     "icon": "Tablet",
-    "image": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?w=600&auto=format&fit=crop&q=80"
+    "image": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=600&auto=format&fit=crop&q=80"
   },
   {
     "id": "headphones",
     "name": "Headphones",
     "description": "Premium noise-canceling headphones and audiophile gear.",
     "icon": "Headphones",
-    "image": "https://images.unsplash.com/photo-1580910051074-3eb694886505?w=600&auto=format&fit=crop&q=80"
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600&auto=format&fit=crop&q=80"
   },
   {
     "id": "gaming",
