@@ -1,5 +1,6 @@
 import React from 'react';
 import { useProductStore } from '../store';
+import { PRODUCTS } from '../productsData';
 import { useNavigate, Link } from 'react-router-dom';
 import { 
   GitCompare, 
@@ -143,8 +144,9 @@ export default function Comparison() {
                     {comparisonList.map((product) => (
                       <th key={product.id} className="py-6 px-6 relative w-1/4 min-w-[200px]">
                         <div className="flex flex-col gap-3">
-                          <div className="relative aspect-video w-32 rounded-lg overflow-hidden border border-[#1E1E24]">
-                            <img src={product.image} className="w-full h-full object-cover" alt={product.name} />
+                          <div className="relative aspect-video w-32 rounded-lg overflow-hidden border border-[#1E1E24] bg-[#0C0C0F]">
+                            {/* Fetch fresh image from PRODUCTS in case local storage has stale URLs */}
+                            <img src={PRODUCTS.find(p => p.id === product.id)?.image || product.image} className="w-full h-full object-cover" alt={product.name} />
                           </div>
                           <div>
                             <span className="text-[10px] font-mono text-[#E2B53E] uppercase tracking-wider">{product.brand}</span>
