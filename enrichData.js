@@ -57,10 +57,10 @@ PRODUCTS.forEach(p => {
   }
 });
 
-const output = \`export const CATEGORIES = \${JSON.stringify(CATEGORIES, null, 2)};
+const output = `export const CATEGORIES = ${JSON.stringify(CATEGORIES, null, 2)};
 
-export const PRODUCTS = \${JSON.stringify(PRODUCTS, null, 2)};
-\`;
+export const PRODUCTS = ${JSON.stringify(PRODUCTS, null, 2)};
+`;
 
 fs.writeFileSync('src/productsData.js', output);
 console.log('Data enriched successfully!');

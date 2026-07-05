@@ -1,6 +1,6 @@
 import express from "express";
 import path from "path";
-import { GoogleGenAI } from "@google/genai";
+import Groq from "groq-sdk";
 import dotenv from "dotenv";
 
 // Load environment variables
@@ -14,8 +14,8 @@ const PORT = 3000;
 
 app.use(express.json());
 
-// Initialize Gemini API
-const ai = new GoogleGenAI({ apiKey: process.env.GEMINI_API_KEY });
+// Initialize Groq API
+const groq = new Groq({ apiKey: process.env.GROQ_API_KEY });
 
 // API 1: Get all products & search/filter
 app.get("/api/products", (req, res) => {
@@ -69,13 +69,21 @@ app.post("/api/recommend", async (req, res) => {
     return res.status(400).json({ error: "Messages array is required." });
   }
 
+const catalogSubset = PRODUCTS.slice(0, 10).map(p => ({
+    id: p.id,
+    name: p.name,
+    category: p.category,
+    price: p.price,
+    brand: p.brand
+  }));
+
   const systemInstruction = `
 You are Velora AI, a world-class premium shopping assistant and consultant.
 Your tagline: "Intelligent Shopping. Personalized Choices."
 Your style is professional, warm, minimalist, elegant, and expert (like a personal shopper at a luxury boutique or high-end technology store).
 
-Here is your local curated product catalog of high-quality items:
-${JSON.stringify(PRODUCTS, null, 2)}
+Here is a small sample of your local curated product catalog:
+${JSON.stringify(catalogSubset, null, 2)}
 
 Your guidelines:
 1. Understand the user's intent, budget, country, brand preferences, and specific requirements.
@@ -145,35 +153,49 @@ Ensure your markdown "reply" is engaging, beautiful, structured, and does not me
 
   try {
     const chatContent = messages.map((msg, index) => {
-      const parts = [{ text: msg.content || "Analyze this image and find matching products." }];
+      const content = [];
+      if (msg.content) {
+        content.push({ type: "text", text: msg.content });
+      } else {
+        content.push({ type: "text", text: "Analyze this image and find matching products." });
+      }
+
       if (index === messages.length - 1 && req.body.image) {
-        parts.push({
-          inlineData: {
-            mimeType: req.body.image.mimeType,
-            data: req.body.image.data
+        content.push({
+          type: "image_url",
+          image_url: {
+            url: `data:${req.body.image.mimeType};base64,${req.body.image.data}`
           }
         });
       }
+
       return {
-        role: msg.role === "assistant" ? "model" : "user",
-        parts
+        role: msg.role === "assistant" ? "assistant" : "user",
+        content
       };
     });
 
-    // Generate recommendation
-    const response = await ai.models.generateContent({
-      model: "gemini-2.0-flash-lite",
-      contents: chatContent,
-      config: {
-        systemInstruction,
-        responseMimeType: "application/json",
-        temperature: 0.2,
-      }
+    // Add system instruction as the first message
+    chatContent.unshift({
+      role: "system",
+      content: systemInstruction
     });
 
-    const text = response.text;
+    // Determine model (use vision model if there is an image, otherwise a fast model)
+    const hasImage = req.body.image ? true : false;
+    const model = hasImage ? "llama-3.2-11b-vision-preview" : "llama-3.3-70b-versatile";
+
+    // Generate recommendation
+    const response = await groq.chat.completions.create({
+      messages: chatContent,
+      model: model,
+      temperature: 0.2,
+      response_format: { type: "json_object" }
+    });
+
+    const text = response.choices[0]?.message?.content;
     if (!text) {
-      throw new Error("Empty response from Gemini AI");
+      throw new Error("Empty response from Groq AI");
     }
 
     // Clean and try parsing the JSON
@@ -188,7 +210,7 @@ Ensure your markdown "reply" is engaging, beautiful, structured, and does not me
     res.json(parsed);
 
   } catch (error) {
-    console.error("Gemini AI API Error:", error?.message || error);
+    console.error("Groq AI API Error:", error?.message || error);
     console.error("Error status:", error?.status);
     console.error("Error details:", JSON.stringify(error?.errorDetails || {}, null, 2));
     
