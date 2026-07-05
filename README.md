@@ -169,6 +169,40 @@ Open **`http://localhost:3000`** in your browser and experience instant AI shopp
 
 ---
 
+## 💡 Use Cases & Applications
+
+Velora AI isn't just a prototype; it's a blueprint for the future of various industries:
+* **High-End Retail:** Luxury brands can offer hyper-personalized 1-on-1 digital consultations.
+* **Complex Electronics:** Demystify technical jargon by letting AI explain specs to everyday consumers.
+* **Automotive Sales:** Help buyers compare trims, features, and pricing through natural dialogue.
+* **B2B Procurement:** Streamline bulk ordering and vendor comparisons via conversational interfaces.
+
+---
+
+## 🤝 Contributing
+
+We welcome contributions from the open-source community to make Velora AI even better. 
+
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+---
+
+## 📝 License
+
+Distributed under the MIT License. See `LICENSE` for more information. This means you are free to use, modify, and distribute the code for both commercial and non-commercial purposes.
+
+---
+
+## 📬 Contact & Support
+
+If you have any questions, encounter issues, or want to discuss enterprise implementations, please open an issue in this repository.
+
+<br/>
+
 <div align="center">
   <br/>
   <i>Crafted with passion for the future of e-commerce.</i>
