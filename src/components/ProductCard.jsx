@@ -56,7 +56,12 @@ function ProductImage({ src, alt, category }) {
   );
 }
 
-export default function ProductCard({ product }) {
+import { PRODUCTS } from '../productsData';
+
+export default function ProductCard({ product: initialProduct }) {
+  // Always use the freshest product data from the database to avoid stale local storage cache
+  const product = PRODUCTS.find(p => p.id === initialProduct?.id) || initialProduct;
+  
   const { user } = useAuthStore();
   const { addToWishlist, removeFromWishlist, isInWishlist } = useWishlistStore();
   const { comparisonList, addToComparison, removeFromComparison } = useProductStore();
