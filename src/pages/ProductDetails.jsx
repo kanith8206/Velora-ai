@@ -103,11 +103,11 @@ export default function ProductDetails() {
         <div className="space-y-4">
           <div className="relative aspect-square w-full rounded-2xl overflow-hidden border border-[#1E1E24] bg-[#0C0C0F] shadow-xl">
             <img 
-              src={product.image || 'https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=600&auto=format&fit=crop&q=80'} 
+              src={product.image || 'https://wsrv.nl/?url=https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=600&auto=format&fit=crop&q=80'} 
               alt={product.name} 
               className="w-full h-full object-contain p-4"
               onError={(e) => {
-                e.target.src = 'https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=600&auto=format&fit=crop&q=80';
+                e.target.src = 'https://wsrv.nl/?url=https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=600&auto=format&fit=crop&q=80';
               }}
             />
             {product.discount > 0 && (
