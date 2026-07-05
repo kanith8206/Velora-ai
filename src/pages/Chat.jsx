@@ -74,6 +74,8 @@ export default function Chat() {
     initFetch();
   }, [user]);
 
+  const processedPrompt = useRef(null);
+
   // Handle URL auto-prompting after conversations load
   useEffect(() => {
     if (user && conversations.length > 0 && !activeConversation) {
@@ -85,7 +87,8 @@ export default function Chat() {
     const params = new URLSearchParams(location.search);
     const urlPrompt = params.get('prompt');
     
-    if (urlPrompt && user) {
+    if (urlPrompt && user && processedPrompt.current !== urlPrompt) {
+      processedPrompt.current = urlPrompt;
       const runAutoPrompt = async () => {
         // Start a fresh conversation
         await startNewChat(user.uid);
@@ -98,7 +101,7 @@ export default function Chat() {
       };
       runAutoPrompt();
     }
-  }, [conversations, user, location]);
+  }, [conversations, user, location.search]);
 
   // Auto Scroll
   useEffect(() => {
