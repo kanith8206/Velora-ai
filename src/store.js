@@ -147,6 +147,9 @@ export const useProductStore = create((set, get) => ({
     try {
       const activeFilters = queryFilters || get().filter;
       const response = await axios.get('/api/products', { params: { ...activeFilters, search: get().searchQuery } });
+      if (typeof response.data === 'string' || !Array.isArray(response.data)) {
+        throw new Error("Received non-JSON or HTML response instead of array.");
+      }
       set({ products: response.data, loading: false });
     } catch (err) {
       console.error("Error fetching products:", err);
@@ -180,6 +183,9 @@ export const useProductStore = create((set, get) => ({
   fetchCategories: async () => {
     try {
       const response = await axios.get('/api/categories');
+      if (typeof response.data === 'string' || !Array.isArray(response.data)) {
+        throw new Error("Received non-JSON or HTML response instead of array.");
+      }
       set({ categories: response.data });
     } catch (err) {
       console.error("Error fetching categories:", err);
@@ -189,6 +195,9 @@ export const useProductStore = create((set, get) => ({
   fetchProductById: async (id) => {
     try {
       const response = await axios.get(`/api/products/${id}`);
+      if (typeof response.data === 'string') {
+        throw new Error("Received non-JSON or HTML response.");
+      }
       set({ selectedProduct: response.data });
       return response.data;
     } catch (err) {
