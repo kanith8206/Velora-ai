@@ -1,7 +1,6 @@
-const fs = require('fs');
+import fs from 'fs';
 
 async function updateSpecs() {
-  const content = fs.readFileSync('src/productsData.js', 'utf8');
   const { PRODUCTS, CATEGORIES } = await import('./src/productsData.js');
 
   const updatedProducts = PRODUCTS.map((p, index) => {
@@ -47,7 +46,7 @@ async function updateSpecs() {
       newSpecs.Storage = 'N/A';
     }
 
-    // Add slightly unique modifier to ensure it's "not repeted"
+    // Add slightly unique modifier to ensure it's "not repeated"
     if (newSpecs.Battery && newSpecs.Battery.includes('mAh')) {
       const variation = Math.floor(Math.random() * 5) * 100;
       newSpecs.Battery = newSpecs.Battery.replace(/4500|5000|8000/, (match) => parseInt(match) + variation - 200 + "");

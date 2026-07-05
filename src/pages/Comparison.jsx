@@ -24,17 +24,21 @@ export default function Comparison() {
     clearComparison();
   };
 
+  // Gather dynamic specs from all products in the comparison list
+  const allSpecKeys = Array.from(
+    new Set(comparisonList.flatMap(p => Object.keys(p.specs || {})))
+  );
+
   const metrics = [
     { name: 'Price', key: 'price', format: (v) => `$${v.toLocaleString()}` },
     { name: 'Discount', key: 'discount', format: (v) => v > 0 ? `${v}% OFF` : 'None' },
     { name: 'Rating', key: 'rating', format: (v) => `${v} / 5.0` },
     { name: 'Brand', key: 'brand' },
     { name: 'Availability', key: 'availability' },
-    { name: 'Display Specs', specKey: 'Display' },
-    { name: 'Processor / CPU', specKey: 'Processor' },
-    { name: 'Camera Array', specKey: 'Camera' },
-    { name: 'Battery Specs', specKey: 'Battery' },
-    { name: 'Storage Bounds', specKey: 'Storage' },
+    ...allSpecKeys.map(key => ({
+      name: key,
+      specKey: key,
+    }))
   ];
 
   // Logic to determine overall winner among current items (simple heuristic based on rating & pricing value ratio)
