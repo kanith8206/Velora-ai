@@ -138,7 +138,85 @@ export const PRODUCTS = [
     "aiScore": 85,
     "trending": true,
     "newArrival": true,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "Cpu",
+        "text": "8 GB RAM | 256 GB ROM"
+      },
+      {
+        "icon": "Microchip",
+        "text": "Tensor G3 | Nona Core"
+      },
+      {
+        "icon": "Camera",
+        "text": "48MP + 12MP + 12MP Rear Camera"
+      },
+      {
+        "icon": "CameraFront",
+        "text": "16MP Front Camera"
+      },
+      {
+        "icon": "Smartphone",
+        "text": "6.7 inch Super AMOLED Display"
+      },
+      {
+        "icon": "Battery",
+        "text": "4500 mAh Battery"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "specs": {
+          "Brand": "Apple",
+          "Model Name": "Apple iPhone 15 Pro Max",
+          "Color": "Aura Glow",
+          "In The Box": "1 x Handset, 1 x Charger, 1 x USB Cable, 1 x SIM Ejector, 1 x Quick Guide",
+          "SIM Type": "Dual Sim"
+        }
+      },
+      {
+        "title": "Display Features",
+        "specs": {
+          "Display Size": "6.7 inch Super AMOLED Display",
+          "Resolution": "2796 x 1290 Pixels",
+          "Display Type": "OLED / AMOLED",
+          "Refresh Rate": "120 Hz"
+        }
+      },
+      {
+        "title": "Os & Processor Features",
+        "specs": {
+          "Operating System": "Android 14",
+          "Processor Type": "Tensor G3",
+          "Processor Core": "Nona Core"
+        }
+      },
+      {
+        "title": "Memory & Storage Features",
+        "specs": {
+          "Internal Storage": "256 GB ROM",
+          "RAM": "8 GB RAM"
+        }
+      },
+      {
+        "title": "Camera Features",
+        "specs": {
+          "Primary Camera": "48MP + 12MP + 12MP",
+          "Secondary Camera": "16MP",
+          "Flash": "LED Flash",
+          "Video Recording": "4K @ 60fps"
+        }
+      },
+      {
+        "title": "Battery & Power Features",
+        "specs": {
+          "Battery Capacity": "4500 mAh",
+          "Fast Charging": "Yes"
+        }
+      }
+    ]
   },
   {
     "id": "phones-apple-iphone-15-2",
@@ -185,7 +263,85 @@ export const PRODUCTS = [
     "aiScore": 86,
     "trending": false,
     "newArrival": false,
-    "bestSeller": false
+    "bestSeller": false,
+    "highlights": [
+      {
+        "icon": "Cpu",
+        "text": "8 GB RAM | 128 GB ROM"
+      },
+      {
+        "icon": "Microchip",
+        "text": "Snapdragon 8 Gen 3 | Octa Core | 3.3 GHz"
+      },
+      {
+        "icon": "Camera",
+        "text": "200MP + 50MP + 12MP Rear Camera"
+      },
+      {
+        "icon": "CameraFront",
+        "text": "32MP Front Camera"
+      },
+      {
+        "icon": "Smartphone",
+        "text": "6.78 inch LTPO AMOLED"
+      },
+      {
+        "icon": "Battery",
+        "text": "4422 mAh Battery"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "specs": {
+          "Brand": "Apple",
+          "Model Name": "Apple iPhone 15",
+          "Color": "Aura Glow",
+          "In The Box": "1 x Handset, 1 x Charger, 1 x USB Cable, 1 x SIM Ejector, 1 x Quick Guide",
+          "SIM Type": "Dual Sim"
+        }
+      },
+      {
+        "title": "Display Features",
+        "specs": {
+          "Display Size": "6.78 inch LTPO AMOLED",
+          "Resolution": "2796 x 1290 Pixels",
+          "Display Type": "OLED / AMOLED",
+          "Refresh Rate": "120 Hz"
+        }
+      },
+      {
+        "title": "Os & Processor Features",
+        "specs": {
+          "Operating System": "Android 13",
+          "Processor Type": "Snapdragon 8 Gen 3",
+          "Processor Core": "Octa Core"
+        }
+      },
+      {
+        "title": "Memory & Storage Features",
+        "specs": {
+          "Internal Storage": "128 GB ROM",
+          "RAM": "8 GB RAM"
+        }
+      },
+      {
+        "title": "Camera Features",
+        "specs": {
+          "Primary Camera": "200MP + 50MP + 12MP",
+          "Secondary Camera": "32MP",
+          "Flash": "LED Flash",
+          "Video Recording": "4K @ 60fps"
+        }
+      },
+      {
+        "title": "Battery & Power Features",
+        "specs": {
+          "Battery Capacity": "4422 mAh",
+          "Fast Charging": "Yes"
+        }
+      }
+    ]
   },
   {
     "id": "phones-apple-iphone-14-pro-3",
@@ -232,7 +388,85 @@ export const PRODUCTS = [
     "aiScore": 87,
     "trending": false,
     "newArrival": false,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "Cpu",
+        "text": "16 GB RAM | 512 GB ROM"
+      },
+      {
+        "icon": "Microchip",
+        "text": "Dimensity 9300 | Octa Core | 3.25 GHz"
+      },
+      {
+        "icon": "Camera",
+        "text": "108MP + 8MP + 2MP Rear Camera"
+      },
+      {
+        "icon": "CameraFront",
+        "text": "32MP Front Camera"
+      },
+      {
+        "icon": "Smartphone",
+        "text": "6.8 inch Dynamic AMOLED 2X"
+      },
+      {
+        "icon": "Battery",
+        "text": "6000 mAh Battery"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "specs": {
+          "Brand": "Apple",
+          "Model Name": "Apple iPhone 14 Pro",
+          "Color": "Titanium Black",
+          "In The Box": "1 x Handset, 1 x Charger, 1 x USB Cable, 1 x SIM Ejector, 1 x Quick Guide",
+          "SIM Type": "Dual Sim"
+        }
+      },
+      {
+        "title": "Display Features",
+        "specs": {
+          "Display Size": "6.8 inch Dynamic AMOLED 2X",
+          "Resolution": "2796 x 1290 Pixels",
+          "Display Type": "OLED / AMOLED",
+          "Refresh Rate": "120 Hz"
+        }
+      },
+      {
+        "title": "Os & Processor Features",
+        "specs": {
+          "Operating System": "Android 14",
+          "Processor Type": "Dimensity 9300",
+          "Processor Core": "Octa Core"
+        }
+      },
+      {
+        "title": "Memory & Storage Features",
+        "specs": {
+          "Internal Storage": "512 GB ROM",
+          "RAM": "16 GB RAM"
+        }
+      },
+      {
+        "title": "Camera Features",
+        "specs": {
+          "Primary Camera": "108MP + 8MP + 2MP",
+          "Secondary Camera": "32MP",
+          "Flash": "LED Flash",
+          "Video Recording": "4K @ 60fps"
+        }
+      },
+      {
+        "title": "Battery & Power Features",
+        "specs": {
+          "Battery Capacity": "6000 mAh",
+          "Fast Charging": "Yes"
+        }
+      }
+    ]
   },
   {
     "id": "phones-apple-iphone-se-4",
@@ -279,7 +513,85 @@ export const PRODUCTS = [
     "aiScore": 88,
     "trending": true,
     "newArrival": false,
-    "bestSeller": false
+    "bestSeller": false,
+    "highlights": [
+      {
+        "icon": "Cpu",
+        "text": "12 GB RAM | 256 GB ROM"
+      },
+      {
+        "icon": "Microchip",
+        "text": "Apple A17 Pro | Hexa Core"
+      },
+      {
+        "icon": "Camera",
+        "text": "50MP + 12MP + 10MP Rear Camera"
+      },
+      {
+        "icon": "CameraFront",
+        "text": "32MP Front Camera"
+      },
+      {
+        "icon": "Smartphone",
+        "text": "6.78 inch LTPO AMOLED"
+      },
+      {
+        "icon": "Battery",
+        "text": "5000 mAh Battery"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "specs": {
+          "Brand": "Apple",
+          "Model Name": "Apple iPhone SE",
+          "Color": "Phantom Silver",
+          "In The Box": "1 x Handset, 1 x Charger, 1 x USB Cable, 1 x SIM Ejector, 1 x Quick Guide",
+          "SIM Type": "Dual Sim"
+        }
+      },
+      {
+        "title": "Display Features",
+        "specs": {
+          "Display Size": "6.78 inch LTPO AMOLED",
+          "Resolution": "2796 x 1290 Pixels",
+          "Display Type": "OLED / AMOLED",
+          "Refresh Rate": "120 Hz"
+        }
+      },
+      {
+        "title": "Os & Processor Features",
+        "specs": {
+          "Operating System": "Android 14",
+          "Processor Type": "Apple A17 Pro",
+          "Processor Core": "Hexa Core"
+        }
+      },
+      {
+        "title": "Memory & Storage Features",
+        "specs": {
+          "Internal Storage": "256 GB ROM",
+          "RAM": "12 GB RAM"
+        }
+      },
+      {
+        "title": "Camera Features",
+        "specs": {
+          "Primary Camera": "50MP + 12MP + 10MP",
+          "Secondary Camera": "32MP",
+          "Flash": "LED Flash",
+          "Video Recording": "4K @ 60fps"
+        }
+      },
+      {
+        "title": "Battery & Power Features",
+        "specs": {
+          "Battery Capacity": "5000 mAh",
+          "Fast Charging": "Yes"
+        }
+      }
+    ]
   },
   {
     "id": "phones-samsung-galaxy-s24-ultra-5",
@@ -326,7 +638,85 @@ export const PRODUCTS = [
     "aiScore": 85,
     "trending": true,
     "newArrival": true,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "Cpu",
+        "text": "8 GB RAM | 128 GB ROM"
+      },
+      {
+        "icon": "Microchip",
+        "text": "Snapdragon 8 Gen 3 | Octa Core | 3.3 GHz"
+      },
+      {
+        "icon": "Camera",
+        "text": "48MP + 12MP + 12MP Rear Camera"
+      },
+      {
+        "icon": "CameraFront",
+        "text": "16MP Front Camera"
+      },
+      {
+        "icon": "Smartphone",
+        "text": "6.8 inch Dynamic AMOLED 2X"
+      },
+      {
+        "icon": "Battery",
+        "text": "4500 mAh Battery"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "specs": {
+          "Brand": "Samsung",
+          "Model Name": "Samsung Galaxy S24 Ultra",
+          "Color": "Phantom Silver",
+          "In The Box": "1 x Handset, 1 x Charger, 1 x USB Cable, 1 x SIM Ejector, 1 x Quick Guide",
+          "SIM Type": "Dual Sim"
+        }
+      },
+      {
+        "title": "Display Features",
+        "specs": {
+          "Display Size": "6.8 inch Dynamic AMOLED 2X",
+          "Resolution": "2796 x 1290 Pixels",
+          "Display Type": "OLED / AMOLED",
+          "Refresh Rate": "120 Hz"
+        }
+      },
+      {
+        "title": "Os & Processor Features",
+        "specs": {
+          "Operating System": "iOS 17",
+          "Processor Type": "Snapdragon 8 Gen 3",
+          "Processor Core": "Octa Core"
+        }
+      },
+      {
+        "title": "Memory & Storage Features",
+        "specs": {
+          "Internal Storage": "128 GB ROM",
+          "RAM": "8 GB RAM"
+        }
+      },
+      {
+        "title": "Camera Features",
+        "specs": {
+          "Primary Camera": "48MP + 12MP + 12MP",
+          "Secondary Camera": "16MP",
+          "Flash": "LED Flash",
+          "Video Recording": "4K @ 60fps"
+        }
+      },
+      {
+        "title": "Battery & Power Features",
+        "specs": {
+          "Battery Capacity": "4500 mAh",
+          "Fast Charging": "Yes"
+        }
+      }
+    ]
   },
   {
     "id": "phones-samsung-galaxy-s24--6",
@@ -373,7 +763,85 @@ export const PRODUCTS = [
     "aiScore": 86,
     "trending": false,
     "newArrival": false,
-    "bestSeller": false
+    "bestSeller": false,
+    "highlights": [
+      {
+        "icon": "Cpu",
+        "text": "12 GB RAM | 256 GB ROM"
+      },
+      {
+        "icon": "Microchip",
+        "text": "Apple A17 Pro | Hexa Core"
+      },
+      {
+        "icon": "Camera",
+        "text": "200MP + 50MP + 12MP Rear Camera"
+      },
+      {
+        "icon": "CameraFront",
+        "text": "12MP Front Camera"
+      },
+      {
+        "icon": "Smartphone",
+        "text": "6.1 inch Super Retina XDR"
+      },
+      {
+        "icon": "Battery",
+        "text": "5000 mAh Battery"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "specs": {
+          "Brand": "Samsung",
+          "Model Name": "Samsung Galaxy S24+",
+          "Color": "Titanium Black",
+          "In The Box": "1 x Handset, 1 x Charger, 1 x USB Cable, 1 x SIM Ejector, 1 x Quick Guide",
+          "SIM Type": "Dual Sim"
+        }
+      },
+      {
+        "title": "Display Features",
+        "specs": {
+          "Display Size": "6.1 inch Super Retina XDR",
+          "Resolution": "2796 x 1290 Pixels",
+          "Display Type": "OLED / AMOLED",
+          "Refresh Rate": "120 Hz"
+        }
+      },
+      {
+        "title": "Os & Processor Features",
+        "specs": {
+          "Operating System": "Android 13",
+          "Processor Type": "Apple A17 Pro",
+          "Processor Core": "Hexa Core"
+        }
+      },
+      {
+        "title": "Memory & Storage Features",
+        "specs": {
+          "Internal Storage": "256 GB ROM",
+          "RAM": "12 GB RAM"
+        }
+      },
+      {
+        "title": "Camera Features",
+        "specs": {
+          "Primary Camera": "200MP + 50MP + 12MP",
+          "Secondary Camera": "12MP",
+          "Flash": "LED Flash",
+          "Video Recording": "4K @ 60fps"
+        }
+      },
+      {
+        "title": "Battery & Power Features",
+        "specs": {
+          "Battery Capacity": "5000 mAh",
+          "Fast Charging": "Yes"
+        }
+      }
+    ]
   },
   {
     "id": "phones-samsung-galaxy-z-fold-5-7",
@@ -420,7 +888,85 @@ export const PRODUCTS = [
     "aiScore": 87,
     "trending": false,
     "newArrival": false,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "Cpu",
+        "text": "8 GB RAM | 256 GB ROM"
+      },
+      {
+        "icon": "Microchip",
+        "text": "Snapdragon 8 Gen 3 | Octa Core | 3.3 GHz"
+      },
+      {
+        "icon": "Camera",
+        "text": "200MP + 50MP + 12MP Rear Camera"
+      },
+      {
+        "icon": "CameraFront",
+        "text": "12MP Front Camera"
+      },
+      {
+        "icon": "Smartphone",
+        "text": "6.1 inch Super Retina XDR"
+      },
+      {
+        "icon": "Battery",
+        "text": "4422 mAh Battery"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "specs": {
+          "Brand": "Samsung",
+          "Model Name": "Samsung Galaxy Z Fold 5",
+          "Color": "Space Gray",
+          "In The Box": "1 x Handset, 1 x Charger, 1 x USB Cable, 1 x SIM Ejector, 1 x Quick Guide",
+          "SIM Type": "Dual Sim"
+        }
+      },
+      {
+        "title": "Display Features",
+        "specs": {
+          "Display Size": "6.1 inch Super Retina XDR",
+          "Resolution": "2796 x 1290 Pixels",
+          "Display Type": "OLED / AMOLED",
+          "Refresh Rate": "120 Hz"
+        }
+      },
+      {
+        "title": "Os & Processor Features",
+        "specs": {
+          "Operating System": "Android 13",
+          "Processor Type": "Snapdragon 8 Gen 3",
+          "Processor Core": "Octa Core"
+        }
+      },
+      {
+        "title": "Memory & Storage Features",
+        "specs": {
+          "Internal Storage": "256 GB ROM",
+          "RAM": "8 GB RAM"
+        }
+      },
+      {
+        "title": "Camera Features",
+        "specs": {
+          "Primary Camera": "200MP + 50MP + 12MP",
+          "Secondary Camera": "12MP",
+          "Flash": "LED Flash",
+          "Video Recording": "4K @ 60fps"
+        }
+      },
+      {
+        "title": "Battery & Power Features",
+        "specs": {
+          "Battery Capacity": "4422 mAh",
+          "Fast Charging": "Yes"
+        }
+      }
+    ]
   },
   {
     "id": "phones-samsung-galaxy-z-flip-5-8",
@@ -467,7 +1013,85 @@ export const PRODUCTS = [
     "aiScore": 88,
     "trending": true,
     "newArrival": false,
-    "bestSeller": false
+    "bestSeller": false,
+    "highlights": [
+      {
+        "icon": "Cpu",
+        "text": "12 GB RAM | 256 GB ROM"
+      },
+      {
+        "icon": "Microchip",
+        "text": "Tensor G3 | Nona Core"
+      },
+      {
+        "icon": "Camera",
+        "text": "108MP + 8MP + 2MP Rear Camera"
+      },
+      {
+        "icon": "CameraFront",
+        "text": "12MP Front Camera"
+      },
+      {
+        "icon": "Smartphone",
+        "text": "6.8 inch Dynamic AMOLED 2X"
+      },
+      {
+        "icon": "Battery",
+        "text": "5000 mAh Battery"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "specs": {
+          "Brand": "Samsung",
+          "Model Name": "Samsung Galaxy Z Flip 5",
+          "Color": "Phantom Silver",
+          "In The Box": "1 x Handset, 1 x Charger, 1 x USB Cable, 1 x SIM Ejector, 1 x Quick Guide",
+          "SIM Type": "Dual Sim"
+        }
+      },
+      {
+        "title": "Display Features",
+        "specs": {
+          "Display Size": "6.8 inch Dynamic AMOLED 2X",
+          "Resolution": "2796 x 1290 Pixels",
+          "Display Type": "OLED / AMOLED",
+          "Refresh Rate": "120 Hz"
+        }
+      },
+      {
+        "title": "Os & Processor Features",
+        "specs": {
+          "Operating System": "iOS 17",
+          "Processor Type": "Tensor G3",
+          "Processor Core": "Nona Core"
+        }
+      },
+      {
+        "title": "Memory & Storage Features",
+        "specs": {
+          "Internal Storage": "256 GB ROM",
+          "RAM": "12 GB RAM"
+        }
+      },
+      {
+        "title": "Camera Features",
+        "specs": {
+          "Primary Camera": "108MP + 8MP + 2MP",
+          "Secondary Camera": "12MP",
+          "Flash": "LED Flash",
+          "Video Recording": "4K @ 60fps"
+        }
+      },
+      {
+        "title": "Battery & Power Features",
+        "specs": {
+          "Battery Capacity": "5000 mAh",
+          "Fast Charging": "Yes"
+        }
+      }
+    ]
   },
   {
     "id": "phones-samsung-galaxy-a54-9",
@@ -514,7 +1138,85 @@ export const PRODUCTS = [
     "aiScore": 89,
     "trending": false,
     "newArrival": true,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "Cpu",
+        "text": "8 GB RAM | 128 GB ROM"
+      },
+      {
+        "icon": "Microchip",
+        "text": "Dimensity 9300 | Octa Core | 3.25 GHz"
+      },
+      {
+        "icon": "Camera",
+        "text": "200MP + 50MP + 12MP Rear Camera"
+      },
+      {
+        "icon": "CameraFront",
+        "text": "16MP Front Camera"
+      },
+      {
+        "icon": "Smartphone",
+        "text": "6.78 inch LTPO AMOLED"
+      },
+      {
+        "icon": "Battery",
+        "text": "4422 mAh Battery"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "specs": {
+          "Brand": "Samsung",
+          "Model Name": "Samsung Galaxy A54",
+          "Color": "Aura Glow",
+          "In The Box": "1 x Handset, 1 x Charger, 1 x USB Cable, 1 x SIM Ejector, 1 x Quick Guide",
+          "SIM Type": "Dual Sim"
+        }
+      },
+      {
+        "title": "Display Features",
+        "specs": {
+          "Display Size": "6.78 inch LTPO AMOLED",
+          "Resolution": "2796 x 1290 Pixels",
+          "Display Type": "OLED / AMOLED",
+          "Refresh Rate": "120 Hz"
+        }
+      },
+      {
+        "title": "Os & Processor Features",
+        "specs": {
+          "Operating System": "iOS 17",
+          "Processor Type": "Dimensity 9300",
+          "Processor Core": "Octa Core"
+        }
+      },
+      {
+        "title": "Memory & Storage Features",
+        "specs": {
+          "Internal Storage": "128 GB ROM",
+          "RAM": "8 GB RAM"
+        }
+      },
+      {
+        "title": "Camera Features",
+        "specs": {
+          "Primary Camera": "200MP + 50MP + 12MP",
+          "Secondary Camera": "16MP",
+          "Flash": "LED Flash",
+          "Video Recording": "4K @ 60fps"
+        }
+      },
+      {
+        "title": "Battery & Power Features",
+        "specs": {
+          "Battery Capacity": "4422 mAh",
+          "Fast Charging": "Yes"
+        }
+      }
+    ]
   },
   {
     "id": "phones-google-pixel-8-pro-10",
@@ -561,7 +1263,85 @@ export const PRODUCTS = [
     "aiScore": 85,
     "trending": true,
     "newArrival": true,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "Cpu",
+        "text": "16 GB RAM | 512 GB ROM"
+      },
+      {
+        "icon": "Microchip",
+        "text": "Dimensity 9300 | Octa Core | 3.25 GHz"
+      },
+      {
+        "icon": "Camera",
+        "text": "200MP + 50MP + 12MP Rear Camera"
+      },
+      {
+        "icon": "CameraFront",
+        "text": "32MP Front Camera"
+      },
+      {
+        "icon": "Smartphone",
+        "text": "6.7 inch Super AMOLED Display"
+      },
+      {
+        "icon": "Battery",
+        "text": "4422 mAh Battery"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "specs": {
+          "Brand": "Google",
+          "Model Name": "Google Pixel 8 Pro",
+          "Color": "Phantom Silver",
+          "In The Box": "1 x Handset, 1 x Charger, 1 x USB Cable, 1 x SIM Ejector, 1 x Quick Guide",
+          "SIM Type": "Dual Sim"
+        }
+      },
+      {
+        "title": "Display Features",
+        "specs": {
+          "Display Size": "6.7 inch Super AMOLED Display",
+          "Resolution": "2796 x 1290 Pixels",
+          "Display Type": "OLED / AMOLED",
+          "Refresh Rate": "120 Hz"
+        }
+      },
+      {
+        "title": "Os & Processor Features",
+        "specs": {
+          "Operating System": "Android 13",
+          "Processor Type": "Dimensity 9300",
+          "Processor Core": "Octa Core"
+        }
+      },
+      {
+        "title": "Memory & Storage Features",
+        "specs": {
+          "Internal Storage": "512 GB ROM",
+          "RAM": "16 GB RAM"
+        }
+      },
+      {
+        "title": "Camera Features",
+        "specs": {
+          "Primary Camera": "200MP + 50MP + 12MP",
+          "Secondary Camera": "32MP",
+          "Flash": "LED Flash",
+          "Video Recording": "4K @ 60fps"
+        }
+      },
+      {
+        "title": "Battery & Power Features",
+        "specs": {
+          "Battery Capacity": "4422 mAh",
+          "Fast Charging": "Yes"
+        }
+      }
+    ]
   },
   {
     "id": "phones-google-pixel-8-11",
@@ -608,7 +1388,85 @@ export const PRODUCTS = [
     "aiScore": 86,
     "trending": false,
     "newArrival": false,
-    "bestSeller": false
+    "bestSeller": false,
+    "highlights": [
+      {
+        "icon": "Cpu",
+        "text": "8 GB RAM | 256 GB ROM"
+      },
+      {
+        "icon": "Microchip",
+        "text": "Snapdragon 8 Gen 3 | Octa Core | 3.3 GHz"
+      },
+      {
+        "icon": "Camera",
+        "text": "50MP + 12MP + 10MP Rear Camera"
+      },
+      {
+        "icon": "CameraFront",
+        "text": "12MP Front Camera"
+      },
+      {
+        "icon": "Smartphone",
+        "text": "6.7 inch Super AMOLED Display"
+      },
+      {
+        "icon": "Battery",
+        "text": "4422 mAh Battery"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "specs": {
+          "Brand": "Google",
+          "Model Name": "Google Pixel 8",
+          "Color": "Space Gray",
+          "In The Box": "1 x Handset, 1 x Charger, 1 x USB Cable, 1 x SIM Ejector, 1 x Quick Guide",
+          "SIM Type": "Dual Sim"
+        }
+      },
+      {
+        "title": "Display Features",
+        "specs": {
+          "Display Size": "6.7 inch Super AMOLED Display",
+          "Resolution": "2796 x 1290 Pixels",
+          "Display Type": "OLED / AMOLED",
+          "Refresh Rate": "120 Hz"
+        }
+      },
+      {
+        "title": "Os & Processor Features",
+        "specs": {
+          "Operating System": "Android 14",
+          "Processor Type": "Snapdragon 8 Gen 3",
+          "Processor Core": "Octa Core"
+        }
+      },
+      {
+        "title": "Memory & Storage Features",
+        "specs": {
+          "Internal Storage": "256 GB ROM",
+          "RAM": "8 GB RAM"
+        }
+      },
+      {
+        "title": "Camera Features",
+        "specs": {
+          "Primary Camera": "50MP + 12MP + 10MP",
+          "Secondary Camera": "12MP",
+          "Flash": "LED Flash",
+          "Video Recording": "4K @ 60fps"
+        }
+      },
+      {
+        "title": "Battery & Power Features",
+        "specs": {
+          "Battery Capacity": "4422 mAh",
+          "Fast Charging": "Yes"
+        }
+      }
+    ]
   },
   {
     "id": "phones-google-pixel-7a-12",
@@ -655,7 +1513,85 @@ export const PRODUCTS = [
     "aiScore": 87,
     "trending": false,
     "newArrival": false,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "Cpu",
+        "text": "8 GB RAM | 128 GB ROM"
+      },
+      {
+        "icon": "Microchip",
+        "text": "Dimensity 9300 | Octa Core | 3.25 GHz"
+      },
+      {
+        "icon": "Camera",
+        "text": "48MP + 12MP + 12MP Rear Camera"
+      },
+      {
+        "icon": "CameraFront",
+        "text": "16MP Front Camera"
+      },
+      {
+        "icon": "Smartphone",
+        "text": "6.7 inch Super AMOLED Display"
+      },
+      {
+        "icon": "Battery",
+        "text": "5000 mAh Battery"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "specs": {
+          "Brand": "Google",
+          "Model Name": "Google Pixel 7a",
+          "Color": "Titanium Black",
+          "In The Box": "1 x Handset, 1 x Charger, 1 x USB Cable, 1 x SIM Ejector, 1 x Quick Guide",
+          "SIM Type": "Dual Sim"
+        }
+      },
+      {
+        "title": "Display Features",
+        "specs": {
+          "Display Size": "6.7 inch Super AMOLED Display",
+          "Resolution": "2796 x 1290 Pixels",
+          "Display Type": "OLED / AMOLED",
+          "Refresh Rate": "120 Hz"
+        }
+      },
+      {
+        "title": "Os & Processor Features",
+        "specs": {
+          "Operating System": "Android 14",
+          "Processor Type": "Dimensity 9300",
+          "Processor Core": "Octa Core"
+        }
+      },
+      {
+        "title": "Memory & Storage Features",
+        "specs": {
+          "Internal Storage": "128 GB ROM",
+          "RAM": "8 GB RAM"
+        }
+      },
+      {
+        "title": "Camera Features",
+        "specs": {
+          "Primary Camera": "48MP + 12MP + 12MP",
+          "Secondary Camera": "16MP",
+          "Flash": "LED Flash",
+          "Video Recording": "4K @ 60fps"
+        }
+      },
+      {
+        "title": "Battery & Power Features",
+        "specs": {
+          "Battery Capacity": "5000 mAh",
+          "Fast Charging": "Yes"
+        }
+      }
+    ]
   },
   {
     "id": "phones-google-pixel-fold-13",
@@ -702,7 +1638,85 @@ export const PRODUCTS = [
     "aiScore": 88,
     "trending": true,
     "newArrival": false,
-    "bestSeller": false
+    "bestSeller": false,
+    "highlights": [
+      {
+        "icon": "Cpu",
+        "text": "12 GB RAM | 256 GB ROM"
+      },
+      {
+        "icon": "Microchip",
+        "text": "Snapdragon 8 Gen 3 | Octa Core | 3.3 GHz"
+      },
+      {
+        "icon": "Camera",
+        "text": "200MP + 50MP + 12MP Rear Camera"
+      },
+      {
+        "icon": "CameraFront",
+        "text": "32MP Front Camera"
+      },
+      {
+        "icon": "Smartphone",
+        "text": "6.1 inch Super Retina XDR"
+      },
+      {
+        "icon": "Battery",
+        "text": "4500 mAh Battery"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "specs": {
+          "Brand": "Google",
+          "Model Name": "Google Pixel Fold",
+          "Color": "Space Gray",
+          "In The Box": "1 x Handset, 1 x Charger, 1 x USB Cable, 1 x SIM Ejector, 1 x Quick Guide",
+          "SIM Type": "Dual Sim"
+        }
+      },
+      {
+        "title": "Display Features",
+        "specs": {
+          "Display Size": "6.1 inch Super Retina XDR",
+          "Resolution": "2796 x 1290 Pixels",
+          "Display Type": "OLED / AMOLED",
+          "Refresh Rate": "120 Hz"
+        }
+      },
+      {
+        "title": "Os & Processor Features",
+        "specs": {
+          "Operating System": "iOS 17",
+          "Processor Type": "Snapdragon 8 Gen 3",
+          "Processor Core": "Octa Core"
+        }
+      },
+      {
+        "title": "Memory & Storage Features",
+        "specs": {
+          "Internal Storage": "256 GB ROM",
+          "RAM": "12 GB RAM"
+        }
+      },
+      {
+        "title": "Camera Features",
+        "specs": {
+          "Primary Camera": "200MP + 50MP + 12MP",
+          "Secondary Camera": "32MP",
+          "Flash": "LED Flash",
+          "Video Recording": "4K @ 60fps"
+        }
+      },
+      {
+        "title": "Battery & Power Features",
+        "specs": {
+          "Battery Capacity": "4500 mAh",
+          "Fast Charging": "Yes"
+        }
+      }
+    ]
   },
   {
     "id": "phones-oneplus-oneplus-12-14",
@@ -749,7 +1763,85 @@ export const PRODUCTS = [
     "aiScore": 85,
     "trending": true,
     "newArrival": true,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "Cpu",
+        "text": "12 GB RAM | 256 GB ROM"
+      },
+      {
+        "icon": "Microchip",
+        "text": "Apple A17 Pro | Hexa Core"
+      },
+      {
+        "icon": "Camera",
+        "text": "50MP + 12MP + 10MP Rear Camera"
+      },
+      {
+        "icon": "CameraFront",
+        "text": "16MP Front Camera"
+      },
+      {
+        "icon": "Smartphone",
+        "text": "6.1 inch Super Retina XDR"
+      },
+      {
+        "icon": "Battery",
+        "text": "6000 mAh Battery"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "specs": {
+          "Brand": "OnePlus",
+          "Model Name": "OnePlus OnePlus 12",
+          "Color": "Space Gray",
+          "In The Box": "1 x Handset, 1 x Charger, 1 x USB Cable, 1 x SIM Ejector, 1 x Quick Guide",
+          "SIM Type": "Dual Sim"
+        }
+      },
+      {
+        "title": "Display Features",
+        "specs": {
+          "Display Size": "6.1 inch Super Retina XDR",
+          "Resolution": "2796 x 1290 Pixels",
+          "Display Type": "OLED / AMOLED",
+          "Refresh Rate": "120 Hz"
+        }
+      },
+      {
+        "title": "Os & Processor Features",
+        "specs": {
+          "Operating System": "Android 13",
+          "Processor Type": "Apple A17 Pro",
+          "Processor Core": "Hexa Core"
+        }
+      },
+      {
+        "title": "Memory & Storage Features",
+        "specs": {
+          "Internal Storage": "256 GB ROM",
+          "RAM": "12 GB RAM"
+        }
+      },
+      {
+        "title": "Camera Features",
+        "specs": {
+          "Primary Camera": "50MP + 12MP + 10MP",
+          "Secondary Camera": "16MP",
+          "Flash": "LED Flash",
+          "Video Recording": "4K @ 60fps"
+        }
+      },
+      {
+        "title": "Battery & Power Features",
+        "specs": {
+          "Battery Capacity": "6000 mAh",
+          "Fast Charging": "Yes"
+        }
+      }
+    ]
   },
   {
     "id": "phones-oneplus-oneplus-12r-15",
@@ -796,7 +1888,85 @@ export const PRODUCTS = [
     "aiScore": 86,
     "trending": false,
     "newArrival": false,
-    "bestSeller": false
+    "bestSeller": false,
+    "highlights": [
+      {
+        "icon": "Cpu",
+        "text": "8 GB RAM | 256 GB ROM"
+      },
+      {
+        "icon": "Microchip",
+        "text": "Apple A17 Pro | Hexa Core"
+      },
+      {
+        "icon": "Camera",
+        "text": "108MP + 8MP + 2MP Rear Camera"
+      },
+      {
+        "icon": "CameraFront",
+        "text": "32MP Front Camera"
+      },
+      {
+        "icon": "Smartphone",
+        "text": "6.78 inch LTPO AMOLED"
+      },
+      {
+        "icon": "Battery",
+        "text": "6000 mAh Battery"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "specs": {
+          "Brand": "OnePlus",
+          "Model Name": "OnePlus OnePlus 12R",
+          "Color": "Phantom Silver",
+          "In The Box": "1 x Handset, 1 x Charger, 1 x USB Cable, 1 x SIM Ejector, 1 x Quick Guide",
+          "SIM Type": "Dual Sim"
+        }
+      },
+      {
+        "title": "Display Features",
+        "specs": {
+          "Display Size": "6.78 inch LTPO AMOLED",
+          "Resolution": "2796 x 1290 Pixels",
+          "Display Type": "OLED / AMOLED",
+          "Refresh Rate": "120 Hz"
+        }
+      },
+      {
+        "title": "Os & Processor Features",
+        "specs": {
+          "Operating System": "Android 13",
+          "Processor Type": "Apple A17 Pro",
+          "Processor Core": "Hexa Core"
+        }
+      },
+      {
+        "title": "Memory & Storage Features",
+        "specs": {
+          "Internal Storage": "256 GB ROM",
+          "RAM": "8 GB RAM"
+        }
+      },
+      {
+        "title": "Camera Features",
+        "specs": {
+          "Primary Camera": "108MP + 8MP + 2MP",
+          "Secondary Camera": "32MP",
+          "Flash": "LED Flash",
+          "Video Recording": "4K @ 60fps"
+        }
+      },
+      {
+        "title": "Battery & Power Features",
+        "specs": {
+          "Battery Capacity": "6000 mAh",
+          "Fast Charging": "Yes"
+        }
+      }
+    ]
   },
   {
     "id": "phones-oneplus-oneplus-open-16",
@@ -843,7 +2013,85 @@ export const PRODUCTS = [
     "aiScore": 87,
     "trending": false,
     "newArrival": false,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "Cpu",
+        "text": "8 GB RAM | 256 GB ROM"
+      },
+      {
+        "icon": "Microchip",
+        "text": "Tensor G3 | Nona Core"
+      },
+      {
+        "icon": "Camera",
+        "text": "108MP + 8MP + 2MP Rear Camera"
+      },
+      {
+        "icon": "CameraFront",
+        "text": "16MP Front Camera"
+      },
+      {
+        "icon": "Smartphone",
+        "text": "6.1 inch Super Retina XDR"
+      },
+      {
+        "icon": "Battery",
+        "text": "6000 mAh Battery"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "specs": {
+          "Brand": "OnePlus",
+          "Model Name": "OnePlus OnePlus Open",
+          "Color": "Titanium Black",
+          "In The Box": "1 x Handset, 1 x Charger, 1 x USB Cable, 1 x SIM Ejector, 1 x Quick Guide",
+          "SIM Type": "Dual Sim"
+        }
+      },
+      {
+        "title": "Display Features",
+        "specs": {
+          "Display Size": "6.1 inch Super Retina XDR",
+          "Resolution": "2796 x 1290 Pixels",
+          "Display Type": "OLED / AMOLED",
+          "Refresh Rate": "120 Hz"
+        }
+      },
+      {
+        "title": "Os & Processor Features",
+        "specs": {
+          "Operating System": "Android 14",
+          "Processor Type": "Tensor G3",
+          "Processor Core": "Nona Core"
+        }
+      },
+      {
+        "title": "Memory & Storage Features",
+        "specs": {
+          "Internal Storage": "256 GB ROM",
+          "RAM": "8 GB RAM"
+        }
+      },
+      {
+        "title": "Camera Features",
+        "specs": {
+          "Primary Camera": "108MP + 8MP + 2MP",
+          "Secondary Camera": "16MP",
+          "Flash": "LED Flash",
+          "Video Recording": "4K @ 60fps"
+        }
+      },
+      {
+        "title": "Battery & Power Features",
+        "specs": {
+          "Battery Capacity": "6000 mAh",
+          "Fast Charging": "Yes"
+        }
+      }
+    ]
   },
   {
     "id": "phones-oneplus-oneplus-nord-3-17",
@@ -890,7 +2138,85 @@ export const PRODUCTS = [
     "aiScore": 88,
     "trending": true,
     "newArrival": false,
-    "bestSeller": false
+    "bestSeller": false,
+    "highlights": [
+      {
+        "icon": "Cpu",
+        "text": "12 GB RAM | 256 GB ROM"
+      },
+      {
+        "icon": "Microchip",
+        "text": "Snapdragon 8 Gen 3 | Octa Core | 3.3 GHz"
+      },
+      {
+        "icon": "Camera",
+        "text": "108MP + 8MP + 2MP Rear Camera"
+      },
+      {
+        "icon": "CameraFront",
+        "text": "16MP Front Camera"
+      },
+      {
+        "icon": "Smartphone",
+        "text": "6.8 inch Dynamic AMOLED 2X"
+      },
+      {
+        "icon": "Battery",
+        "text": "4422 mAh Battery"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "specs": {
+          "Brand": "OnePlus",
+          "Model Name": "OnePlus OnePlus Nord 3",
+          "Color": "Titanium Black",
+          "In The Box": "1 x Handset, 1 x Charger, 1 x USB Cable, 1 x SIM Ejector, 1 x Quick Guide",
+          "SIM Type": "Dual Sim"
+        }
+      },
+      {
+        "title": "Display Features",
+        "specs": {
+          "Display Size": "6.8 inch Dynamic AMOLED 2X",
+          "Resolution": "2796 x 1290 Pixels",
+          "Display Type": "OLED / AMOLED",
+          "Refresh Rate": "120 Hz"
+        }
+      },
+      {
+        "title": "Os & Processor Features",
+        "specs": {
+          "Operating System": "Android 13",
+          "Processor Type": "Snapdragon 8 Gen 3",
+          "Processor Core": "Octa Core"
+        }
+      },
+      {
+        "title": "Memory & Storage Features",
+        "specs": {
+          "Internal Storage": "256 GB ROM",
+          "RAM": "12 GB RAM"
+        }
+      },
+      {
+        "title": "Camera Features",
+        "specs": {
+          "Primary Camera": "108MP + 8MP + 2MP",
+          "Secondary Camera": "16MP",
+          "Flash": "LED Flash",
+          "Video Recording": "4K @ 60fps"
+        }
+      },
+      {
+        "title": "Battery & Power Features",
+        "specs": {
+          "Battery Capacity": "4422 mAh",
+          "Fast Charging": "Yes"
+        }
+      }
+    ]
   },
   {
     "id": "phones-nothing-nothing-phone-2--18",
@@ -937,7 +2263,85 @@ export const PRODUCTS = [
     "aiScore": 85,
     "trending": true,
     "newArrival": true,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "Cpu",
+        "text": "8 GB RAM | 128 GB ROM"
+      },
+      {
+        "icon": "Microchip",
+        "text": "Tensor G3 | Nona Core"
+      },
+      {
+        "icon": "Camera",
+        "text": "48MP + 12MP + 12MP Rear Camera"
+      },
+      {
+        "icon": "CameraFront",
+        "text": "12MP Front Camera"
+      },
+      {
+        "icon": "Smartphone",
+        "text": "6.8 inch Dynamic AMOLED 2X"
+      },
+      {
+        "icon": "Battery",
+        "text": "5000 mAh Battery"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "specs": {
+          "Brand": "Nothing",
+          "Model Name": "Nothing Nothing Phone (2)",
+          "Color": "Space Gray",
+          "In The Box": "1 x Handset, 1 x Charger, 1 x USB Cable, 1 x SIM Ejector, 1 x Quick Guide",
+          "SIM Type": "Dual Sim"
+        }
+      },
+      {
+        "title": "Display Features",
+        "specs": {
+          "Display Size": "6.8 inch Dynamic AMOLED 2X",
+          "Resolution": "2796 x 1290 Pixels",
+          "Display Type": "OLED / AMOLED",
+          "Refresh Rate": "120 Hz"
+        }
+      },
+      {
+        "title": "Os & Processor Features",
+        "specs": {
+          "Operating System": "Android 13",
+          "Processor Type": "Tensor G3",
+          "Processor Core": "Nona Core"
+        }
+      },
+      {
+        "title": "Memory & Storage Features",
+        "specs": {
+          "Internal Storage": "128 GB ROM",
+          "RAM": "8 GB RAM"
+        }
+      },
+      {
+        "title": "Camera Features",
+        "specs": {
+          "Primary Camera": "48MP + 12MP + 12MP",
+          "Secondary Camera": "12MP",
+          "Flash": "LED Flash",
+          "Video Recording": "4K @ 60fps"
+        }
+      },
+      {
+        "title": "Battery & Power Features",
+        "specs": {
+          "Battery Capacity": "5000 mAh",
+          "Fast Charging": "Yes"
+        }
+      }
+    ]
   },
   {
     "id": "phones-nothing-nothing-phone-2a--19",
@@ -984,7 +2388,85 @@ export const PRODUCTS = [
     "aiScore": 86,
     "trending": false,
     "newArrival": false,
-    "bestSeller": false
+    "bestSeller": false,
+    "highlights": [
+      {
+        "icon": "Cpu",
+        "text": "8 GB RAM | 128 GB ROM"
+      },
+      {
+        "icon": "Microchip",
+        "text": "Apple A17 Pro | Hexa Core"
+      },
+      {
+        "icon": "Camera",
+        "text": "200MP + 50MP + 12MP Rear Camera"
+      },
+      {
+        "icon": "CameraFront",
+        "text": "12MP Front Camera"
+      },
+      {
+        "icon": "Smartphone",
+        "text": "6.1 inch Super Retina XDR"
+      },
+      {
+        "icon": "Battery",
+        "text": "6000 mAh Battery"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "specs": {
+          "Brand": "Nothing",
+          "Model Name": "Nothing Nothing Phone (2a)",
+          "Color": "Space Gray",
+          "In The Box": "1 x Handset, 1 x Charger, 1 x USB Cable, 1 x SIM Ejector, 1 x Quick Guide",
+          "SIM Type": "Dual Sim"
+        }
+      },
+      {
+        "title": "Display Features",
+        "specs": {
+          "Display Size": "6.1 inch Super Retina XDR",
+          "Resolution": "2796 x 1290 Pixels",
+          "Display Type": "OLED / AMOLED",
+          "Refresh Rate": "120 Hz"
+        }
+      },
+      {
+        "title": "Os & Processor Features",
+        "specs": {
+          "Operating System": "Android 13",
+          "Processor Type": "Apple A17 Pro",
+          "Processor Core": "Hexa Core"
+        }
+      },
+      {
+        "title": "Memory & Storage Features",
+        "specs": {
+          "Internal Storage": "128 GB ROM",
+          "RAM": "8 GB RAM"
+        }
+      },
+      {
+        "title": "Camera Features",
+        "specs": {
+          "Primary Camera": "200MP + 50MP + 12MP",
+          "Secondary Camera": "12MP",
+          "Flash": "LED Flash",
+          "Video Recording": "4K @ 60fps"
+        }
+      },
+      {
+        "title": "Battery & Power Features",
+        "specs": {
+          "Battery Capacity": "6000 mAh",
+          "Fast Charging": "Yes"
+        }
+      }
+    ]
   },
   {
     "id": "phones-xiaomi-xiaomi-14-ultra-20",
@@ -1031,7 +2513,85 @@ export const PRODUCTS = [
     "aiScore": 85,
     "trending": true,
     "newArrival": true,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "Cpu",
+        "text": "12 GB RAM | 256 GB ROM"
+      },
+      {
+        "icon": "Microchip",
+        "text": "Dimensity 9300 | Octa Core | 3.25 GHz"
+      },
+      {
+        "icon": "Camera",
+        "text": "50MP + 12MP + 10MP Rear Camera"
+      },
+      {
+        "icon": "CameraFront",
+        "text": "12MP Front Camera"
+      },
+      {
+        "icon": "Smartphone",
+        "text": "6.1 inch Super Retina XDR"
+      },
+      {
+        "icon": "Battery",
+        "text": "4500 mAh Battery"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "specs": {
+          "Brand": "Xiaomi",
+          "Model Name": "Xiaomi Xiaomi 14 Ultra",
+          "Color": "Titanium Black",
+          "In The Box": "1 x Handset, 1 x Charger, 1 x USB Cable, 1 x SIM Ejector, 1 x Quick Guide",
+          "SIM Type": "Dual Sim"
+        }
+      },
+      {
+        "title": "Display Features",
+        "specs": {
+          "Display Size": "6.1 inch Super Retina XDR",
+          "Resolution": "2796 x 1290 Pixels",
+          "Display Type": "OLED / AMOLED",
+          "Refresh Rate": "120 Hz"
+        }
+      },
+      {
+        "title": "Os & Processor Features",
+        "specs": {
+          "Operating System": "Android 13",
+          "Processor Type": "Dimensity 9300",
+          "Processor Core": "Octa Core"
+        }
+      },
+      {
+        "title": "Memory & Storage Features",
+        "specs": {
+          "Internal Storage": "256 GB ROM",
+          "RAM": "12 GB RAM"
+        }
+      },
+      {
+        "title": "Camera Features",
+        "specs": {
+          "Primary Camera": "50MP + 12MP + 10MP",
+          "Secondary Camera": "12MP",
+          "Flash": "LED Flash",
+          "Video Recording": "4K @ 60fps"
+        }
+      },
+      {
+        "title": "Battery & Power Features",
+        "specs": {
+          "Battery Capacity": "4500 mAh",
+          "Fast Charging": "Yes"
+        }
+      }
+    ]
   },
   {
     "id": "phones-xiaomi-xiaomi-14-pro-21",
@@ -1078,7 +2638,85 @@ export const PRODUCTS = [
     "aiScore": 86,
     "trending": false,
     "newArrival": false,
-    "bestSeller": false
+    "bestSeller": false,
+    "highlights": [
+      {
+        "icon": "Cpu",
+        "text": "8 GB RAM | 128 GB ROM"
+      },
+      {
+        "icon": "Microchip",
+        "text": "Snapdragon 8 Gen 3 | Octa Core | 3.3 GHz"
+      },
+      {
+        "icon": "Camera",
+        "text": "108MP + 8MP + 2MP Rear Camera"
+      },
+      {
+        "icon": "CameraFront",
+        "text": "32MP Front Camera"
+      },
+      {
+        "icon": "Smartphone",
+        "text": "6.1 inch Super Retina XDR"
+      },
+      {
+        "icon": "Battery",
+        "text": "6000 mAh Battery"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "specs": {
+          "Brand": "Xiaomi",
+          "Model Name": "Xiaomi Xiaomi 14 Pro",
+          "Color": "Phantom Silver",
+          "In The Box": "1 x Handset, 1 x Charger, 1 x USB Cable, 1 x SIM Ejector, 1 x Quick Guide",
+          "SIM Type": "Dual Sim"
+        }
+      },
+      {
+        "title": "Display Features",
+        "specs": {
+          "Display Size": "6.1 inch Super Retina XDR",
+          "Resolution": "2796 x 1290 Pixels",
+          "Display Type": "OLED / AMOLED",
+          "Refresh Rate": "120 Hz"
+        }
+      },
+      {
+        "title": "Os & Processor Features",
+        "specs": {
+          "Operating System": "Android 14",
+          "Processor Type": "Snapdragon 8 Gen 3",
+          "Processor Core": "Octa Core"
+        }
+      },
+      {
+        "title": "Memory & Storage Features",
+        "specs": {
+          "Internal Storage": "128 GB ROM",
+          "RAM": "8 GB RAM"
+        }
+      },
+      {
+        "title": "Camera Features",
+        "specs": {
+          "Primary Camera": "108MP + 8MP + 2MP",
+          "Secondary Camera": "32MP",
+          "Flash": "LED Flash",
+          "Video Recording": "4K @ 60fps"
+        }
+      },
+      {
+        "title": "Battery & Power Features",
+        "specs": {
+          "Battery Capacity": "6000 mAh",
+          "Fast Charging": "Yes"
+        }
+      }
+    ]
   },
   {
     "id": "phones-xiaomi-redmi-note-13-pro--22",
@@ -1125,7 +2763,85 @@ export const PRODUCTS = [
     "aiScore": 87,
     "trending": false,
     "newArrival": false,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "Cpu",
+        "text": "8 GB RAM | 128 GB ROM"
+      },
+      {
+        "icon": "Microchip",
+        "text": "Dimensity 9300 | Octa Core | 3.25 GHz"
+      },
+      {
+        "icon": "Camera",
+        "text": "50MP + 12MP + 10MP Rear Camera"
+      },
+      {
+        "icon": "CameraFront",
+        "text": "12MP Front Camera"
+      },
+      {
+        "icon": "Smartphone",
+        "text": "6.1 inch Super Retina XDR"
+      },
+      {
+        "icon": "Battery",
+        "text": "6000 mAh Battery"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "specs": {
+          "Brand": "Xiaomi",
+          "Model Name": "Xiaomi Redmi Note 13 Pro+",
+          "Color": "Phantom Silver",
+          "In The Box": "1 x Handset, 1 x Charger, 1 x USB Cable, 1 x SIM Ejector, 1 x Quick Guide",
+          "SIM Type": "Dual Sim"
+        }
+      },
+      {
+        "title": "Display Features",
+        "specs": {
+          "Display Size": "6.1 inch Super Retina XDR",
+          "Resolution": "2796 x 1290 Pixels",
+          "Display Type": "OLED / AMOLED",
+          "Refresh Rate": "120 Hz"
+        }
+      },
+      {
+        "title": "Os & Processor Features",
+        "specs": {
+          "Operating System": "Android 13",
+          "Processor Type": "Dimensity 9300",
+          "Processor Core": "Octa Core"
+        }
+      },
+      {
+        "title": "Memory & Storage Features",
+        "specs": {
+          "Internal Storage": "128 GB ROM",
+          "RAM": "8 GB RAM"
+        }
+      },
+      {
+        "title": "Camera Features",
+        "specs": {
+          "Primary Camera": "50MP + 12MP + 10MP",
+          "Secondary Camera": "12MP",
+          "Flash": "LED Flash",
+          "Video Recording": "4K @ 60fps"
+        }
+      },
+      {
+        "title": "Battery & Power Features",
+        "specs": {
+          "Battery Capacity": "6000 mAh",
+          "Fast Charging": "Yes"
+        }
+      }
+    ]
   },
   {
     "id": "phones-vivo-vivo-x100-pro-23",
@@ -1172,7 +2888,85 @@ export const PRODUCTS = [
     "aiScore": 85,
     "trending": true,
     "newArrival": true,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "Cpu",
+        "text": "12 GB RAM | 256 GB ROM"
+      },
+      {
+        "icon": "Microchip",
+        "text": "Snapdragon 8 Gen 3 | Octa Core | 3.3 GHz"
+      },
+      {
+        "icon": "Camera",
+        "text": "108MP + 8MP + 2MP Rear Camera"
+      },
+      {
+        "icon": "CameraFront",
+        "text": "12MP Front Camera"
+      },
+      {
+        "icon": "Smartphone",
+        "text": "6.8 inch Dynamic AMOLED 2X"
+      },
+      {
+        "icon": "Battery",
+        "text": "4500 mAh Battery"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "specs": {
+          "Brand": "Vivo",
+          "Model Name": "Vivo Vivo X100 Pro",
+          "Color": "Titanium Black",
+          "In The Box": "1 x Handset, 1 x Charger, 1 x USB Cable, 1 x SIM Ejector, 1 x Quick Guide",
+          "SIM Type": "Dual Sim"
+        }
+      },
+      {
+        "title": "Display Features",
+        "specs": {
+          "Display Size": "6.8 inch Dynamic AMOLED 2X",
+          "Resolution": "2796 x 1290 Pixels",
+          "Display Type": "OLED / AMOLED",
+          "Refresh Rate": "120 Hz"
+        }
+      },
+      {
+        "title": "Os & Processor Features",
+        "specs": {
+          "Operating System": "iOS 17",
+          "Processor Type": "Snapdragon 8 Gen 3",
+          "Processor Core": "Octa Core"
+        }
+      },
+      {
+        "title": "Memory & Storage Features",
+        "specs": {
+          "Internal Storage": "256 GB ROM",
+          "RAM": "12 GB RAM"
+        }
+      },
+      {
+        "title": "Camera Features",
+        "specs": {
+          "Primary Camera": "108MP + 8MP + 2MP",
+          "Secondary Camera": "12MP",
+          "Flash": "LED Flash",
+          "Video Recording": "4K @ 60fps"
+        }
+      },
+      {
+        "title": "Battery & Power Features",
+        "specs": {
+          "Battery Capacity": "4500 mAh",
+          "Fast Charging": "Yes"
+        }
+      }
+    ]
   },
   {
     "id": "phones-vivo-vivo-v30-pro-24",
@@ -1219,7 +3013,85 @@ export const PRODUCTS = [
     "aiScore": 86,
     "trending": false,
     "newArrival": false,
-    "bestSeller": false
+    "bestSeller": false,
+    "highlights": [
+      {
+        "icon": "Cpu",
+        "text": "8 GB RAM | 128 GB ROM"
+      },
+      {
+        "icon": "Microchip",
+        "text": "Tensor G3 | Nona Core"
+      },
+      {
+        "icon": "Camera",
+        "text": "200MP + 50MP + 12MP Rear Camera"
+      },
+      {
+        "icon": "CameraFront",
+        "text": "32MP Front Camera"
+      },
+      {
+        "icon": "Smartphone",
+        "text": "6.7 inch Super AMOLED Display"
+      },
+      {
+        "icon": "Battery",
+        "text": "4422 mAh Battery"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "specs": {
+          "Brand": "Vivo",
+          "Model Name": "Vivo Vivo V30 Pro",
+          "Color": "Titanium Black",
+          "In The Box": "1 x Handset, 1 x Charger, 1 x USB Cable, 1 x SIM Ejector, 1 x Quick Guide",
+          "SIM Type": "Dual Sim"
+        }
+      },
+      {
+        "title": "Display Features",
+        "specs": {
+          "Display Size": "6.7 inch Super AMOLED Display",
+          "Resolution": "2796 x 1290 Pixels",
+          "Display Type": "OLED / AMOLED",
+          "Refresh Rate": "120 Hz"
+        }
+      },
+      {
+        "title": "Os & Processor Features",
+        "specs": {
+          "Operating System": "iOS 17",
+          "Processor Type": "Tensor G3",
+          "Processor Core": "Nona Core"
+        }
+      },
+      {
+        "title": "Memory & Storage Features",
+        "specs": {
+          "Internal Storage": "128 GB ROM",
+          "RAM": "8 GB RAM"
+        }
+      },
+      {
+        "title": "Camera Features",
+        "specs": {
+          "Primary Camera": "200MP + 50MP + 12MP",
+          "Secondary Camera": "32MP",
+          "Flash": "LED Flash",
+          "Video Recording": "4K @ 60fps"
+        }
+      },
+      {
+        "title": "Battery & Power Features",
+        "specs": {
+          "Battery Capacity": "4422 mAh",
+          "Fast Charging": "Yes"
+        }
+      }
+    ]
   },
   {
     "id": "phones-oppo-oppo-find-x7-ultra-25",
@@ -1266,7 +3138,85 @@ export const PRODUCTS = [
     "aiScore": 85,
     "trending": true,
     "newArrival": true,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "Cpu",
+        "text": "8 GB RAM | 256 GB ROM"
+      },
+      {
+        "icon": "Microchip",
+        "text": "Apple A17 Pro | Hexa Core"
+      },
+      {
+        "icon": "Camera",
+        "text": "48MP + 12MP + 12MP Rear Camera"
+      },
+      {
+        "icon": "CameraFront",
+        "text": "16MP Front Camera"
+      },
+      {
+        "icon": "Smartphone",
+        "text": "6.7 inch Super AMOLED Display"
+      },
+      {
+        "icon": "Battery",
+        "text": "5000 mAh Battery"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "specs": {
+          "Brand": "OPPO",
+          "Model Name": "OPPO OPPO Find X7 Ultra",
+          "Color": "Space Gray",
+          "In The Box": "1 x Handset, 1 x Charger, 1 x USB Cable, 1 x SIM Ejector, 1 x Quick Guide",
+          "SIM Type": "Dual Sim"
+        }
+      },
+      {
+        "title": "Display Features",
+        "specs": {
+          "Display Size": "6.7 inch Super AMOLED Display",
+          "Resolution": "2796 x 1290 Pixels",
+          "Display Type": "OLED / AMOLED",
+          "Refresh Rate": "120 Hz"
+        }
+      },
+      {
+        "title": "Os & Processor Features",
+        "specs": {
+          "Operating System": "Android 14",
+          "Processor Type": "Apple A17 Pro",
+          "Processor Core": "Hexa Core"
+        }
+      },
+      {
+        "title": "Memory & Storage Features",
+        "specs": {
+          "Internal Storage": "256 GB ROM",
+          "RAM": "8 GB RAM"
+        }
+      },
+      {
+        "title": "Camera Features",
+        "specs": {
+          "Primary Camera": "48MP + 12MP + 12MP",
+          "Secondary Camera": "16MP",
+          "Flash": "LED Flash",
+          "Video Recording": "4K @ 60fps"
+        }
+      },
+      {
+        "title": "Battery & Power Features",
+        "specs": {
+          "Battery Capacity": "5000 mAh",
+          "Fast Charging": "Yes"
+        }
+      }
+    ]
   },
   {
     "id": "phones-oppo-oppo-reno-11-pro-26",
@@ -1313,7 +3263,85 @@ export const PRODUCTS = [
     "aiScore": 86,
     "trending": false,
     "newArrival": false,
-    "bestSeller": false
+    "bestSeller": false,
+    "highlights": [
+      {
+        "icon": "Cpu",
+        "text": "8 GB RAM | 128 GB ROM"
+      },
+      {
+        "icon": "Microchip",
+        "text": "Snapdragon 8 Gen 3 | Octa Core | 3.3 GHz"
+      },
+      {
+        "icon": "Camera",
+        "text": "200MP + 50MP + 12MP Rear Camera"
+      },
+      {
+        "icon": "CameraFront",
+        "text": "32MP Front Camera"
+      },
+      {
+        "icon": "Smartphone",
+        "text": "6.1 inch Super Retina XDR"
+      },
+      {
+        "icon": "Battery",
+        "text": "4422 mAh Battery"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "specs": {
+          "Brand": "OPPO",
+          "Model Name": "OPPO OPPO Reno 11 Pro",
+          "Color": "Space Gray",
+          "In The Box": "1 x Handset, 1 x Charger, 1 x USB Cable, 1 x SIM Ejector, 1 x Quick Guide",
+          "SIM Type": "Dual Sim"
+        }
+      },
+      {
+        "title": "Display Features",
+        "specs": {
+          "Display Size": "6.1 inch Super Retina XDR",
+          "Resolution": "2796 x 1290 Pixels",
+          "Display Type": "OLED / AMOLED",
+          "Refresh Rate": "120 Hz"
+        }
+      },
+      {
+        "title": "Os & Processor Features",
+        "specs": {
+          "Operating System": "Android 14",
+          "Processor Type": "Snapdragon 8 Gen 3",
+          "Processor Core": "Octa Core"
+        }
+      },
+      {
+        "title": "Memory & Storage Features",
+        "specs": {
+          "Internal Storage": "128 GB ROM",
+          "RAM": "8 GB RAM"
+        }
+      },
+      {
+        "title": "Camera Features",
+        "specs": {
+          "Primary Camera": "200MP + 50MP + 12MP",
+          "Secondary Camera": "32MP",
+          "Flash": "LED Flash",
+          "Video Recording": "4K @ 60fps"
+        }
+      },
+      {
+        "title": "Battery & Power Features",
+        "specs": {
+          "Battery Capacity": "4422 mAh",
+          "Fast Charging": "Yes"
+        }
+      }
+    ]
   },
   {
     "id": "phones-motorola-motorola-edge-50-pro-27",
@@ -1360,7 +3388,85 @@ export const PRODUCTS = [
     "aiScore": 85,
     "trending": true,
     "newArrival": true,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "Cpu",
+        "text": "8 GB RAM | 256 GB ROM"
+      },
+      {
+        "icon": "Microchip",
+        "text": "Apple A17 Pro | Hexa Core"
+      },
+      {
+        "icon": "Camera",
+        "text": "200MP + 50MP + 12MP Rear Camera"
+      },
+      {
+        "icon": "CameraFront",
+        "text": "16MP Front Camera"
+      },
+      {
+        "icon": "Smartphone",
+        "text": "6.7 inch Super AMOLED Display"
+      },
+      {
+        "icon": "Battery",
+        "text": "5000 mAh Battery"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "specs": {
+          "Brand": "Motorola",
+          "Model Name": "Motorola Motorola Edge 50 Pro",
+          "Color": "Space Gray",
+          "In The Box": "1 x Handset, 1 x Charger, 1 x USB Cable, 1 x SIM Ejector, 1 x Quick Guide",
+          "SIM Type": "Dual Sim"
+        }
+      },
+      {
+        "title": "Display Features",
+        "specs": {
+          "Display Size": "6.7 inch Super AMOLED Display",
+          "Resolution": "2796 x 1290 Pixels",
+          "Display Type": "OLED / AMOLED",
+          "Refresh Rate": "120 Hz"
+        }
+      },
+      {
+        "title": "Os & Processor Features",
+        "specs": {
+          "Operating System": "Android 13",
+          "Processor Type": "Apple A17 Pro",
+          "Processor Core": "Hexa Core"
+        }
+      },
+      {
+        "title": "Memory & Storage Features",
+        "specs": {
+          "Internal Storage": "256 GB ROM",
+          "RAM": "8 GB RAM"
+        }
+      },
+      {
+        "title": "Camera Features",
+        "specs": {
+          "Primary Camera": "200MP + 50MP + 12MP",
+          "Secondary Camera": "16MP",
+          "Flash": "LED Flash",
+          "Video Recording": "4K @ 60fps"
+        }
+      },
+      {
+        "title": "Battery & Power Features",
+        "specs": {
+          "Battery Capacity": "5000 mAh",
+          "Fast Charging": "Yes"
+        }
+      }
+    ]
   },
   {
     "id": "phones-motorola-motorola-razr-40-ultra-28",
@@ -1407,7 +3513,85 @@ export const PRODUCTS = [
     "aiScore": 86,
     "trending": false,
     "newArrival": false,
-    "bestSeller": false
+    "bestSeller": false,
+    "highlights": [
+      {
+        "icon": "Cpu",
+        "text": "16 GB RAM | 512 GB ROM"
+      },
+      {
+        "icon": "Microchip",
+        "text": "Tensor G3 | Nona Core"
+      },
+      {
+        "icon": "Camera",
+        "text": "48MP + 12MP + 12MP Rear Camera"
+      },
+      {
+        "icon": "CameraFront",
+        "text": "32MP Front Camera"
+      },
+      {
+        "icon": "Smartphone",
+        "text": "6.78 inch LTPO AMOLED"
+      },
+      {
+        "icon": "Battery",
+        "text": "4422 mAh Battery"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "specs": {
+          "Brand": "Motorola",
+          "Model Name": "Motorola Motorola Razr 40 Ultra",
+          "Color": "Space Gray",
+          "In The Box": "1 x Handset, 1 x Charger, 1 x USB Cable, 1 x SIM Ejector, 1 x Quick Guide",
+          "SIM Type": "Dual Sim"
+        }
+      },
+      {
+        "title": "Display Features",
+        "specs": {
+          "Display Size": "6.78 inch LTPO AMOLED",
+          "Resolution": "2796 x 1290 Pixels",
+          "Display Type": "OLED / AMOLED",
+          "Refresh Rate": "120 Hz"
+        }
+      },
+      {
+        "title": "Os & Processor Features",
+        "specs": {
+          "Operating System": "Android 14",
+          "Processor Type": "Tensor G3",
+          "Processor Core": "Nona Core"
+        }
+      },
+      {
+        "title": "Memory & Storage Features",
+        "specs": {
+          "Internal Storage": "512 GB ROM",
+          "RAM": "16 GB RAM"
+        }
+      },
+      {
+        "title": "Camera Features",
+        "specs": {
+          "Primary Camera": "48MP + 12MP + 12MP",
+          "Secondary Camera": "32MP",
+          "Flash": "LED Flash",
+          "Video Recording": "4K @ 60fps"
+        }
+      },
+      {
+        "title": "Battery & Power Features",
+        "specs": {
+          "Battery Capacity": "4422 mAh",
+          "Fast Charging": "Yes"
+        }
+      }
+    ]
   },
   {
     "id": "phones-motorola-moto-g-power-29",
@@ -1454,7 +3638,85 @@ export const PRODUCTS = [
     "aiScore": 87,
     "trending": false,
     "newArrival": false,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "Cpu",
+        "text": "16 GB RAM | 512 GB ROM"
+      },
+      {
+        "icon": "Microchip",
+        "text": "Snapdragon 8 Gen 3 | Octa Core | 3.3 GHz"
+      },
+      {
+        "icon": "Camera",
+        "text": "50MP + 12MP + 10MP Rear Camera"
+      },
+      {
+        "icon": "CameraFront",
+        "text": "16MP Front Camera"
+      },
+      {
+        "icon": "Smartphone",
+        "text": "6.7 inch Super AMOLED Display"
+      },
+      {
+        "icon": "Battery",
+        "text": "5000 mAh Battery"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "specs": {
+          "Brand": "Motorola",
+          "Model Name": "Motorola Moto G Power",
+          "Color": "Space Gray",
+          "In The Box": "1 x Handset, 1 x Charger, 1 x USB Cable, 1 x SIM Ejector, 1 x Quick Guide",
+          "SIM Type": "Dual Sim"
+        }
+      },
+      {
+        "title": "Display Features",
+        "specs": {
+          "Display Size": "6.7 inch Super AMOLED Display",
+          "Resolution": "2796 x 1290 Pixels",
+          "Display Type": "OLED / AMOLED",
+          "Refresh Rate": "120 Hz"
+        }
+      },
+      {
+        "title": "Os & Processor Features",
+        "specs": {
+          "Operating System": "Android 13",
+          "Processor Type": "Snapdragon 8 Gen 3",
+          "Processor Core": "Octa Core"
+        }
+      },
+      {
+        "title": "Memory & Storage Features",
+        "specs": {
+          "Internal Storage": "512 GB ROM",
+          "RAM": "16 GB RAM"
+        }
+      },
+      {
+        "title": "Camera Features",
+        "specs": {
+          "Primary Camera": "50MP + 12MP + 10MP",
+          "Secondary Camera": "16MP",
+          "Flash": "LED Flash",
+          "Video Recording": "4K @ 60fps"
+        }
+      },
+      {
+        "title": "Battery & Power Features",
+        "specs": {
+          "Battery Capacity": "5000 mAh",
+          "Fast Charging": "Yes"
+        }
+      }
+    ]
   },
   {
     "id": "laptops-apple-macbook-pro-16-m3-max-30",
@@ -1501,7 +3763,69 @@ export const PRODUCTS = [
     "aiScore": 85,
     "trending": true,
     "newArrival": true,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "Microchip",
+        "text": "AMD Ryzen 9 8945HS"
+      },
+      {
+        "icon": "MemoryStick",
+        "text": "16GB LPDDR5X RAM"
+      },
+      {
+        "icon": "HardDrive",
+        "text": "2TB NVMe SSD"
+      },
+      {
+        "icon": "Laptop",
+        "text": "14 inch Liquid Retina"
+      },
+      {
+        "icon": "MonitorPlay",
+        "text": "Windows 11 Home"
+      },
+      {
+        "icon": "Battery",
+        "text": "65Wh Battery"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "specs": {
+          "Brand": "Apple",
+          "Model Name": "Apple MacBook Pro 16\" M3 Max",
+          "Color": "Space Gray",
+          "Operating System": "Windows 11 Home"
+        }
+      },
+      {
+        "title": "Processor And Memory Features",
+        "specs": {
+          "Processor Name": "AMD Ryzen 9 8945HS",
+          "RAM": "16GB LPDDR5X RAM",
+          "Storage": "2TB NVMe SSD",
+          "Graphic Processor": "Apple 14-core GPU"
+        }
+      },
+      {
+        "title": "Display And Audio Features",
+        "specs": {
+          "Screen Size": "14 inch Liquid Retina",
+          "Screen Resolution": "2560 x 1600 Pixel",
+          "Speakers": "Stereo Speakers with Dolby Atmos"
+        }
+      },
+      {
+        "title": "Port And Slot Features",
+        "specs": {
+          "USB Port": "2 x Thunderbolt 4, 1 x USB Type-A",
+          "HDMI Port": "1 x HDMI 2.1",
+          "Headphone Jack": "3.5 mm Combo Jack"
+        }
+      }
+    ]
   },
   {
     "id": "laptops-apple-macbook-pro-14-m3-31",
@@ -1548,7 +3872,69 @@ export const PRODUCTS = [
     "aiScore": 86,
     "trending": false,
     "newArrival": false,
-    "bestSeller": false
+    "bestSeller": false,
+    "highlights": [
+      {
+        "icon": "Microchip",
+        "text": "Intel Core Ultra 7"
+      },
+      {
+        "icon": "MemoryStick",
+        "text": "8GB Unified Memory"
+      },
+      {
+        "icon": "HardDrive",
+        "text": "2TB NVMe SSD"
+      },
+      {
+        "icon": "Laptop",
+        "text": "14 inch Liquid Retina"
+      },
+      {
+        "icon": "MonitorPlay",
+        "text": "Windows 11 Home"
+      },
+      {
+        "icon": "Battery",
+        "text": "70Wh Battery"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "specs": {
+          "Brand": "Apple",
+          "Model Name": "Apple MacBook Pro 14\" M3",
+          "Color": "Space Gray",
+          "Operating System": "Windows 11 Home"
+        }
+      },
+      {
+        "title": "Processor And Memory Features",
+        "specs": {
+          "Processor Name": "Intel Core Ultra 7",
+          "RAM": "8GB Unified Memory",
+          "Storage": "2TB NVMe SSD",
+          "Graphic Processor": "AMD Radeon 780M"
+        }
+      },
+      {
+        "title": "Display And Audio Features",
+        "specs": {
+          "Screen Size": "14 inch Liquid Retina",
+          "Screen Resolution": "3024 x 1964 Pixel",
+          "Speakers": "Stereo Speakers with Dolby Atmos"
+        }
+      },
+      {
+        "title": "Port And Slot Features",
+        "specs": {
+          "USB Port": "2 x Thunderbolt 4, 1 x USB Type-A",
+          "HDMI Port": "1 x HDMI 2.1",
+          "Headphone Jack": "3.5 mm Combo Jack"
+        }
+      }
+    ]
   },
   {
     "id": "laptops-apple-macbook-air-15-m3-32",
@@ -1595,7 +3981,69 @@ export const PRODUCTS = [
     "aiScore": 87,
     "trending": false,
     "newArrival": false,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "Microchip",
+        "text": "AMD Ryzen 9 8945HS"
+      },
+      {
+        "icon": "MemoryStick",
+        "text": "8GB Unified Memory"
+      },
+      {
+        "icon": "HardDrive",
+        "text": "2TB NVMe SSD"
+      },
+      {
+        "icon": "Laptop",
+        "text": "16 inch Mini-LED"
+      },
+      {
+        "icon": "MonitorPlay",
+        "text": "Windows 11 Home"
+      },
+      {
+        "icon": "Battery",
+        "text": "99.9Wh Battery"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "specs": {
+          "Brand": "Apple",
+          "Model Name": "Apple MacBook Air 15\" M3",
+          "Color": "Midnight Black",
+          "Operating System": "Windows 11 Home"
+        }
+      },
+      {
+        "title": "Processor And Memory Features",
+        "specs": {
+          "Processor Name": "AMD Ryzen 9 8945HS",
+          "RAM": "8GB Unified Memory",
+          "Storage": "2TB NVMe SSD",
+          "Graphic Processor": "Apple 14-core GPU"
+        }
+      },
+      {
+        "title": "Display And Audio Features",
+        "specs": {
+          "Screen Size": "16 inch Mini-LED",
+          "Screen Resolution": "1920 x 1080 Pixel",
+          "Speakers": "Stereo Speakers with Dolby Atmos"
+        }
+      },
+      {
+        "title": "Port And Slot Features",
+        "specs": {
+          "USB Port": "2 x Thunderbolt 4, 1 x USB Type-A",
+          "HDMI Port": "1 x HDMI 2.1",
+          "Headphone Jack": "3.5 mm Combo Jack"
+        }
+      }
+    ]
   },
   {
     "id": "laptops-apple-macbook-air-13-m2-33",
@@ -1642,7 +4090,69 @@ export const PRODUCTS = [
     "aiScore": 88,
     "trending": true,
     "newArrival": false,
-    "bestSeller": false
+    "bestSeller": false,
+    "highlights": [
+      {
+        "icon": "Microchip",
+        "text": "Intel Core i9 14900HX"
+      },
+      {
+        "icon": "MemoryStick",
+        "text": "32GB DDR5 RAM"
+      },
+      {
+        "icon": "HardDrive",
+        "text": "512GB PCIe NVMe SSD"
+      },
+      {
+        "icon": "Laptop",
+        "text": "15.6 inch OLED Touch"
+      },
+      {
+        "icon": "MonitorPlay",
+        "text": "Windows 11 Home"
+      },
+      {
+        "icon": "Battery",
+        "text": "70Wh Battery"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "specs": {
+          "Brand": "Apple",
+          "Model Name": "Apple MacBook Air 13\" M2",
+          "Color": "Lunar Silver",
+          "Operating System": "Windows 11 Home"
+        }
+      },
+      {
+        "title": "Processor And Memory Features",
+        "specs": {
+          "Processor Name": "Intel Core i9 14900HX",
+          "RAM": "32GB DDR5 RAM",
+          "Storage": "512GB PCIe NVMe SSD",
+          "Graphic Processor": "Integrated Graphics"
+        }
+      },
+      {
+        "title": "Display And Audio Features",
+        "specs": {
+          "Screen Size": "15.6 inch OLED Touch",
+          "Screen Resolution": "1920 x 1080 Pixel",
+          "Speakers": "Stereo Speakers with Dolby Atmos"
+        }
+      },
+      {
+        "title": "Port And Slot Features",
+        "specs": {
+          "USB Port": "2 x Thunderbolt 4, 1 x USB Type-A",
+          "HDMI Port": "1 x HDMI 2.1",
+          "Headphone Jack": "3.5 mm Combo Jack"
+        }
+      }
+    ]
   },
   {
     "id": "laptops-dell-xps-15-34",
@@ -1689,7 +4199,69 @@ export const PRODUCTS = [
     "aiScore": 85,
     "trending": true,
     "newArrival": true,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "Microchip",
+        "text": "Intel Core i9 14900HX"
+      },
+      {
+        "icon": "MemoryStick",
+        "text": "16GB LPDDR5X RAM"
+      },
+      {
+        "icon": "HardDrive",
+        "text": "512GB PCIe NVMe SSD"
+      },
+      {
+        "icon": "Laptop",
+        "text": "16 inch Mini-LED"
+      },
+      {
+        "icon": "MonitorPlay",
+        "text": "macOS Sonoma"
+      },
+      {
+        "icon": "Battery",
+        "text": "65Wh Battery"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "specs": {
+          "Brand": "Dell",
+          "Model Name": "Dell XPS 15",
+          "Color": "Lunar Silver",
+          "Operating System": "macOS Sonoma"
+        }
+      },
+      {
+        "title": "Processor And Memory Features",
+        "specs": {
+          "Processor Name": "Intel Core i9 14900HX",
+          "RAM": "16GB LPDDR5X RAM",
+          "Storage": "512GB PCIe NVMe SSD",
+          "Graphic Processor": "Integrated Graphics"
+        }
+      },
+      {
+        "title": "Display And Audio Features",
+        "specs": {
+          "Screen Size": "16 inch Mini-LED",
+          "Screen Resolution": "1920 x 1080 Pixel",
+          "Speakers": "Stereo Speakers with Dolby Atmos"
+        }
+      },
+      {
+        "title": "Port And Slot Features",
+        "specs": {
+          "USB Port": "2 x Thunderbolt 4, 1 x USB Type-A",
+          "HDMI Port": "1 x HDMI 2.1",
+          "Headphone Jack": "3.5 mm Combo Jack"
+        }
+      }
+    ]
   },
   {
     "id": "laptops-dell-xps-13-plus-35",
@@ -1736,7 +4308,69 @@ export const PRODUCTS = [
     "aiScore": 86,
     "trending": false,
     "newArrival": false,
-    "bestSeller": false
+    "bestSeller": false,
+    "highlights": [
+      {
+        "icon": "Microchip",
+        "text": "Intel Core Ultra 7"
+      },
+      {
+        "icon": "MemoryStick",
+        "text": "32GB DDR5 RAM"
+      },
+      {
+        "icon": "HardDrive",
+        "text": "2TB NVMe SSD"
+      },
+      {
+        "icon": "Laptop",
+        "text": "14 inch Liquid Retina"
+      },
+      {
+        "icon": "MonitorPlay",
+        "text": "macOS Sonoma"
+      },
+      {
+        "icon": "Battery",
+        "text": "99.9Wh Battery"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "specs": {
+          "Brand": "Dell",
+          "Model Name": "Dell XPS 13 Plus",
+          "Color": "Lunar Silver",
+          "Operating System": "macOS Sonoma"
+        }
+      },
+      {
+        "title": "Processor And Memory Features",
+        "specs": {
+          "Processor Name": "Intel Core Ultra 7",
+          "RAM": "32GB DDR5 RAM",
+          "Storage": "2TB NVMe SSD",
+          "Graphic Processor": "Apple 14-core GPU"
+        }
+      },
+      {
+        "title": "Display And Audio Features",
+        "specs": {
+          "Screen Size": "14 inch Liquid Retina",
+          "Screen Resolution": "2560 x 1600 Pixel",
+          "Speakers": "Stereo Speakers with Dolby Atmos"
+        }
+      },
+      {
+        "title": "Port And Slot Features",
+        "specs": {
+          "USB Port": "2 x Thunderbolt 4, 1 x USB Type-A",
+          "HDMI Port": "1 x HDMI 2.1",
+          "Headphone Jack": "3.5 mm Combo Jack"
+        }
+      }
+    ]
   },
   {
     "id": "laptops-dell-alienware-m18-36",
@@ -1783,7 +4417,69 @@ export const PRODUCTS = [
     "aiScore": 87,
     "trending": false,
     "newArrival": false,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "Microchip",
+        "text": "Intel Core i9 14900HX"
+      },
+      {
+        "icon": "MemoryStick",
+        "text": "16GB LPDDR5X RAM"
+      },
+      {
+        "icon": "HardDrive",
+        "text": "512GB PCIe NVMe SSD"
+      },
+      {
+        "icon": "Laptop",
+        "text": "15.6 inch OLED Touch"
+      },
+      {
+        "icon": "MonitorPlay",
+        "text": "Windows 11 Pro"
+      },
+      {
+        "icon": "Battery",
+        "text": "99.9Wh Battery"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "specs": {
+          "Brand": "Dell",
+          "Model Name": "Dell Alienware m18",
+          "Color": "Lunar Silver",
+          "Operating System": "Windows 11 Pro"
+        }
+      },
+      {
+        "title": "Processor And Memory Features",
+        "specs": {
+          "Processor Name": "Intel Core i9 14900HX",
+          "RAM": "16GB LPDDR5X RAM",
+          "Storage": "512GB PCIe NVMe SSD",
+          "Graphic Processor": "NVIDIA RTX 4070"
+        }
+      },
+      {
+        "title": "Display And Audio Features",
+        "specs": {
+          "Screen Size": "15.6 inch OLED Touch",
+          "Screen Resolution": "3024 x 1964 Pixel",
+          "Speakers": "Stereo Speakers with Dolby Atmos"
+        }
+      },
+      {
+        "title": "Port And Slot Features",
+        "specs": {
+          "USB Port": "2 x Thunderbolt 4, 1 x USB Type-A",
+          "HDMI Port": "1 x HDMI 2.1",
+          "Headphone Jack": "3.5 mm Combo Jack"
+        }
+      }
+    ]
   },
   {
     "id": "laptops-dell-inspiron-16-plus-37",
@@ -1830,7 +4526,69 @@ export const PRODUCTS = [
     "aiScore": 88,
     "trending": true,
     "newArrival": false,
-    "bestSeller": false
+    "bestSeller": false,
+    "highlights": [
+      {
+        "icon": "Microchip",
+        "text": "Apple M3 Pro"
+      },
+      {
+        "icon": "MemoryStick",
+        "text": "16GB LPDDR5X RAM"
+      },
+      {
+        "icon": "HardDrive",
+        "text": "2TB NVMe SSD"
+      },
+      {
+        "icon": "Laptop",
+        "text": "14 inch Liquid Retina"
+      },
+      {
+        "icon": "MonitorPlay",
+        "text": "Windows 11 Home"
+      },
+      {
+        "icon": "Battery",
+        "text": "70Wh Battery"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "specs": {
+          "Brand": "Dell",
+          "Model Name": "Dell Inspiron 16 Plus",
+          "Color": "Midnight Black",
+          "Operating System": "Windows 11 Home"
+        }
+      },
+      {
+        "title": "Processor And Memory Features",
+        "specs": {
+          "Processor Name": "Apple M3 Pro",
+          "RAM": "16GB LPDDR5X RAM",
+          "Storage": "2TB NVMe SSD",
+          "Graphic Processor": "Apple 14-core GPU"
+        }
+      },
+      {
+        "title": "Display And Audio Features",
+        "specs": {
+          "Screen Size": "14 inch Liquid Retina",
+          "Screen Resolution": "1920 x 1080 Pixel",
+          "Speakers": "Stereo Speakers with Dolby Atmos"
+        }
+      },
+      {
+        "title": "Port And Slot Features",
+        "specs": {
+          "USB Port": "2 x Thunderbolt 4, 1 x USB Type-A",
+          "HDMI Port": "1 x HDMI 2.1",
+          "Headphone Jack": "3.5 mm Combo Jack"
+        }
+      }
+    ]
   },
   {
     "id": "laptops-hp-spectre-x360-14-38",
@@ -1877,7 +4635,69 @@ export const PRODUCTS = [
     "aiScore": 85,
     "trending": true,
     "newArrival": true,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "Microchip",
+        "text": "Intel Core i9 14900HX"
+      },
+      {
+        "icon": "MemoryStick",
+        "text": "32GB DDR5 RAM"
+      },
+      {
+        "icon": "HardDrive",
+        "text": "512GB PCIe NVMe SSD"
+      },
+      {
+        "icon": "Laptop",
+        "text": "14 inch Liquid Retina"
+      },
+      {
+        "icon": "MonitorPlay",
+        "text": "Windows 11 Pro"
+      },
+      {
+        "icon": "Battery",
+        "text": "99.9Wh Battery"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "specs": {
+          "Brand": "HP",
+          "Model Name": "HP Spectre x360 14",
+          "Color": "Space Gray",
+          "Operating System": "Windows 11 Pro"
+        }
+      },
+      {
+        "title": "Processor And Memory Features",
+        "specs": {
+          "Processor Name": "Intel Core i9 14900HX",
+          "RAM": "32GB DDR5 RAM",
+          "Storage": "512GB PCIe NVMe SSD",
+          "Graphic Processor": "Apple 14-core GPU"
+        }
+      },
+      {
+        "title": "Display And Audio Features",
+        "specs": {
+          "Screen Size": "14 inch Liquid Retina",
+          "Screen Resolution": "3024 x 1964 Pixel",
+          "Speakers": "Stereo Speakers with Dolby Atmos"
+        }
+      },
+      {
+        "title": "Port And Slot Features",
+        "specs": {
+          "USB Port": "2 x Thunderbolt 4, 1 x USB Type-A",
+          "HDMI Port": "1 x HDMI 2.1",
+          "Headphone Jack": "3.5 mm Combo Jack"
+        }
+      }
+    ]
   },
   {
     "id": "laptops-hp-envy-x360-39",
@@ -1924,7 +4744,69 @@ export const PRODUCTS = [
     "aiScore": 86,
     "trending": false,
     "newArrival": false,
-    "bestSeller": false
+    "bestSeller": false,
+    "highlights": [
+      {
+        "icon": "Microchip",
+        "text": "Intel Core Ultra 7"
+      },
+      {
+        "icon": "MemoryStick",
+        "text": "8GB Unified Memory"
+      },
+      {
+        "icon": "HardDrive",
+        "text": "512GB PCIe NVMe SSD"
+      },
+      {
+        "icon": "Laptop",
+        "text": "16 inch Mini-LED"
+      },
+      {
+        "icon": "MonitorPlay",
+        "text": "Windows 11 Home"
+      },
+      {
+        "icon": "Battery",
+        "text": "99.9Wh Battery"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "specs": {
+          "Brand": "HP",
+          "Model Name": "HP Envy x360",
+          "Color": "Midnight Black",
+          "Operating System": "Windows 11 Home"
+        }
+      },
+      {
+        "title": "Processor And Memory Features",
+        "specs": {
+          "Processor Name": "Intel Core Ultra 7",
+          "RAM": "8GB Unified Memory",
+          "Storage": "512GB PCIe NVMe SSD",
+          "Graphic Processor": "AMD Radeon 780M"
+        }
+      },
+      {
+        "title": "Display And Audio Features",
+        "specs": {
+          "Screen Size": "16 inch Mini-LED",
+          "Screen Resolution": "3024 x 1964 Pixel",
+          "Speakers": "Stereo Speakers with Dolby Atmos"
+        }
+      },
+      {
+        "title": "Port And Slot Features",
+        "specs": {
+          "USB Port": "2 x Thunderbolt 4, 1 x USB Type-A",
+          "HDMI Port": "1 x HDMI 2.1",
+          "Headphone Jack": "3.5 mm Combo Jack"
+        }
+      }
+    ]
   },
   {
     "id": "laptops-hp-omen-transcend-16-40",
@@ -1971,7 +4853,69 @@ export const PRODUCTS = [
     "aiScore": 87,
     "trending": false,
     "newArrival": false,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "Microchip",
+        "text": "Intel Core Ultra 7"
+      },
+      {
+        "icon": "MemoryStick",
+        "text": "32GB DDR5 RAM"
+      },
+      {
+        "icon": "HardDrive",
+        "text": "512GB PCIe NVMe SSD"
+      },
+      {
+        "icon": "Laptop",
+        "text": "18 inch QHD+ 240Hz"
+      },
+      {
+        "icon": "MonitorPlay",
+        "text": "Windows 11 Pro"
+      },
+      {
+        "icon": "Battery",
+        "text": "99.9Wh Battery"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "specs": {
+          "Brand": "HP",
+          "Model Name": "HP Omen Transcend 16",
+          "Color": "Midnight Black",
+          "Operating System": "Windows 11 Pro"
+        }
+      },
+      {
+        "title": "Processor And Memory Features",
+        "specs": {
+          "Processor Name": "Intel Core Ultra 7",
+          "RAM": "32GB DDR5 RAM",
+          "Storage": "512GB PCIe NVMe SSD",
+          "Graphic Processor": "NVIDIA RTX 4070"
+        }
+      },
+      {
+        "title": "Display And Audio Features",
+        "specs": {
+          "Screen Size": "18 inch QHD+ 240Hz",
+          "Screen Resolution": "1920 x 1080 Pixel",
+          "Speakers": "Stereo Speakers with Dolby Atmos"
+        }
+      },
+      {
+        "title": "Port And Slot Features",
+        "specs": {
+          "USB Port": "2 x Thunderbolt 4, 1 x USB Type-A",
+          "HDMI Port": "1 x HDMI 2.1",
+          "Headphone Jack": "3.5 mm Combo Jack"
+        }
+      }
+    ]
   },
   {
     "id": "laptops-hp-pavilion-plus-14-41",
@@ -2018,7 +4962,69 @@ export const PRODUCTS = [
     "aiScore": 88,
     "trending": true,
     "newArrival": false,
-    "bestSeller": false
+    "bestSeller": false,
+    "highlights": [
+      {
+        "icon": "Microchip",
+        "text": "Apple M3 Pro"
+      },
+      {
+        "icon": "MemoryStick",
+        "text": "32GB DDR5 RAM"
+      },
+      {
+        "icon": "HardDrive",
+        "text": "1TB PCIe 4.0 SSD"
+      },
+      {
+        "icon": "Laptop",
+        "text": "15.6 inch OLED Touch"
+      },
+      {
+        "icon": "MonitorPlay",
+        "text": "Windows 11 Home"
+      },
+      {
+        "icon": "Battery",
+        "text": "65Wh Battery"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "specs": {
+          "Brand": "HP",
+          "Model Name": "HP Pavilion Plus 14",
+          "Color": "Lunar Silver",
+          "Operating System": "Windows 11 Home"
+        }
+      },
+      {
+        "title": "Processor And Memory Features",
+        "specs": {
+          "Processor Name": "Apple M3 Pro",
+          "RAM": "32GB DDR5 RAM",
+          "Storage": "1TB PCIe 4.0 SSD",
+          "Graphic Processor": "Apple 14-core GPU"
+        }
+      },
+      {
+        "title": "Display And Audio Features",
+        "specs": {
+          "Screen Size": "15.6 inch OLED Touch",
+          "Screen Resolution": "2560 x 1600 Pixel",
+          "Speakers": "Stereo Speakers with Dolby Atmos"
+        }
+      },
+      {
+        "title": "Port And Slot Features",
+        "specs": {
+          "USB Port": "2 x Thunderbolt 4, 1 x USB Type-A",
+          "HDMI Port": "1 x HDMI 2.1",
+          "Headphone Jack": "3.5 mm Combo Jack"
+        }
+      }
+    ]
   },
   {
     "id": "laptops-lenovo-yoga-9i-42",
@@ -2065,7 +5071,69 @@ export const PRODUCTS = [
     "aiScore": 85,
     "trending": true,
     "newArrival": true,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "Microchip",
+        "text": "Apple M3 Pro"
+      },
+      {
+        "icon": "MemoryStick",
+        "text": "16GB LPDDR5X RAM"
+      },
+      {
+        "icon": "HardDrive",
+        "text": "1TB PCIe 4.0 SSD"
+      },
+      {
+        "icon": "Laptop",
+        "text": "15.6 inch OLED Touch"
+      },
+      {
+        "icon": "MonitorPlay",
+        "text": "Windows 11 Home"
+      },
+      {
+        "icon": "Battery",
+        "text": "99.9Wh Battery"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "specs": {
+          "Brand": "Lenovo",
+          "Model Name": "Lenovo Yoga 9i",
+          "Color": "Lunar Silver",
+          "Operating System": "Windows 11 Home"
+        }
+      },
+      {
+        "title": "Processor And Memory Features",
+        "specs": {
+          "Processor Name": "Apple M3 Pro",
+          "RAM": "16GB LPDDR5X RAM",
+          "Storage": "1TB PCIe 4.0 SSD",
+          "Graphic Processor": "Apple 14-core GPU"
+        }
+      },
+      {
+        "title": "Display And Audio Features",
+        "specs": {
+          "Screen Size": "15.6 inch OLED Touch",
+          "Screen Resolution": "3024 x 1964 Pixel",
+          "Speakers": "Stereo Speakers with Dolby Atmos"
+        }
+      },
+      {
+        "title": "Port And Slot Features",
+        "specs": {
+          "USB Port": "2 x Thunderbolt 4, 1 x USB Type-A",
+          "HDMI Port": "1 x HDMI 2.1",
+          "Headphone Jack": "3.5 mm Combo Jack"
+        }
+      }
+    ]
   },
   {
     "id": "laptops-lenovo-thinkpad-x1-carbon-gen-11-43",
@@ -2112,7 +5180,69 @@ export const PRODUCTS = [
     "aiScore": 86,
     "trending": false,
     "newArrival": false,
-    "bestSeller": false
+    "bestSeller": false,
+    "highlights": [
+      {
+        "icon": "Microchip",
+        "text": "AMD Ryzen 9 8945HS"
+      },
+      {
+        "icon": "MemoryStick",
+        "text": "32GB DDR5 RAM"
+      },
+      {
+        "icon": "HardDrive",
+        "text": "1TB PCIe 4.0 SSD"
+      },
+      {
+        "icon": "Laptop",
+        "text": "15.6 inch OLED Touch"
+      },
+      {
+        "icon": "MonitorPlay",
+        "text": "Windows 11 Pro"
+      },
+      {
+        "icon": "Battery",
+        "text": "70Wh Battery"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "specs": {
+          "Brand": "Lenovo",
+          "Model Name": "Lenovo ThinkPad X1 Carbon Gen 11",
+          "Color": "Midnight Black",
+          "Operating System": "Windows 11 Pro"
+        }
+      },
+      {
+        "title": "Processor And Memory Features",
+        "specs": {
+          "Processor Name": "AMD Ryzen 9 8945HS",
+          "RAM": "32GB DDR5 RAM",
+          "Storage": "1TB PCIe 4.0 SSD",
+          "Graphic Processor": "AMD Radeon 780M"
+        }
+      },
+      {
+        "title": "Display And Audio Features",
+        "specs": {
+          "Screen Size": "15.6 inch OLED Touch",
+          "Screen Resolution": "1920 x 1080 Pixel",
+          "Speakers": "Stereo Speakers with Dolby Atmos"
+        }
+      },
+      {
+        "title": "Port And Slot Features",
+        "specs": {
+          "USB Port": "2 x Thunderbolt 4, 1 x USB Type-A",
+          "HDMI Port": "1 x HDMI 2.1",
+          "Headphone Jack": "3.5 mm Combo Jack"
+        }
+      }
+    ]
   },
   {
     "id": "laptops-lenovo-legion-pro-7i-44",
@@ -2159,7 +5289,69 @@ export const PRODUCTS = [
     "aiScore": 87,
     "trending": false,
     "newArrival": false,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "Microchip",
+        "text": "Apple M3 Pro"
+      },
+      {
+        "icon": "MemoryStick",
+        "text": "16GB LPDDR5X RAM"
+      },
+      {
+        "icon": "HardDrive",
+        "text": "2TB NVMe SSD"
+      },
+      {
+        "icon": "Laptop",
+        "text": "15.6 inch OLED Touch"
+      },
+      {
+        "icon": "MonitorPlay",
+        "text": "Windows 11 Home"
+      },
+      {
+        "icon": "Battery",
+        "text": "70Wh Battery"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "specs": {
+          "Brand": "Lenovo",
+          "Model Name": "Lenovo Legion Pro 7i",
+          "Color": "Midnight Black",
+          "Operating System": "Windows 11 Home"
+        }
+      },
+      {
+        "title": "Processor And Memory Features",
+        "specs": {
+          "Processor Name": "Apple M3 Pro",
+          "RAM": "16GB LPDDR5X RAM",
+          "Storage": "2TB NVMe SSD",
+          "Graphic Processor": "Apple 14-core GPU"
+        }
+      },
+      {
+        "title": "Display And Audio Features",
+        "specs": {
+          "Screen Size": "15.6 inch OLED Touch",
+          "Screen Resolution": "3024 x 1964 Pixel",
+          "Speakers": "Stereo Speakers with Dolby Atmos"
+        }
+      },
+      {
+        "title": "Port And Slot Features",
+        "specs": {
+          "USB Port": "2 x Thunderbolt 4, 1 x USB Type-A",
+          "HDMI Port": "1 x HDMI 2.1",
+          "Headphone Jack": "3.5 mm Combo Jack"
+        }
+      }
+    ]
   },
   {
     "id": "laptops-lenovo-ideapad-slim-5-45",
@@ -2206,7 +5398,69 @@ export const PRODUCTS = [
     "aiScore": 88,
     "trending": true,
     "newArrival": false,
-    "bestSeller": false
+    "bestSeller": false,
+    "highlights": [
+      {
+        "icon": "Microchip",
+        "text": "AMD Ryzen 9 8945HS"
+      },
+      {
+        "icon": "MemoryStick",
+        "text": "32GB DDR5 RAM"
+      },
+      {
+        "icon": "HardDrive",
+        "text": "2TB NVMe SSD"
+      },
+      {
+        "icon": "Laptop",
+        "text": "18 inch QHD+ 240Hz"
+      },
+      {
+        "icon": "MonitorPlay",
+        "text": "macOS Sonoma"
+      },
+      {
+        "icon": "Battery",
+        "text": "70Wh Battery"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "specs": {
+          "Brand": "Lenovo",
+          "Model Name": "Lenovo IdeaPad Slim 5",
+          "Color": "Midnight Black",
+          "Operating System": "macOS Sonoma"
+        }
+      },
+      {
+        "title": "Processor And Memory Features",
+        "specs": {
+          "Processor Name": "AMD Ryzen 9 8945HS",
+          "RAM": "32GB DDR5 RAM",
+          "Storage": "2TB NVMe SSD",
+          "Graphic Processor": "Integrated Graphics"
+        }
+      },
+      {
+        "title": "Display And Audio Features",
+        "specs": {
+          "Screen Size": "18 inch QHD+ 240Hz",
+          "Screen Resolution": "2560 x 1600 Pixel",
+          "Speakers": "Stereo Speakers with Dolby Atmos"
+        }
+      },
+      {
+        "title": "Port And Slot Features",
+        "specs": {
+          "USB Port": "2 x Thunderbolt 4, 1 x USB Type-A",
+          "HDMI Port": "1 x HDMI 2.1",
+          "Headphone Jack": "3.5 mm Combo Jack"
+        }
+      }
+    ]
   },
   {
     "id": "laptops-asus-zenbook-14-oled-46",
@@ -2253,7 +5507,69 @@ export const PRODUCTS = [
     "aiScore": 85,
     "trending": true,
     "newArrival": true,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "Microchip",
+        "text": "Apple M3 Pro"
+      },
+      {
+        "icon": "MemoryStick",
+        "text": "16GB LPDDR5X RAM"
+      },
+      {
+        "icon": "HardDrive",
+        "text": "2TB NVMe SSD"
+      },
+      {
+        "icon": "Laptop",
+        "text": "15.6 inch OLED Touch"
+      },
+      {
+        "icon": "MonitorPlay",
+        "text": "Windows 11 Home"
+      },
+      {
+        "icon": "Battery",
+        "text": "65Wh Battery"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "specs": {
+          "Brand": "ASUS",
+          "Model Name": "ASUS Zenbook 14 OLED",
+          "Color": "Lunar Silver",
+          "Operating System": "Windows 11 Home"
+        }
+      },
+      {
+        "title": "Processor And Memory Features",
+        "specs": {
+          "Processor Name": "Apple M3 Pro",
+          "RAM": "16GB LPDDR5X RAM",
+          "Storage": "2TB NVMe SSD",
+          "Graphic Processor": "NVIDIA RTX 4070"
+        }
+      },
+      {
+        "title": "Display And Audio Features",
+        "specs": {
+          "Screen Size": "15.6 inch OLED Touch",
+          "Screen Resolution": "3024 x 1964 Pixel",
+          "Speakers": "Stereo Speakers with Dolby Atmos"
+        }
+      },
+      {
+        "title": "Port And Slot Features",
+        "specs": {
+          "USB Port": "2 x Thunderbolt 4, 1 x USB Type-A",
+          "HDMI Port": "1 x HDMI 2.1",
+          "Headphone Jack": "3.5 mm Combo Jack"
+        }
+      }
+    ]
   },
   {
     "id": "laptops-asus-rog-zephyrus-g14-47",
@@ -2300,7 +5616,69 @@ export const PRODUCTS = [
     "aiScore": 86,
     "trending": false,
     "newArrival": false,
-    "bestSeller": false
+    "bestSeller": false,
+    "highlights": [
+      {
+        "icon": "Microchip",
+        "text": "Intel Core Ultra 7"
+      },
+      {
+        "icon": "MemoryStick",
+        "text": "32GB DDR5 RAM"
+      },
+      {
+        "icon": "HardDrive",
+        "text": "512GB PCIe NVMe SSD"
+      },
+      {
+        "icon": "Laptop",
+        "text": "18 inch QHD+ 240Hz"
+      },
+      {
+        "icon": "MonitorPlay",
+        "text": "Windows 11 Home"
+      },
+      {
+        "icon": "Battery",
+        "text": "70Wh Battery"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "specs": {
+          "Brand": "ASUS",
+          "Model Name": "ASUS ROG Zephyrus G14",
+          "Color": "Midnight Black",
+          "Operating System": "Windows 11 Home"
+        }
+      },
+      {
+        "title": "Processor And Memory Features",
+        "specs": {
+          "Processor Name": "Intel Core Ultra 7",
+          "RAM": "32GB DDR5 RAM",
+          "Storage": "512GB PCIe NVMe SSD",
+          "Graphic Processor": "Apple 14-core GPU"
+        }
+      },
+      {
+        "title": "Display And Audio Features",
+        "specs": {
+          "Screen Size": "18 inch QHD+ 240Hz",
+          "Screen Resolution": "1920 x 1080 Pixel",
+          "Speakers": "Stereo Speakers with Dolby Atmos"
+        }
+      },
+      {
+        "title": "Port And Slot Features",
+        "specs": {
+          "USB Port": "2 x Thunderbolt 4, 1 x USB Type-A",
+          "HDMI Port": "1 x HDMI 2.1",
+          "Headphone Jack": "3.5 mm Combo Jack"
+        }
+      }
+    ]
   },
   {
     "id": "laptops-asus-vivobook-pro-15-48",
@@ -2347,7 +5725,69 @@ export const PRODUCTS = [
     "aiScore": 87,
     "trending": false,
     "newArrival": false,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "Microchip",
+        "text": "Intel Core i9 14900HX"
+      },
+      {
+        "icon": "MemoryStick",
+        "text": "32GB DDR5 RAM"
+      },
+      {
+        "icon": "HardDrive",
+        "text": "512GB PCIe NVMe SSD"
+      },
+      {
+        "icon": "Laptop",
+        "text": "18 inch QHD+ 240Hz"
+      },
+      {
+        "icon": "MonitorPlay",
+        "text": "Windows 11 Pro"
+      },
+      {
+        "icon": "Battery",
+        "text": "99.9Wh Battery"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "specs": {
+          "Brand": "ASUS",
+          "Model Name": "ASUS Vivobook Pro 15",
+          "Color": "Midnight Black",
+          "Operating System": "Windows 11 Pro"
+        }
+      },
+      {
+        "title": "Processor And Memory Features",
+        "specs": {
+          "Processor Name": "Intel Core i9 14900HX",
+          "RAM": "32GB DDR5 RAM",
+          "Storage": "512GB PCIe NVMe SSD",
+          "Graphic Processor": "Integrated Graphics"
+        }
+      },
+      {
+        "title": "Display And Audio Features",
+        "specs": {
+          "Screen Size": "18 inch QHD+ 240Hz",
+          "Screen Resolution": "3024 x 1964 Pixel",
+          "Speakers": "Stereo Speakers with Dolby Atmos"
+        }
+      },
+      {
+        "title": "Port And Slot Features",
+        "specs": {
+          "USB Port": "2 x Thunderbolt 4, 1 x USB Type-A",
+          "HDMI Port": "1 x HDMI 2.1",
+          "Headphone Jack": "3.5 mm Combo Jack"
+        }
+      }
+    ]
   },
   {
     "id": "laptops-asus-tuf-gaming-a15-49",
@@ -2394,7 +5834,69 @@ export const PRODUCTS = [
     "aiScore": 88,
     "trending": true,
     "newArrival": false,
-    "bestSeller": false
+    "bestSeller": false,
+    "highlights": [
+      {
+        "icon": "Microchip",
+        "text": "Apple M3 Pro"
+      },
+      {
+        "icon": "MemoryStick",
+        "text": "8GB Unified Memory"
+      },
+      {
+        "icon": "HardDrive",
+        "text": "1TB PCIe 4.0 SSD"
+      },
+      {
+        "icon": "Laptop",
+        "text": "15.6 inch OLED Touch"
+      },
+      {
+        "icon": "MonitorPlay",
+        "text": "Windows 11 Pro"
+      },
+      {
+        "icon": "Battery",
+        "text": "65Wh Battery"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "specs": {
+          "Brand": "ASUS",
+          "Model Name": "ASUS TUF Gaming A15",
+          "Color": "Lunar Silver",
+          "Operating System": "Windows 11 Pro"
+        }
+      },
+      {
+        "title": "Processor And Memory Features",
+        "specs": {
+          "Processor Name": "Apple M3 Pro",
+          "RAM": "8GB Unified Memory",
+          "Storage": "1TB PCIe 4.0 SSD",
+          "Graphic Processor": "AMD Radeon 780M"
+        }
+      },
+      {
+        "title": "Display And Audio Features",
+        "specs": {
+          "Screen Size": "15.6 inch OLED Touch",
+          "Screen Resolution": "3024 x 1964 Pixel",
+          "Speakers": "Stereo Speakers with Dolby Atmos"
+        }
+      },
+      {
+        "title": "Port And Slot Features",
+        "specs": {
+          "USB Port": "2 x Thunderbolt 4, 1 x USB Type-A",
+          "HDMI Port": "1 x HDMI 2.1",
+          "Headphone Jack": "3.5 mm Combo Jack"
+        }
+      }
+    ]
   },
   {
     "id": "laptops-acer-swift-go-14-50",
@@ -2441,7 +5943,69 @@ export const PRODUCTS = [
     "aiScore": 85,
     "trending": true,
     "newArrival": true,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "Microchip",
+        "text": "AMD Ryzen 9 8945HS"
+      },
+      {
+        "icon": "MemoryStick",
+        "text": "16GB LPDDR5X RAM"
+      },
+      {
+        "icon": "HardDrive",
+        "text": "1TB PCIe 4.0 SSD"
+      },
+      {
+        "icon": "Laptop",
+        "text": "15.6 inch OLED Touch"
+      },
+      {
+        "icon": "MonitorPlay",
+        "text": "Windows 11 Pro"
+      },
+      {
+        "icon": "Battery",
+        "text": "65Wh Battery"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "specs": {
+          "Brand": "Acer",
+          "Model Name": "Acer Swift Go 14",
+          "Color": "Space Gray",
+          "Operating System": "Windows 11 Pro"
+        }
+      },
+      {
+        "title": "Processor And Memory Features",
+        "specs": {
+          "Processor Name": "AMD Ryzen 9 8945HS",
+          "RAM": "16GB LPDDR5X RAM",
+          "Storage": "1TB PCIe 4.0 SSD",
+          "Graphic Processor": "Integrated Graphics"
+        }
+      },
+      {
+        "title": "Display And Audio Features",
+        "specs": {
+          "Screen Size": "15.6 inch OLED Touch",
+          "Screen Resolution": "2560 x 1600 Pixel",
+          "Speakers": "Stereo Speakers with Dolby Atmos"
+        }
+      },
+      {
+        "title": "Port And Slot Features",
+        "specs": {
+          "USB Port": "2 x Thunderbolt 4, 1 x USB Type-A",
+          "HDMI Port": "1 x HDMI 2.1",
+          "Headphone Jack": "3.5 mm Combo Jack"
+        }
+      }
+    ]
   },
   {
     "id": "laptops-acer-predator-helios-16-51",
@@ -2488,7 +6052,69 @@ export const PRODUCTS = [
     "aiScore": 86,
     "trending": false,
     "newArrival": false,
-    "bestSeller": false
+    "bestSeller": false,
+    "highlights": [
+      {
+        "icon": "Microchip",
+        "text": "AMD Ryzen 9 8945HS"
+      },
+      {
+        "icon": "MemoryStick",
+        "text": "32GB DDR5 RAM"
+      },
+      {
+        "icon": "HardDrive",
+        "text": "2TB NVMe SSD"
+      },
+      {
+        "icon": "Laptop",
+        "text": "18 inch QHD+ 240Hz"
+      },
+      {
+        "icon": "MonitorPlay",
+        "text": "macOS Sonoma"
+      },
+      {
+        "icon": "Battery",
+        "text": "70Wh Battery"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "specs": {
+          "Brand": "Acer",
+          "Model Name": "Acer Predator Helios 16",
+          "Color": "Space Gray",
+          "Operating System": "macOS Sonoma"
+        }
+      },
+      {
+        "title": "Processor And Memory Features",
+        "specs": {
+          "Processor Name": "AMD Ryzen 9 8945HS",
+          "RAM": "32GB DDR5 RAM",
+          "Storage": "2TB NVMe SSD",
+          "Graphic Processor": "AMD Radeon 780M"
+        }
+      },
+      {
+        "title": "Display And Audio Features",
+        "specs": {
+          "Screen Size": "18 inch QHD+ 240Hz",
+          "Screen Resolution": "1920 x 1080 Pixel",
+          "Speakers": "Stereo Speakers with Dolby Atmos"
+        }
+      },
+      {
+        "title": "Port And Slot Features",
+        "specs": {
+          "USB Port": "2 x Thunderbolt 4, 1 x USB Type-A",
+          "HDMI Port": "1 x HDMI 2.1",
+          "Headphone Jack": "3.5 mm Combo Jack"
+        }
+      }
+    ]
   },
   {
     "id": "laptops-acer-nitro-5-52",
@@ -2535,7 +6161,69 @@ export const PRODUCTS = [
     "aiScore": 87,
     "trending": false,
     "newArrival": false,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "Microchip",
+        "text": "Intel Core Ultra 7"
+      },
+      {
+        "icon": "MemoryStick",
+        "text": "32GB DDR5 RAM"
+      },
+      {
+        "icon": "HardDrive",
+        "text": "2TB NVMe SSD"
+      },
+      {
+        "icon": "Laptop",
+        "text": "16 inch Mini-LED"
+      },
+      {
+        "icon": "MonitorPlay",
+        "text": "Windows 11 Home"
+      },
+      {
+        "icon": "Battery",
+        "text": "70Wh Battery"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "specs": {
+          "Brand": "Acer",
+          "Model Name": "Acer Nitro 5",
+          "Color": "Lunar Silver",
+          "Operating System": "Windows 11 Home"
+        }
+      },
+      {
+        "title": "Processor And Memory Features",
+        "specs": {
+          "Processor Name": "Intel Core Ultra 7",
+          "RAM": "32GB DDR5 RAM",
+          "Storage": "2TB NVMe SSD",
+          "Graphic Processor": "Apple 14-core GPU"
+        }
+      },
+      {
+        "title": "Display And Audio Features",
+        "specs": {
+          "Screen Size": "16 inch Mini-LED",
+          "Screen Resolution": "3024 x 1964 Pixel",
+          "Speakers": "Stereo Speakers with Dolby Atmos"
+        }
+      },
+      {
+        "title": "Port And Slot Features",
+        "specs": {
+          "USB Port": "2 x Thunderbolt 4, 1 x USB Type-A",
+          "HDMI Port": "1 x HDMI 2.1",
+          "Headphone Jack": "3.5 mm Combo Jack"
+        }
+      }
+    ]
   },
   {
     "id": "laptops-acer-aspire-5-53",
@@ -2582,7 +6270,69 @@ export const PRODUCTS = [
     "aiScore": 88,
     "trending": true,
     "newArrival": false,
-    "bestSeller": false
+    "bestSeller": false,
+    "highlights": [
+      {
+        "icon": "Microchip",
+        "text": "Intel Core Ultra 7"
+      },
+      {
+        "icon": "MemoryStick",
+        "text": "16GB LPDDR5X RAM"
+      },
+      {
+        "icon": "HardDrive",
+        "text": "2TB NVMe SSD"
+      },
+      {
+        "icon": "Laptop",
+        "text": "14 inch Liquid Retina"
+      },
+      {
+        "icon": "MonitorPlay",
+        "text": "Windows 11 Pro"
+      },
+      {
+        "icon": "Battery",
+        "text": "70Wh Battery"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "specs": {
+          "Brand": "Acer",
+          "Model Name": "Acer Aspire 5",
+          "Color": "Space Gray",
+          "Operating System": "Windows 11 Pro"
+        }
+      },
+      {
+        "title": "Processor And Memory Features",
+        "specs": {
+          "Processor Name": "Intel Core Ultra 7",
+          "RAM": "16GB LPDDR5X RAM",
+          "Storage": "2TB NVMe SSD",
+          "Graphic Processor": "AMD Radeon 780M"
+        }
+      },
+      {
+        "title": "Display And Audio Features",
+        "specs": {
+          "Screen Size": "14 inch Liquid Retina",
+          "Screen Resolution": "1920 x 1080 Pixel",
+          "Speakers": "Stereo Speakers with Dolby Atmos"
+        }
+      },
+      {
+        "title": "Port And Slot Features",
+        "specs": {
+          "USB Port": "2 x Thunderbolt 4, 1 x USB Type-A",
+          "HDMI Port": "1 x HDMI 2.1",
+          "Headphone Jack": "3.5 mm Combo Jack"
+        }
+      }
+    ]
   },
   {
     "id": "laptops-msi-stealth-16-studio-54",
@@ -2629,7 +6379,69 @@ export const PRODUCTS = [
     "aiScore": 85,
     "trending": true,
     "newArrival": true,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "Microchip",
+        "text": "Intel Core Ultra 7"
+      },
+      {
+        "icon": "MemoryStick",
+        "text": "8GB Unified Memory"
+      },
+      {
+        "icon": "HardDrive",
+        "text": "1TB PCIe 4.0 SSD"
+      },
+      {
+        "icon": "Laptop",
+        "text": "15.6 inch OLED Touch"
+      },
+      {
+        "icon": "MonitorPlay",
+        "text": "Windows 11 Home"
+      },
+      {
+        "icon": "Battery",
+        "text": "99.9Wh Battery"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "specs": {
+          "Brand": "MSI",
+          "Model Name": "MSI Stealth 16 Studio",
+          "Color": "Lunar Silver",
+          "Operating System": "Windows 11 Home"
+        }
+      },
+      {
+        "title": "Processor And Memory Features",
+        "specs": {
+          "Processor Name": "Intel Core Ultra 7",
+          "RAM": "8GB Unified Memory",
+          "Storage": "1TB PCIe 4.0 SSD",
+          "Graphic Processor": "Apple 14-core GPU"
+        }
+      },
+      {
+        "title": "Display And Audio Features",
+        "specs": {
+          "Screen Size": "15.6 inch OLED Touch",
+          "Screen Resolution": "2560 x 1600 Pixel",
+          "Speakers": "Stereo Speakers with Dolby Atmos"
+        }
+      },
+      {
+        "title": "Port And Slot Features",
+        "specs": {
+          "USB Port": "2 x Thunderbolt 4, 1 x USB Type-A",
+          "HDMI Port": "1 x HDMI 2.1",
+          "Headphone Jack": "3.5 mm Combo Jack"
+        }
+      }
+    ]
   },
   {
     "id": "laptops-msi-raider-ge78-55",
@@ -2676,7 +6488,69 @@ export const PRODUCTS = [
     "aiScore": 86,
     "trending": false,
     "newArrival": false,
-    "bestSeller": false
+    "bestSeller": false,
+    "highlights": [
+      {
+        "icon": "Microchip",
+        "text": "Intel Core Ultra 7"
+      },
+      {
+        "icon": "MemoryStick",
+        "text": "8GB Unified Memory"
+      },
+      {
+        "icon": "HardDrive",
+        "text": "512GB PCIe NVMe SSD"
+      },
+      {
+        "icon": "Laptop",
+        "text": "14 inch Liquid Retina"
+      },
+      {
+        "icon": "MonitorPlay",
+        "text": "macOS Sonoma"
+      },
+      {
+        "icon": "Battery",
+        "text": "70Wh Battery"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "specs": {
+          "Brand": "MSI",
+          "Model Name": "MSI Raider GE78",
+          "Color": "Lunar Silver",
+          "Operating System": "macOS Sonoma"
+        }
+      },
+      {
+        "title": "Processor And Memory Features",
+        "specs": {
+          "Processor Name": "Intel Core Ultra 7",
+          "RAM": "8GB Unified Memory",
+          "Storage": "512GB PCIe NVMe SSD",
+          "Graphic Processor": "NVIDIA RTX 4070"
+        }
+      },
+      {
+        "title": "Display And Audio Features",
+        "specs": {
+          "Screen Size": "14 inch Liquid Retina",
+          "Screen Resolution": "2560 x 1600 Pixel",
+          "Speakers": "Stereo Speakers with Dolby Atmos"
+        }
+      },
+      {
+        "title": "Port And Slot Features",
+        "specs": {
+          "USB Port": "2 x Thunderbolt 4, 1 x USB Type-A",
+          "HDMI Port": "1 x HDMI 2.1",
+          "Headphone Jack": "3.5 mm Combo Jack"
+        }
+      }
+    ]
   },
   {
     "id": "laptops-msi-prestige-14-evo-56",
@@ -2723,7 +6597,69 @@ export const PRODUCTS = [
     "aiScore": 87,
     "trending": false,
     "newArrival": false,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "Microchip",
+        "text": "Intel Core i9 14900HX"
+      },
+      {
+        "icon": "MemoryStick",
+        "text": "8GB Unified Memory"
+      },
+      {
+        "icon": "HardDrive",
+        "text": "2TB NVMe SSD"
+      },
+      {
+        "icon": "Laptop",
+        "text": "14 inch Liquid Retina"
+      },
+      {
+        "icon": "MonitorPlay",
+        "text": "Windows 11 Pro"
+      },
+      {
+        "icon": "Battery",
+        "text": "65Wh Battery"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "specs": {
+          "Brand": "MSI",
+          "Model Name": "MSI Prestige 14 Evo",
+          "Color": "Midnight Black",
+          "Operating System": "Windows 11 Pro"
+        }
+      },
+      {
+        "title": "Processor And Memory Features",
+        "specs": {
+          "Processor Name": "Intel Core i9 14900HX",
+          "RAM": "8GB Unified Memory",
+          "Storage": "2TB NVMe SSD",
+          "Graphic Processor": "AMD Radeon 780M"
+        }
+      },
+      {
+        "title": "Display And Audio Features",
+        "specs": {
+          "Screen Size": "14 inch Liquid Retina",
+          "Screen Resolution": "3024 x 1964 Pixel",
+          "Speakers": "Stereo Speakers with Dolby Atmos"
+        }
+      },
+      {
+        "title": "Port And Slot Features",
+        "specs": {
+          "USB Port": "2 x Thunderbolt 4, 1 x USB Type-A",
+          "HDMI Port": "1 x HDMI 2.1",
+          "Headphone Jack": "3.5 mm Combo Jack"
+        }
+      }
+    ]
   },
   {
     "id": "laptops-msi-cyborg-15-57",
@@ -2770,7 +6706,69 @@ export const PRODUCTS = [
     "aiScore": 88,
     "trending": true,
     "newArrival": false,
-    "bestSeller": false
+    "bestSeller": false,
+    "highlights": [
+      {
+        "icon": "Microchip",
+        "text": "Intel Core Ultra 7"
+      },
+      {
+        "icon": "MemoryStick",
+        "text": "32GB DDR5 RAM"
+      },
+      {
+        "icon": "HardDrive",
+        "text": "2TB NVMe SSD"
+      },
+      {
+        "icon": "Laptop",
+        "text": "15.6 inch OLED Touch"
+      },
+      {
+        "icon": "MonitorPlay",
+        "text": "macOS Sonoma"
+      },
+      {
+        "icon": "Battery",
+        "text": "70Wh Battery"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "specs": {
+          "Brand": "MSI",
+          "Model Name": "MSI Cyborg 15",
+          "Color": "Lunar Silver",
+          "Operating System": "macOS Sonoma"
+        }
+      },
+      {
+        "title": "Processor And Memory Features",
+        "specs": {
+          "Processor Name": "Intel Core Ultra 7",
+          "RAM": "32GB DDR5 RAM",
+          "Storage": "2TB NVMe SSD",
+          "Graphic Processor": "NVIDIA RTX 4070"
+        }
+      },
+      {
+        "title": "Display And Audio Features",
+        "specs": {
+          "Screen Size": "15.6 inch OLED Touch",
+          "Screen Resolution": "1920 x 1080 Pixel",
+          "Speakers": "Stereo Speakers with Dolby Atmos"
+        }
+      },
+      {
+        "title": "Port And Slot Features",
+        "specs": {
+          "USB Port": "2 x Thunderbolt 4, 1 x USB Type-A",
+          "HDMI Port": "1 x HDMI 2.1",
+          "Headphone Jack": "3.5 mm Combo Jack"
+        }
+      }
+    ]
   },
   {
     "id": "tablets-apple-ipad-pro-12-9-m2-58",
@@ -2814,7 +6812,40 @@ export const PRODUCTS = [
     "aiScore": 85,
     "trending": true,
     "newArrival": true,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Apple",
+          "Model Name": "Apple iPad Pro 12.9\" M2",
+          "Category": "tablets",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "tablets-apple-ipad-air-5th-gen-59",
@@ -2858,7 +6889,40 @@ export const PRODUCTS = [
     "aiScore": 86,
     "trending": false,
     "newArrival": false,
-    "bestSeller": false
+    "bestSeller": false,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Apple",
+          "Model Name": "Apple iPad Air 5th Gen",
+          "Category": "tablets",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "tablets-apple-ipad-mini-6-60",
@@ -2902,7 +6966,40 @@ export const PRODUCTS = [
     "aiScore": 87,
     "trending": false,
     "newArrival": false,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Apple",
+          "Model Name": "Apple iPad mini 6",
+          "Category": "tablets",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "tablets-apple-ipad-10th-gen-61",
@@ -2946,7 +7043,40 @@ export const PRODUCTS = [
     "aiScore": 88,
     "trending": true,
     "newArrival": false,
-    "bestSeller": false
+    "bestSeller": false,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Apple",
+          "Model Name": "Apple iPad 10th Gen",
+          "Category": "tablets",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "tablets-samsung-galaxy-tab-s9-ultra-62",
@@ -2990,7 +7120,40 @@ export const PRODUCTS = [
     "aiScore": 85,
     "trending": true,
     "newArrival": true,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Samsung",
+          "Model Name": "Samsung Galaxy Tab S9 Ultra",
+          "Category": "tablets",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "tablets-samsung-galaxy-tab-s9--63",
@@ -3034,7 +7197,40 @@ export const PRODUCTS = [
     "aiScore": 86,
     "trending": false,
     "newArrival": false,
-    "bestSeller": false
+    "bestSeller": false,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Samsung",
+          "Model Name": "Samsung Galaxy Tab S9+",
+          "Category": "tablets",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "tablets-samsung-galaxy-tab-s9-fe-64",
@@ -3078,7 +7274,40 @@ export const PRODUCTS = [
     "aiScore": 87,
     "trending": false,
     "newArrival": false,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Samsung",
+          "Model Name": "Samsung Galaxy Tab S9 FE",
+          "Category": "tablets",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "tablets-samsung-galaxy-tab-a9--65",
@@ -3122,7 +7351,40 @@ export const PRODUCTS = [
     "aiScore": 88,
     "trending": true,
     "newArrival": false,
-    "bestSeller": false
+    "bestSeller": false,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Samsung",
+          "Model Name": "Samsung Galaxy Tab A9+",
+          "Category": "tablets",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "tablets-oneplus-oneplus-pad-66",
@@ -3166,7 +7428,40 @@ export const PRODUCTS = [
     "aiScore": 85,
     "trending": true,
     "newArrival": true,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "OnePlus",
+          "Model Name": "OnePlus OnePlus Pad",
+          "Category": "tablets",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "tablets-oneplus-oneplus-pad-go-67",
@@ -3210,7 +7505,40 @@ export const PRODUCTS = [
     "aiScore": 86,
     "trending": false,
     "newArrival": false,
-    "bestSeller": false
+    "bestSeller": false,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "OnePlus",
+          "Model Name": "OnePlus OnePlus Pad Go",
+          "Category": "tablets",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "tablets-xiaomi-xiaomi-pad-6-68",
@@ -3254,7 +7582,40 @@ export const PRODUCTS = [
     "aiScore": 85,
     "trending": true,
     "newArrival": true,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Xiaomi",
+          "Model Name": "Xiaomi Xiaomi Pad 6",
+          "Category": "tablets",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "tablets-xiaomi-xiaomi-pad-6-pro-69",
@@ -3298,7 +7659,40 @@ export const PRODUCTS = [
     "aiScore": 86,
     "trending": false,
     "newArrival": false,
-    "bestSeller": false
+    "bestSeller": false,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Xiaomi",
+          "Model Name": "Xiaomi Xiaomi Pad 6 Pro",
+          "Category": "tablets",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "headphones-sony-wh-1000xm5-70",
@@ -3342,7 +7736,40 @@ export const PRODUCTS = [
     "aiScore": 85,
     "trending": true,
     "newArrival": true,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Sony",
+          "Model Name": "Sony WH-1000XM5",
+          "Category": "headphones",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "headphones-sony-wf-1000xm5-71",
@@ -3386,7 +7813,40 @@ export const PRODUCTS = [
     "aiScore": 86,
     "trending": false,
     "newArrival": false,
-    "bestSeller": false
+    "bestSeller": false,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Sony",
+          "Model Name": "Sony WF-1000XM5",
+          "Category": "headphones",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "headphones-sony-linkbuds-s-72",
@@ -3430,7 +7890,40 @@ export const PRODUCTS = [
     "aiScore": 87,
     "trending": false,
     "newArrival": false,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Sony",
+          "Model Name": "Sony LinkBuds S",
+          "Category": "headphones",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "headphones-sony-inzone-h9-73",
@@ -3474,7 +7967,40 @@ export const PRODUCTS = [
     "aiScore": 88,
     "trending": true,
     "newArrival": false,
-    "bestSeller": false
+    "bestSeller": false,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Sony",
+          "Model Name": "Sony Inzone H9",
+          "Category": "headphones",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "headphones-bose-quietcomfort-ultra-headphones-74",
@@ -3518,7 +8044,40 @@ export const PRODUCTS = [
     "aiScore": 85,
     "trending": true,
     "newArrival": true,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Bose",
+          "Model Name": "Bose QuietComfort Ultra Headphones",
+          "Category": "headphones",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "headphones-bose-quietcomfort-ultra-earbuds-75",
@@ -3562,7 +8121,40 @@ export const PRODUCTS = [
     "aiScore": 86,
     "trending": false,
     "newArrival": false,
-    "bestSeller": false
+    "bestSeller": false,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Bose",
+          "Model Name": "Bose QuietComfort Ultra Earbuds",
+          "Category": "headphones",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "headphones-bose-quietcomfort-45-76",
@@ -3606,7 +8198,40 @@ export const PRODUCTS = [
     "aiScore": 87,
     "trending": false,
     "newArrival": false,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Bose",
+          "Model Name": "Bose QuietComfort 45",
+          "Category": "headphones",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "headphones-apple-airpods-pro-2nd-gen--77",
@@ -3650,7 +8275,40 @@ export const PRODUCTS = [
     "aiScore": 85,
     "trending": true,
     "newArrival": true,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Apple",
+          "Model Name": "Apple AirPods Pro (2nd Gen)",
+          "Category": "headphones",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "headphones-apple-airpods-max-78",
@@ -3694,7 +8352,40 @@ export const PRODUCTS = [
     "aiScore": 86,
     "trending": false,
     "newArrival": false,
-    "bestSeller": false
+    "bestSeller": false,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Apple",
+          "Model Name": "Apple AirPods Max",
+          "Category": "headphones",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "headphones-apple-airpods-3rd-gen--79",
@@ -3738,7 +8429,40 @@ export const PRODUCTS = [
     "aiScore": 87,
     "trending": false,
     "newArrival": false,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Apple",
+          "Model Name": "Apple AirPods (3rd Gen)",
+          "Category": "headphones",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "headphones-jbl-tour-one-m2-80",
@@ -3782,7 +8506,40 @@ export const PRODUCTS = [
     "aiScore": 85,
     "trending": true,
     "newArrival": true,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "JBL",
+          "Model Name": "JBL Tour One M2",
+          "Category": "headphones",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "headphones-jbl-live-pro-2-81",
@@ -3826,7 +8583,40 @@ export const PRODUCTS = [
     "aiScore": 86,
     "trending": false,
     "newArrival": false,
-    "bestSeller": false
+    "bestSeller": false,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "JBL",
+          "Model Name": "JBL Live Pro 2",
+          "Category": "headphones",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "headphones-jbl-quantum-910-82",
@@ -3870,7 +8660,40 @@ export const PRODUCTS = [
     "aiScore": 87,
     "trending": false,
     "newArrival": false,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "JBL",
+          "Model Name": "JBL Quantum 910",
+          "Category": "headphones",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "headphones-jbl-tune-770nc-83",
@@ -3914,7 +8737,40 @@ export const PRODUCTS = [
     "aiScore": 88,
     "trending": true,
     "newArrival": false,
-    "bestSeller": false
+    "bestSeller": false,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "JBL",
+          "Model Name": "JBL Tune 770NC",
+          "Category": "headphones",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "headphones-sennheiser-momentum-4-wireless-84",
@@ -3958,7 +8814,40 @@ export const PRODUCTS = [
     "aiScore": 85,
     "trending": true,
     "newArrival": true,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Sennheiser",
+          "Model Name": "Sennheiser Momentum 4 Wireless",
+          "Category": "headphones",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "headphones-sennheiser-momentum-true-wireless-3-85",
@@ -4002,7 +8891,40 @@ export const PRODUCTS = [
     "aiScore": 86,
     "trending": false,
     "newArrival": false,
-    "bestSeller": false
+    "bestSeller": false,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Sennheiser",
+          "Model Name": "Sennheiser Momentum True Wireless 3",
+          "Category": "headphones",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "headphones-sennheiser-hd-660s2-86",
@@ -4046,7 +8968,40 @@ export const PRODUCTS = [
     "aiScore": 87,
     "trending": false,
     "newArrival": false,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Sennheiser",
+          "Model Name": "Sennheiser HD 660S2",
+          "Category": "headphones",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "headphones-nothing-ear-2--87",
@@ -4090,7 +9045,40 @@ export const PRODUCTS = [
     "aiScore": 85,
     "trending": true,
     "newArrival": true,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Nothing",
+          "Model Name": "Nothing Ear (2)",
+          "Category": "headphones",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "headphones-nothing-ear-stick--88",
@@ -4134,7 +9122,40 @@ export const PRODUCTS = [
     "aiScore": 86,
     "trending": false,
     "newArrival": false,
-    "bestSeller": false
+    "bestSeller": false,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Nothing",
+          "Model Name": "Nothing Ear (stick)",
+          "Category": "headphones",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "headphones-nothing-cmf-buds-pro-89",
@@ -4178,7 +9199,40 @@ export const PRODUCTS = [
     "aiScore": 87,
     "trending": false,
     "newArrival": false,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Nothing",
+          "Model Name": "Nothing CMF Buds Pro",
+          "Category": "headphones",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "headphones-samsung-galaxy-buds2-pro-90",
@@ -4222,7 +9276,40 @@ export const PRODUCTS = [
     "aiScore": 85,
     "trending": true,
     "newArrival": true,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Samsung",
+          "Model Name": "Samsung Galaxy Buds2 Pro",
+          "Category": "headphones",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "headphones-samsung-galaxy-buds-fe-91",
@@ -4266,7 +9353,40 @@ export const PRODUCTS = [
     "aiScore": 86,
     "trending": false,
     "newArrival": false,
-    "bestSeller": false
+    "bestSeller": false,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Samsung",
+          "Model Name": "Samsung Galaxy Buds FE",
+          "Category": "headphones",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "headphones-samsung-galaxy-buds-live-92",
@@ -4310,7 +9430,40 @@ export const PRODUCTS = [
     "aiScore": 87,
     "trending": false,
     "newArrival": false,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Samsung",
+          "Model Name": "Samsung Galaxy Buds Live",
+          "Category": "headphones",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "gaming-sony-playstation-5-pro-93",
@@ -4354,7 +9507,40 @@ export const PRODUCTS = [
     "aiScore": 85,
     "trending": true,
     "newArrival": true,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Sony",
+          "Model Name": "Sony PlayStation 5 Pro",
+          "Category": "gaming",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "gaming-sony-playstation-5-slim-94",
@@ -4398,7 +9584,40 @@ export const PRODUCTS = [
     "aiScore": 86,
     "trending": false,
     "newArrival": false,
-    "bestSeller": false
+    "bestSeller": false,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Sony",
+          "Model Name": "Sony PlayStation 5 Slim",
+          "Category": "gaming",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "gaming-sony-playstation-portal-95",
@@ -4442,7 +9661,40 @@ export const PRODUCTS = [
     "aiScore": 87,
     "trending": false,
     "newArrival": false,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Sony",
+          "Model Name": "Sony PlayStation Portal",
+          "Category": "gaming",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "gaming-sony-dualsense-edge-controller-96",
@@ -4486,7 +9738,40 @@ export const PRODUCTS = [
     "aiScore": 88,
     "trending": true,
     "newArrival": false,
-    "bestSeller": false
+    "bestSeller": false,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Sony",
+          "Model Name": "Sony DualSense Edge Controller",
+          "Category": "gaming",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "gaming-microsoft-xbox-series-x-97",
@@ -4530,7 +9815,40 @@ export const PRODUCTS = [
     "aiScore": 85,
     "trending": true,
     "newArrival": true,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Microsoft",
+          "Model Name": "Microsoft Xbox Series X",
+          "Category": "gaming",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "gaming-microsoft-xbox-series-s-1tb-98",
@@ -4574,7 +9892,40 @@ export const PRODUCTS = [
     "aiScore": 86,
     "trending": false,
     "newArrival": false,
-    "bestSeller": false
+    "bestSeller": false,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Microsoft",
+          "Model Name": "Microsoft Xbox Series S - 1TB",
+          "Category": "gaming",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "gaming-microsoft-xbox-elite-wireless-controller-series-2-99",
@@ -4618,7 +9969,40 @@ export const PRODUCTS = [
     "aiScore": 87,
     "trending": false,
     "newArrival": false,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Microsoft",
+          "Model Name": "Microsoft Xbox Elite Wireless Controller Series 2",
+          "Category": "gaming",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "gaming-nintendo-nintendo-switch-oled-100",
@@ -4662,7 +10046,40 @@ export const PRODUCTS = [
     "aiScore": 85,
     "trending": true,
     "newArrival": true,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Nintendo",
+          "Model Name": "Nintendo Nintendo Switch OLED",
+          "Category": "gaming",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "gaming-nintendo-nintendo-switch-lite-101",
@@ -4706,7 +10123,40 @@ export const PRODUCTS = [
     "aiScore": 86,
     "trending": false,
     "newArrival": false,
-    "bestSeller": false
+    "bestSeller": false,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Nintendo",
+          "Model Name": "Nintendo Nintendo Switch Lite",
+          "Category": "gaming",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "gaming-nintendo-switch-pro-controller-102",
@@ -4750,7 +10200,40 @@ export const PRODUCTS = [
     "aiScore": 87,
     "trending": false,
     "newArrival": false,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Nintendo",
+          "Model Name": "Nintendo Switch Pro Controller",
+          "Category": "gaming",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "gaming-logitech-g-pro-x-superlight-2-103",
@@ -4794,7 +10277,40 @@ export const PRODUCTS = [
     "aiScore": 85,
     "trending": true,
     "newArrival": true,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Logitech",
+          "Model Name": "Logitech G Pro X Superlight 2",
+          "Category": "gaming",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "gaming-logitech-g915-lightspeed-keyboard-104",
@@ -4838,7 +10354,40 @@ export const PRODUCTS = [
     "aiScore": 86,
     "trending": false,
     "newArrival": false,
-    "bestSeller": false
+    "bestSeller": false,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Logitech",
+          "Model Name": "Logitech G915 Lightspeed Keyboard",
+          "Category": "gaming",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "gaming-logitech-g502-x-plus-105",
@@ -4882,7 +10431,40 @@ export const PRODUCTS = [
     "aiScore": 87,
     "trending": false,
     "newArrival": false,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Logitech",
+          "Model Name": "Logitech G502 X Plus",
+          "Category": "gaming",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "gaming-logitech-astro-a50-x-106",
@@ -4926,7 +10508,40 @@ export const PRODUCTS = [
     "aiScore": 88,
     "trending": true,
     "newArrival": false,
-    "bestSeller": false
+    "bestSeller": false,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Logitech",
+          "Model Name": "Logitech Astro A50 X",
+          "Category": "gaming",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "gaming-razer-viper-v3-pro-107",
@@ -4970,7 +10585,40 @@ export const PRODUCTS = [
     "aiScore": 85,
     "trending": true,
     "newArrival": true,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Razer",
+          "Model Name": "Razer Viper V3 Pro",
+          "Category": "gaming",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "gaming-razer-blackwidow-v4-pro-108",
@@ -5014,7 +10662,40 @@ export const PRODUCTS = [
     "aiScore": 86,
     "trending": false,
     "newArrival": false,
-    "bestSeller": false
+    "bestSeller": false,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Razer",
+          "Model Name": "Razer BlackWidow V4 Pro",
+          "Category": "gaming",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "gaming-razer-kraken-v3-hypersense-109",
@@ -5058,7 +10739,40 @@ export const PRODUCTS = [
     "aiScore": 87,
     "trending": false,
     "newArrival": false,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Razer",
+          "Model Name": "Razer Kraken V3 Hypersense",
+          "Category": "gaming",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "gaming-razer-wolverine-v2-pro-110",
@@ -5102,7 +10816,40 @@ export const PRODUCTS = [
     "aiScore": 88,
     "trending": true,
     "newArrival": false,
-    "bestSeller": false
+    "bestSeller": false,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Razer",
+          "Model Name": "Razer Wolverine V2 Pro",
+          "Category": "gaming",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "gaming-asus-rog-ally-z1-extreme-111",
@@ -5146,7 +10893,40 @@ export const PRODUCTS = [
     "aiScore": 85,
     "trending": true,
     "newArrival": true,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "ASUS",
+          "Model Name": "ASUS ROG Ally Z1 Extreme",
+          "Category": "gaming",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "gaming-asus-rog-raikiri-pro-112",
@@ -5190,7 +10970,40 @@ export const PRODUCTS = [
     "aiScore": 86,
     "trending": false,
     "newArrival": false,
-    "bestSeller": false
+    "bestSeller": false,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "ASUS",
+          "Model Name": "ASUS ROG Raikiri Pro",
+          "Category": "gaming",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "gaming-asus-rog-cetra-true-wireless-113",
@@ -5234,7 +11047,40 @@ export const PRODUCTS = [
     "aiScore": 87,
     "trending": false,
     "newArrival": false,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "ASUS",
+          "Model Name": "ASUS ROG Cetra True Wireless",
+          "Category": "gaming",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "home-appliances-lg-oled-evo-c3-65-tv-114",
@@ -5278,7 +11124,40 @@ export const PRODUCTS = [
     "aiScore": 85,
     "trending": true,
     "newArrival": true,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "LG",
+          "Model Name": "LG OLED evo C3 65\" TV",
+          "Category": "home-appliances",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "home-appliances-lg-washtower-smart-laundry-115",
@@ -5322,7 +11201,40 @@ export const PRODUCTS = [
     "aiScore": 86,
     "trending": false,
     "newArrival": false,
-    "bestSeller": false
+    "bestSeller": false,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "LG",
+          "Model Name": "LG WashTower Smart Laundry",
+          "Category": "home-appliances",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "home-appliances-lg-instaview-refrigerator-116",
@@ -5366,7 +11278,40 @@ export const PRODUCTS = [
     "aiScore": 87,
     "trending": false,
     "newArrival": false,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "LG",
+          "Model Name": "LG InstaView Refrigerator",
+          "Category": "home-appliances",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "home-appliances-lg-cordzero-a9-stick-vacuum-117",
@@ -5410,7 +11355,40 @@ export const PRODUCTS = [
     "aiScore": 88,
     "trending": true,
     "newArrival": false,
-    "bestSeller": false
+    "bestSeller": false,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "LG",
+          "Model Name": "LG CordZero A9 Stick Vacuum",
+          "Category": "home-appliances",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "home-appliances-samsung-neo-qled-8k-tv-118",
@@ -5454,7 +11432,40 @@ export const PRODUCTS = [
     "aiScore": 85,
     "trending": true,
     "newArrival": true,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Samsung",
+          "Model Name": "Samsung Neo QLED 8K TV",
+          "Category": "home-appliances",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "home-appliances-samsung-bespoke-4-door-flex-refrigerator-119",
@@ -5498,7 +11509,40 @@ export const PRODUCTS = [
     "aiScore": 86,
     "trending": false,
     "newArrival": false,
-    "bestSeller": false
+    "bestSeller": false,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Samsung",
+          "Model Name": "Samsung Bespoke 4-Door Flex Refrigerator",
+          "Category": "home-appliances",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "home-appliances-samsung-bespoke-jet-ai-vacuum-120",
@@ -5542,7 +11586,40 @@ export const PRODUCTS = [
     "aiScore": 87,
     "trending": false,
     "newArrival": false,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Samsung",
+          "Model Name": "Samsung Bespoke Jet AI Vacuum",
+          "Category": "home-appliances",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "home-appliances-samsung-smart-dial-washer-121",
@@ -5586,7 +11663,40 @@ export const PRODUCTS = [
     "aiScore": 88,
     "trending": true,
     "newArrival": false,
-    "bestSeller": false
+    "bestSeller": false,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Samsung",
+          "Model Name": "Samsung Smart Dial Washer",
+          "Category": "home-appliances",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "home-appliances-whirlpool-smart-front-load-washer-122",
@@ -5630,7 +11740,40 @@ export const PRODUCTS = [
     "aiScore": 85,
     "trending": true,
     "newArrival": true,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Whirlpool",
+          "Model Name": "Whirlpool Smart Front Load Washer",
+          "Category": "home-appliances",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "home-appliances-whirlpool-french-door-refrigerator-123",
@@ -5674,7 +11817,40 @@ export const PRODUCTS = [
     "aiScore": 86,
     "trending": false,
     "newArrival": false,
-    "bestSeller": false
+    "bestSeller": false,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Whirlpool",
+          "Model Name": "Whirlpool French Door Refrigerator",
+          "Category": "home-appliances",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "home-appliances-whirlpool-smart-double-wall-oven-124",
@@ -5718,7 +11894,40 @@ export const PRODUCTS = [
     "aiScore": 87,
     "trending": false,
     "newArrival": false,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Whirlpool",
+          "Model Name": "Whirlpool Smart Double Wall Oven",
+          "Category": "home-appliances",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "home-appliances-bosch-800-series-dishwasher-125",
@@ -5762,7 +11971,40 @@ export const PRODUCTS = [
     "aiScore": 85,
     "trending": true,
     "newArrival": true,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Bosch",
+          "Model Name": "Bosch 800 Series Dishwasher",
+          "Category": "home-appliances",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "home-appliances-bosch-500-series-refrigerator-126",
@@ -5806,7 +12048,40 @@ export const PRODUCTS = [
     "aiScore": 86,
     "trending": false,
     "newArrival": false,
-    "bestSeller": false
+    "bestSeller": false,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Bosch",
+          "Model Name": "Bosch 500 Series Refrigerator",
+          "Category": "home-appliances",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "home-appliances-bosch-benchmark-induction-cooktop-127",
@@ -5850,7 +12125,40 @@ export const PRODUCTS = [
     "aiScore": 87,
     "trending": false,
     "newArrival": false,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Bosch",
+          "Model Name": "Bosch Benchmark Induction Cooktop",
+          "Category": "home-appliances",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "home-appliances-ifb-senator-wss-8kg-washer-128",
@@ -5894,7 +12202,40 @@ export const PRODUCTS = [
     "aiScore": 85,
     "trending": true,
     "newArrival": true,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "IFB",
+          "Model Name": "IFB Senator WSS 8kg Washer",
+          "Category": "home-appliances",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "home-appliances-ifb-neptune-vx-dishwasher-129",
@@ -5938,7 +12279,40 @@ export const PRODUCTS = [
     "aiScore": 86,
     "trending": false,
     "newArrival": false,
-    "bestSeller": false
+    "bestSeller": false,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "IFB",
+          "Model Name": "IFB Neptune VX Dishwasher",
+          "Category": "home-appliances",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "home-appliances-ifb-microwave-oven-30l-130",
@@ -5982,7 +12356,40 @@ export const PRODUCTS = [
     "aiScore": 87,
     "trending": false,
     "newArrival": false,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "IFB",
+          "Model Name": "IFB Microwave Oven 30L",
+          "Category": "home-appliances",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "home-appliances-philips-air-purifier-3000i-131",
@@ -6026,7 +12433,40 @@ export const PRODUCTS = [
     "aiScore": 85,
     "trending": true,
     "newArrival": true,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Philips",
+          "Model Name": "Philips Air Purifier 3000i",
+          "Category": "home-appliances",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "home-appliances-philips-perfectcare-elite-steam-iron-132",
@@ -6070,7 +12510,40 @@ export const PRODUCTS = [
     "aiScore": 86,
     "trending": false,
     "newArrival": false,
-    "bestSeller": false
+    "bestSeller": false,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Philips",
+          "Model Name": "Philips PerfectCare Elite Steam Iron",
+          "Category": "home-appliances",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "home-appliances-philips-eco-conscious-edition-kettle-133",
@@ -6114,7 +12587,40 @@ export const PRODUCTS = [
     "aiScore": 87,
     "trending": false,
     "newArrival": false,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Philips",
+          "Model Name": "Philips Eco Conscious Edition Kettle",
+          "Category": "home-appliances",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "books-penguin-atomic-habits-134",
@@ -6158,7 +12664,40 @@ export const PRODUCTS = [
     "aiScore": 85,
     "trending": true,
     "newArrival": true,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Penguin",
+          "Model Name": "Penguin Atomic Habits",
+          "Category": "books",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "books-penguin-the-psychology-of-money-135",
@@ -6202,7 +12741,40 @@ export const PRODUCTS = [
     "aiScore": 86,
     "trending": false,
     "newArrival": false,
-    "bestSeller": false
+    "bestSeller": false,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Penguin",
+          "Model Name": "Penguin The Psychology of Money",
+          "Category": "books",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "books-penguin-thinking-fast-and-slow-136",
@@ -6246,7 +12818,40 @@ export const PRODUCTS = [
     "aiScore": 87,
     "trending": false,
     "newArrival": false,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Penguin",
+          "Model Name": "Penguin Thinking, Fast and Slow",
+          "Category": "books",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "books-harpercollins-the-alchemist-137",
@@ -6290,7 +12895,40 @@ export const PRODUCTS = [
     "aiScore": 85,
     "trending": true,
     "newArrival": true,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "HarperCollins",
+          "Model Name": "HarperCollins The Alchemist",
+          "Category": "books",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "books-harpercollins-sapiens-a-brief-history-of-humankind-138",
@@ -6334,7 +12972,40 @@ export const PRODUCTS = [
     "aiScore": 86,
     "trending": false,
     "newArrival": false,
-    "bestSeller": false
+    "bestSeller": false,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "HarperCollins",
+          "Model Name": "HarperCollins Sapiens: A Brief History of Humankind",
+          "Category": "books",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "books-harpercollins-ikigai-139",
@@ -6378,7 +13049,40 @@ export const PRODUCTS = [
     "aiScore": 87,
     "trending": false,
     "newArrival": false,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "HarperCollins",
+          "Model Name": "HarperCollins Ikigai",
+          "Category": "books",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "books-simon-schuster-steve-jobs-biography-140",
@@ -6422,7 +13126,40 @@ export const PRODUCTS = [
     "aiScore": 85,
     "trending": true,
     "newArrival": true,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Simon & Schuster",
+          "Model Name": "Simon & Schuster Steve Jobs Biography",
+          "Category": "books",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "books-simon-schuster-principles-by-ray-dalio-141",
@@ -6466,7 +13203,40 @@ export const PRODUCTS = [
     "aiScore": 86,
     "trending": false,
     "newArrival": false,
-    "bestSeller": false
+    "bestSeller": false,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Simon & Schuster",
+          "Model Name": "Simon & Schuster Principles by Ray Dalio",
+          "Category": "books",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "books-simon-schuster-shoe-dog-142",
@@ -6510,7 +13280,40 @@ export const PRODUCTS = [
     "aiScore": 87,
     "trending": false,
     "newArrival": false,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Simon & Schuster",
+          "Model Name": "Simon & Schuster Shoe Dog",
+          "Category": "books",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "fashion-nike-air-force-1-07-143",
@@ -6554,7 +13357,40 @@ export const PRODUCTS = [
     "aiScore": 85,
     "trending": true,
     "newArrival": true,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Nike",
+          "Model Name": "Nike Air Force 1 '07",
+          "Category": "fashion",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "fashion-nike-tech-fleece-full-zip-144",
@@ -6598,7 +13434,40 @@ export const PRODUCTS = [
     "aiScore": 86,
     "trending": false,
     "newArrival": false,
-    "bestSeller": false
+    "bestSeller": false,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Nike",
+          "Model Name": "Nike Tech Fleece Full-Zip",
+          "Category": "fashion",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "fashion-nike-sportswear-club-fleece-pants-145",
@@ -6642,7 +13511,40 @@ export const PRODUCTS = [
     "aiScore": 87,
     "trending": false,
     "newArrival": false,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Nike",
+          "Model Name": "Nike Sportswear Club Fleece Pants",
+          "Category": "fashion",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "fashion-adidas-ultraboost-light-146",
@@ -6686,7 +13588,40 @@ export const PRODUCTS = [
     "aiScore": 85,
     "trending": true,
     "newArrival": true,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Adidas",
+          "Model Name": "Adidas Ultraboost Light",
+          "Category": "fashion",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "fashion-adidas-samba-og-shoes-147",
@@ -6730,7 +13665,40 @@ export const PRODUCTS = [
     "aiScore": 86,
     "trending": false,
     "newArrival": false,
-    "bestSeller": false
+    "bestSeller": false,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Adidas",
+          "Model Name": "Adidas Samba OG Shoes",
+          "Category": "fashion",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "fashion-adidas-adicolor-classics-track-jacket-148",
@@ -6774,7 +13742,40 @@ export const PRODUCTS = [
     "aiScore": 87,
     "trending": false,
     "newArrival": false,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Adidas",
+          "Model Name": "Adidas Adicolor Classics Track Jacket",
+          "Category": "fashion",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "fashion-patagonia-better-sweater-fleece-149",
@@ -6818,7 +13819,40 @@ export const PRODUCTS = [
     "aiScore": 85,
     "trending": true,
     "newArrival": true,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Patagonia",
+          "Model Name": "Patagonia Better Sweater Fleece",
+          "Category": "fashion",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "fashion-patagonia-torrentshell-3l-rain-jacket-150",
@@ -6862,7 +13896,40 @@ export const PRODUCTS = [
     "aiScore": 86,
     "trending": false,
     "newArrival": false,
-    "bestSeller": false
+    "bestSeller": false,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Patagonia",
+          "Model Name": "Patagonia Torrentshell 3L Rain Jacket",
+          "Category": "fashion",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "fashion-patagonia-nano-puff-jacket-151",
@@ -6906,7 +13973,40 @@ export const PRODUCTS = [
     "aiScore": 87,
     "trending": false,
     "newArrival": false,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Patagonia",
+          "Model Name": "Patagonia Nano Puff Jacket",
+          "Category": "fashion",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "fashion-the-north-face-nuptse-1996-retro-jacket-152",
@@ -6950,7 +14050,40 @@ export const PRODUCTS = [
     "aiScore": 85,
     "trending": true,
     "newArrival": true,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "The North Face",
+          "Model Name": "The North Face Nuptse 1996 Retro Jacket",
+          "Category": "fashion",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "fashion-the-north-face-borealis-backpack-153",
@@ -6994,7 +14127,40 @@ export const PRODUCTS = [
     "aiScore": 86,
     "trending": false,
     "newArrival": false,
-    "bestSeller": false
+    "bestSeller": false,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "The North Face",
+          "Model Name": "The North Face Borealis Backpack",
+          "Category": "fashion",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "fashion-the-north-face-apex-bionic-jacket-154",
@@ -7038,7 +14204,40 @@ export const PRODUCTS = [
     "aiScore": 87,
     "trending": false,
     "newArrival": false,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "The North Face",
+          "Model Name": "The North Face Apex Bionic Jacket",
+          "Category": "fashion",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "beauty-dyson-airwrap-multi-styler-155",
@@ -7082,7 +14281,40 @@ export const PRODUCTS = [
     "aiScore": 85,
     "trending": true,
     "newArrival": true,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Dyson",
+          "Model Name": "Dyson Airwrap Multi-Styler",
+          "Category": "beauty",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "beauty-dyson-supersonic-hair-dryer-156",
@@ -7126,7 +14358,40 @@ export const PRODUCTS = [
     "aiScore": 86,
     "trending": false,
     "newArrival": false,
-    "bestSeller": false
+    "bestSeller": false,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Dyson",
+          "Model Name": "Dyson Supersonic Hair Dryer",
+          "Category": "beauty",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "beauty-dyson-corrale-hair-straightener-157",
@@ -7170,7 +14435,40 @@ export const PRODUCTS = [
     "aiScore": 87,
     "trending": false,
     "newArrival": false,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Dyson",
+          "Model Name": "Dyson Corrale Hair Straightener",
+          "Category": "beauty",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "beauty-l-or-al-revitalift-derm-intensives-serum-158",
@@ -7214,7 +14512,40 @@ export const PRODUCTS = [
     "aiScore": 85,
     "trending": true,
     "newArrival": true,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "L'Oréal",
+          "Model Name": "L'Oréal Revitalift Derm Intensives Serum",
+          "Category": "beauty",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "beauty-l-or-al-true-match-foundation-159",
@@ -7258,7 +14589,40 @@ export const PRODUCTS = [
     "aiScore": 86,
     "trending": false,
     "newArrival": false,
-    "bestSeller": false
+    "bestSeller": false,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "L'Oréal",
+          "Model Name": "L'Oréal True Match Foundation",
+          "Category": "beauty",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "beauty-l-or-al-voluminous-lash-paradise-160",
@@ -7302,7 +14666,40 @@ export const PRODUCTS = [
     "aiScore": 87,
     "trending": false,
     "newArrival": false,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "L'Oréal",
+          "Model Name": "L'Oréal Voluminous Lash Paradise",
+          "Category": "beauty",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "beauty-est-e-lauder-advanced-night-repair-serum-161",
@@ -7346,7 +14743,40 @@ export const PRODUCTS = [
     "aiScore": 85,
     "trending": true,
     "newArrival": true,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Estée Lauder",
+          "Model Name": "Estée Lauder Advanced Night Repair Serum",
+          "Category": "beauty",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "beauty-est-e-lauder-double-wear-foundation-162",
@@ -7390,7 +14820,40 @@ export const PRODUCTS = [
     "aiScore": 86,
     "trending": false,
     "newArrival": false,
-    "bestSeller": false
+    "bestSeller": false,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Estée Lauder",
+          "Model Name": "Estée Lauder Double Wear Foundation",
+          "Category": "beauty",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "beauty-est-e-lauder-revitalizing-supreme-cream-163",
@@ -7434,7 +14897,40 @@ export const PRODUCTS = [
     "aiScore": 87,
     "trending": false,
     "newArrival": false,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Estée Lauder",
+          "Model Name": "Estée Lauder Revitalizing Supreme+ Cream",
+          "Category": "beauty",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "beauty-philips-lumea-ipl-hair-removal-164",
@@ -7478,7 +14974,40 @@ export const PRODUCTS = [
     "aiScore": 85,
     "trending": true,
     "newArrival": true,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Philips",
+          "Model Name": "Philips Lumea IPL Hair Removal",
+          "Category": "beauty",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "beauty-philips-sonicare-diamondclean-9000-165",
@@ -7522,7 +15051,40 @@ export const PRODUCTS = [
     "aiScore": 86,
     "trending": false,
     "newArrival": false,
-    "bestSeller": false
+    "bestSeller": false,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Philips",
+          "Model Name": "Philips Sonicare DiamondClean 9000",
+          "Category": "beauty",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "beauty-philips-oneblade-pro-166",
@@ -7566,7 +15128,40 @@ export const PRODUCTS = [
     "aiScore": 87,
     "trending": false,
     "newArrival": false,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Philips",
+          "Model Name": "Philips OneBlade Pro",
+          "Category": "beauty",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "furniture-herman-miller-aeron-ergonomic-chair-167",
@@ -7610,7 +15205,40 @@ export const PRODUCTS = [
     "aiScore": 85,
     "trending": true,
     "newArrival": true,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Herman Miller",
+          "Model Name": "Herman Miller Aeron Ergonomic Chair",
+          "Category": "furniture",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "furniture-herman-miller-embody-chair-168",
@@ -7654,7 +15282,40 @@ export const PRODUCTS = [
     "aiScore": 86,
     "trending": false,
     "newArrival": false,
-    "bestSeller": false
+    "bestSeller": false,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Herman Miller",
+          "Model Name": "Herman Miller Embody Chair",
+          "Category": "furniture",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "furniture-herman-miller-sayl-chair-169",
@@ -7698,7 +15359,40 @@ export const PRODUCTS = [
     "aiScore": 87,
     "trending": false,
     "newArrival": false,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Herman Miller",
+          "Model Name": "Herman Miller Sayl Chair",
+          "Category": "furniture",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "furniture-herman-miller-noguchi-table-170",
@@ -7742,7 +15436,40 @@ export const PRODUCTS = [
     "aiScore": 88,
     "trending": true,
     "newArrival": false,
-    "bestSeller": false
+    "bestSeller": false,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Herman Miller",
+          "Model Name": "Herman Miller Noguchi Table",
+          "Category": "furniture",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "furniture-steelcase-gesture-office-chair-171",
@@ -7786,7 +15513,40 @@ export const PRODUCTS = [
     "aiScore": 85,
     "trending": true,
     "newArrival": true,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Steelcase",
+          "Model Name": "Steelcase Gesture Office Chair",
+          "Category": "furniture",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "furniture-steelcase-leap-fabric-chair-172",
@@ -7830,7 +15590,40 @@ export const PRODUCTS = [
     "aiScore": 86,
     "trending": false,
     "newArrival": false,
-    "bestSeller": false
+    "bestSeller": false,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Steelcase",
+          "Model Name": "Steelcase Leap Fabric Chair",
+          "Category": "furniture",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "furniture-steelcase-series-2-chair-173",
@@ -7874,7 +15667,40 @@ export const PRODUCTS = [
     "aiScore": 87,
     "trending": false,
     "newArrival": false,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Steelcase",
+          "Model Name": "Steelcase Series 2 Chair",
+          "Category": "furniture",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "furniture-ikea-markus-office-chair-174",
@@ -7918,7 +15744,40 @@ export const PRODUCTS = [
     "aiScore": 85,
     "trending": true,
     "newArrival": true,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "IKEA",
+          "Model Name": "IKEA MARKUS Office Chair",
+          "Category": "furniture",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "furniture-ikea-bekant-standing-desk-175",
@@ -7962,7 +15821,40 @@ export const PRODUCTS = [
     "aiScore": 86,
     "trending": false,
     "newArrival": false,
-    "bestSeller": false
+    "bestSeller": false,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "IKEA",
+          "Model Name": "IKEA BEKANT Standing Desk",
+          "Category": "furniture",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "furniture-ikea-kallax-shelving-unit-176",
@@ -8006,7 +15898,40 @@ export const PRODUCTS = [
     "aiScore": 87,
     "trending": false,
     "newArrival": false,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "IKEA",
+          "Model Name": "IKEA KALLAX Shelving Unit",
+          "Category": "furniture",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "furniture-ikea-po-ng-armchair-177",
@@ -8050,7 +15975,40 @@ export const PRODUCTS = [
     "aiScore": 88,
     "trending": true,
     "newArrival": false,
-    "bestSeller": false
+    "bestSeller": false,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "IKEA",
+          "Model Name": "IKEA POÄNG Armchair",
+          "Category": "furniture",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "furniture-west-elm-mid-century-show-wood-chair-178",
@@ -8094,7 +16052,40 @@ export const PRODUCTS = [
     "aiScore": 85,
     "trending": true,
     "newArrival": true,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "West Elm",
+          "Model Name": "West Elm Mid-Century Show Wood Chair",
+          "Category": "furniture",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "furniture-west-elm-andes-sofa-179",
@@ -8138,7 +16129,40 @@ export const PRODUCTS = [
     "aiScore": 86,
     "trending": false,
     "newArrival": false,
-    "bestSeller": false
+    "bestSeller": false,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "West Elm",
+          "Model Name": "West Elm Andes Sofa",
+          "Category": "furniture",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "furniture-west-elm-industrial-storage-desk-180",
@@ -8182,7 +16206,40 @@ export const PRODUCTS = [
     "aiScore": 87,
     "trending": false,
     "newArrival": false,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "West Elm",
+          "Model Name": "West Elm Industrial Storage Desk",
+          "Category": "furniture",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "kitchen-breville-barista-express-impress-181",
@@ -8226,7 +16283,40 @@ export const PRODUCTS = [
     "aiScore": 85,
     "trending": true,
     "newArrival": true,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Breville",
+          "Model Name": "Breville Barista Express Impress",
+          "Category": "kitchen",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "kitchen-breville-smart-oven-air-fryer-pro-182",
@@ -8270,7 +16360,40 @@ export const PRODUCTS = [
     "aiScore": 86,
     "trending": false,
     "newArrival": false,
-    "bestSeller": false
+    "bestSeller": false,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Breville",
+          "Model Name": "Breville Smart Oven Air Fryer Pro",
+          "Category": "kitchen",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "kitchen-breville-the-bambino-plus-183",
@@ -8314,7 +16437,40 @@ export const PRODUCTS = [
     "aiScore": 87,
     "trending": false,
     "newArrival": false,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Breville",
+          "Model Name": "Breville the Bambino Plus",
+          "Category": "kitchen",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "kitchen-kitchenaid-artisan-series-5-quart-stand-mixer-184",
@@ -8358,7 +16514,40 @@ export const PRODUCTS = [
     "aiScore": 85,
     "trending": true,
     "newArrival": true,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "KitchenAid",
+          "Model Name": "KitchenAid Artisan Series 5-Quart Stand Mixer",
+          "Category": "kitchen",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "kitchen-kitchenaid-pro-line-series-blender-185",
@@ -8402,7 +16591,40 @@ export const PRODUCTS = [
     "aiScore": 86,
     "trending": false,
     "newArrival": false,
-    "bestSeller": false
+    "bestSeller": false,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "KitchenAid",
+          "Model Name": "KitchenAid Pro Line Series Blender",
+          "Category": "kitchen",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "kitchen-kitchenaid-digital-countertop-oven-186",
@@ -8446,7 +16668,40 @@ export const PRODUCTS = [
     "aiScore": 87,
     "trending": false,
     "newArrival": false,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "KitchenAid",
+          "Model Name": "KitchenAid Digital Countertop Oven",
+          "Category": "kitchen",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "kitchen-ninja-foodi-10-in-1-smart-xl-air-fry-oven-187",
@@ -8490,7 +16745,40 @@ export const PRODUCTS = [
     "aiScore": 85,
     "trending": true,
     "newArrival": true,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Ninja",
+          "Model Name": "Ninja Foodi 10-in-1 Smart XL Air Fry Oven",
+          "Category": "kitchen",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "kitchen-ninja-creami-ice-cream-maker-188",
@@ -8534,7 +16822,40 @@ export const PRODUCTS = [
     "aiScore": 86,
     "trending": false,
     "newArrival": false,
-    "bestSeller": false
+    "bestSeller": false,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Ninja",
+          "Model Name": "Ninja Creami Ice Cream Maker",
+          "Category": "kitchen",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "kitchen-ninja-professional-plus-blender-189",
@@ -8578,7 +16899,40 @@ export const PRODUCTS = [
     "aiScore": 87,
     "trending": false,
     "newArrival": false,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Ninja",
+          "Model Name": "Ninja Professional Plus Blender",
+          "Category": "kitchen",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "kitchen-instant-pot-duo-plus-9-in-1-190",
@@ -8622,7 +16976,40 @@ export const PRODUCTS = [
     "aiScore": 85,
     "trending": true,
     "newArrival": true,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Instant Pot",
+          "Model Name": "Instant Pot Duo Plus 9-in-1",
+          "Category": "kitchen",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "kitchen-instant-pot-vortex-plus-6-quart-air-fryer-191",
@@ -8666,7 +17053,40 @@ export const PRODUCTS = [
     "aiScore": 86,
     "trending": false,
     "newArrival": false,
-    "bestSeller": false
+    "bestSeller": false,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Instant Pot",
+          "Model Name": "Instant Pot Vortex Plus 6-Quart Air Fryer",
+          "Category": "kitchen",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "kitchen-instant-pot-pro-crisp-8-quart-192",
@@ -8710,7 +17130,40 @@ export const PRODUCTS = [
     "aiScore": 87,
     "trending": false,
     "newArrival": false,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Instant Pot",
+          "Model Name": "Instant Pot Pro Crisp 8-Quart",
+          "Category": "kitchen",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "sports-garmin-fenix-7x-sapphire-solar-193",
@@ -8754,7 +17207,40 @@ export const PRODUCTS = [
     "aiScore": 85,
     "trending": true,
     "newArrival": true,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Garmin",
+          "Model Name": "Garmin Fenix 7X Sapphire Solar",
+          "Category": "sports",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "sports-garmin-forerunner-965-194",
@@ -8798,7 +17284,40 @@ export const PRODUCTS = [
     "aiScore": 86,
     "trending": false,
     "newArrival": false,
-    "bestSeller": false
+    "bestSeller": false,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Garmin",
+          "Model Name": "Garmin Forerunner 965",
+          "Category": "sports",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "sports-garmin-venu-3-195",
@@ -8842,7 +17361,40 @@ export const PRODUCTS = [
     "aiScore": 87,
     "trending": false,
     "newArrival": false,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Garmin",
+          "Model Name": "Garmin Venu 3",
+          "Category": "sports",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "sports-garmin-edge-1040-solar-196",
@@ -8886,7 +17438,40 @@ export const PRODUCTS = [
     "aiScore": 88,
     "trending": true,
     "newArrival": false,
-    "bestSeller": false
+    "bestSeller": false,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Garmin",
+          "Model Name": "Garmin Edge 1040 Solar",
+          "Category": "sports",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "sports-therabody-theragun-pro-197",
@@ -8930,7 +17515,40 @@ export const PRODUCTS = [
     "aiScore": 85,
     "trending": true,
     "newArrival": true,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Therabody",
+          "Model Name": "Therabody Theragun PRO",
+          "Category": "sports",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "sports-therabody-theragun-mini-198",
@@ -8974,7 +17592,40 @@ export const PRODUCTS = [
     "aiScore": 86,
     "trending": false,
     "newArrival": false,
-    "bestSeller": false
+    "bestSeller": false,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Therabody",
+          "Model Name": "Therabody Theragun mini",
+          "Category": "sports",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "sports-therabody-recoveryair-pro-199",
@@ -9018,7 +17669,40 @@ export const PRODUCTS = [
     "aiScore": 87,
     "trending": false,
     "newArrival": false,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Therabody",
+          "Model Name": "Therabody RecoveryAir PRO",
+          "Category": "sports",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "sports-bowflex-selecttech-552-dumbbells-200",
@@ -9062,7 +17746,40 @@ export const PRODUCTS = [
     "aiScore": 85,
     "trending": true,
     "newArrival": true,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Bowflex",
+          "Model Name": "Bowflex SelectTech 552 Dumbbells",
+          "Category": "sports",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "sports-bowflex-max-trainer-m9-201",
@@ -9106,7 +17823,40 @@ export const PRODUCTS = [
     "aiScore": 86,
     "trending": false,
     "newArrival": false,
-    "bestSeller": false
+    "bestSeller": false,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Bowflex",
+          "Model Name": "Bowflex Max Trainer M9",
+          "Category": "sports",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "sports-bowflex-treadmill-22-202",
@@ -9150,7 +17900,40 @@ export const PRODUCTS = [
     "aiScore": 87,
     "trending": false,
     "newArrival": false,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Bowflex",
+          "Model Name": "Bowflex Treadmill 22",
+          "Category": "sports",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "sports-fitbit-charge-6-203",
@@ -9194,7 +17977,40 @@ export const PRODUCTS = [
     "aiScore": 85,
     "trending": true,
     "newArrival": true,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Fitbit",
+          "Model Name": "Fitbit Charge 6",
+          "Category": "sports",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "sports-fitbit-sense-2-204",
@@ -9238,7 +18054,40 @@ export const PRODUCTS = [
     "aiScore": 86,
     "trending": false,
     "newArrival": false,
-    "bestSeller": false
+    "bestSeller": false,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Fitbit",
+          "Model Name": "Fitbit Sense 2",
+          "Category": "sports",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "sports-fitbit-versa-4-205",
@@ -9282,7 +18131,40 @@ export const PRODUCTS = [
     "aiScore": 87,
     "trending": false,
     "newArrival": false,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Fitbit",
+          "Model Name": "Fitbit Versa 4",
+          "Category": "sports",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "travel-samsonite-omni-pc-hardside-expandable-206",
@@ -9326,7 +18208,40 @@ export const PRODUCTS = [
     "aiScore": 85,
     "trending": true,
     "newArrival": true,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Samsonite",
+          "Model Name": "Samsonite Omni PC Hardside Expandable",
+          "Category": "travel",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "travel-samsonite-winfield-2-hardside-207",
@@ -9370,7 +18285,40 @@ export const PRODUCTS = [
     "aiScore": 86,
     "trending": false,
     "newArrival": false,
-    "bestSeller": false
+    "bestSeller": false,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Samsonite",
+          "Model Name": "Samsonite Winfield 2 Hardside",
+          "Category": "travel",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "travel-samsonite-freeform-hardside-spinner-208",
@@ -9414,7 +18362,40 @@ export const PRODUCTS = [
     "aiScore": 87,
     "trending": false,
     "newArrival": false,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Samsonite",
+          "Model Name": "Samsonite Freeform Hardside Spinner",
+          "Category": "travel",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "travel-rimowa-original-cabin-209",
@@ -9458,7 +18439,40 @@ export const PRODUCTS = [
     "aiScore": 85,
     "trending": true,
     "newArrival": true,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Rimowa",
+          "Model Name": "Rimowa Original Cabin",
+          "Category": "travel",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "travel-rimowa-essential-trunk-plus-210",
@@ -9502,7 +18516,40 @@ export const PRODUCTS = [
     "aiScore": 86,
     "trending": false,
     "newArrival": false,
-    "bestSeller": false
+    "bestSeller": false,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Rimowa",
+          "Model Name": "Rimowa Essential Trunk Plus",
+          "Category": "travel",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "travel-rimowa-classic-check-in-l-211",
@@ -9546,7 +18593,40 @@ export const PRODUCTS = [
     "aiScore": 87,
     "trending": false,
     "newArrival": false,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Rimowa",
+          "Model Name": "Rimowa Classic Check-In L",
+          "Category": "travel",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "travel-away-the-bigger-carry-on-212",
@@ -9590,7 +18670,40 @@ export const PRODUCTS = [
     "aiScore": 85,
     "trending": true,
     "newArrival": true,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Away",
+          "Model Name": "Away The Bigger Carry-On",
+          "Category": "travel",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "travel-away-the-medium-213",
@@ -9634,7 +18747,40 @@ export const PRODUCTS = [
     "aiScore": 86,
     "trending": false,
     "newArrival": false,
-    "bestSeller": false
+    "bestSeller": false,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Away",
+          "Model Name": "Away The Medium",
+          "Category": "travel",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "travel-away-the-everywhere-bag-214",
@@ -9678,7 +18824,40 @@ export const PRODUCTS = [
     "aiScore": 87,
     "trending": false,
     "newArrival": false,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Away",
+          "Model Name": "Away The Everywhere Bag",
+          "Category": "travel",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "travel-peak-design-travel-backpack-45l-215",
@@ -9722,7 +18901,40 @@ export const PRODUCTS = [
     "aiScore": 85,
     "trending": true,
     "newArrival": true,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Peak Design",
+          "Model Name": "Peak Design Travel Backpack 45L",
+          "Category": "travel",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "travel-peak-design-everyday-backpack-v2-216",
@@ -9766,7 +18978,40 @@ export const PRODUCTS = [
     "aiScore": 86,
     "trending": false,
     "newArrival": false,
-    "bestSeller": false
+    "bestSeller": false,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Peak Design",
+          "Model Name": "Peak Design Everyday Backpack V2",
+          "Category": "travel",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   },
   {
     "id": "travel-peak-design-wash-pouch-217",
@@ -9810,6 +19055,39 @@ export const PRODUCTS = [
     "aiScore": 87,
     "trending": false,
     "newArrival": false,
-    "bestSeller": true
+    "bestSeller": true,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "text": "Premium Quality Material"
+      },
+      {
+        "icon": "Shield",
+        "text": "Verified Authentication"
+      },
+      {
+        "icon": "Star",
+        "text": "Top Rated by Customers"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General Information",
+        "specs": {
+          "Brand": "Peak Design",
+          "Model Name": "Peak Design Wash Pouch",
+          "Category": "travel",
+          "Origin": "Manufactured in PRC"
+        }
+      },
+      {
+        "title": "Quality & Assurance",
+        "specs": {
+          "Warranty": "1 Year Manufacturer Warranty",
+          "Quality Grade": "Premium A+",
+          "Support": "24/7 Priority Support"
+        }
+      }
+    ]
   }
 ];

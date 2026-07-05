@@ -8,15 +8,12 @@ import {
   ArrowLeft, 
   Check, 
   X, 
-  Tag, 
-  Cpu, 
-  Bookmark, 
-  ShieldAlert, 
   Package, 
   Sparkles,
   ShoppingBag,
   ExternalLink
 } from 'lucide-react';
+import * as Icons from 'lucide-react';
 import { PRODUCTS } from '../productsData';
 import ProductCard from '../components/ProductCard';
 import { toast } from 'react-hot-toast';
@@ -184,18 +181,25 @@ export default function ProductDetails() {
             {product.description}
           </p>
 
-          {/* KEY FEATURES BULLETS */}
-          <div className="space-y-2">
-            <h4 className="text-[10px] font-mono font-bold text-slate-500 uppercase tracking-widest">Top Selling Features</h4>
-            <div className="grid grid-cols-1 sm:grid-cols-2 gap-2">
-              {product.keyFeatures.map((feat, idx) => (
-                <div key={idx} className="flex gap-2 items-center text-xs text-slate-300">
-                  <Check className="w-4 h-4 text-amber-500 shrink-0" />
-                  <span>{feat}</span>
-                </div>
-              ))}
+          {/* PRODUCT HIGHLIGHTS */}
+          {product.highlights && product.highlights.length > 0 && (
+            <div className="space-y-3 pt-2">
+              <h4 className="text-[10px] font-mono font-bold text-slate-500 uppercase tracking-widest">Product Highlights</h4>
+              <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
+                {product.highlights.map((highlight, idx) => {
+                  const IconComp = Icons[highlight.icon] || Icons.CheckCircle;
+                  return (
+                    <div key={idx} className="flex gap-2.5 items-center text-xs text-slate-200 bg-[#0C0C0F]/60 p-3 rounded-xl border border-[#1E1E24]/50">
+                      <div className="bg-amber-500/10 p-1.5 rounded-lg">
+                        <IconComp className="w-4 h-4 text-amber-500 shrink-0" />
+                      </div>
+                      <span className="font-semibold">{highlight.text}</span>
+                    </div>
+                  );
+                })}
+              </div>
             </div>
-          </div>
+          )}
 
           {/* DIRECT ACTION TRIGGERS */}
           <div className="pt-4 flex flex-col sm:flex-row gap-3">
@@ -253,19 +257,26 @@ export default function ProductDetails() {
 
         {/* TAB 1: TECHNICAL SPECS TABLE */}
         {activeTab === 'specs' && (
-          <div className="bg-[#0C0C0F]/20 border border-[#1E1E24] rounded-2xl overflow-hidden p-6">
-            <div className="overflow-x-auto">
-              <table className="w-full text-left text-xs border-collapse">
-                <tbody>
-                  {Object.entries(product.specs).map(([specName, specVal], idx) => (
-                    <tr key={idx} className="border-b border-[#1E1E24]/60 hover:bg-[#0C0C0F]/20">
-                      <td className="py-3 px-4 font-bold text-slate-400 w-1/3">{specName}</td>
-                      <td className="py-3 px-4 text-slate-200">{specVal}</td>
-                    </tr>
-                  ))}
-                </tbody>
-              </table>
-            </div>
+          <div className="space-y-6">
+            {(product.specGroups || [{ title: "General", specs: product.specs }]).map((group, gIdx) => (
+              <div key={gIdx} className="bg-[#0C0C0F]/20 border border-[#1E1E24] rounded-2xl overflow-hidden">
+                <div className="bg-[#121216] px-6 py-4 border-b border-[#1E1E24]">
+                  <h3 className="font-sans font-bold text-sm text-[#E2B53E]">{group.title}</h3>
+                </div>
+                <div className="p-6 overflow-x-auto">
+                  <table className="w-full text-left text-xs border-collapse">
+                    <tbody>
+                      {Object.entries(group.specs).map(([specName, specVal], idx) => (
+                        <tr key={idx} className="border-b border-[#1E1E24]/60 hover:bg-[#0C0C0F]/20">
+                          <td className="py-3 px-4 font-semibold text-slate-400 w-1/3">{specName}</td>
+                          <td className="py-3 px-4 text-slate-200">{specVal}</td>
+                        </tr>
+                      ))}
+                    </tbody>
+                  </table>
+                </div>
+              </div>
+            ))}
           </div>
         )}
 

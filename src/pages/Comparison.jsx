@@ -1,3 +1,4 @@
+import React from 'react';
 import { useProductStore } from '../store';
 import { useNavigate, Link } from 'react-router-dom';
 import { 
@@ -24,22 +25,38 @@ export default function Comparison() {
     clearComparison();
   };
 
-  // Gather dynamic specs from all products in the comparison list
-  const allSpecKeys = Array.from(
-    new Set(comparisonList.flatMap(p => Object.keys(p.specs || {})))
-  );
-
-  const metrics = [
+  const baseMetrics = [
     { name: 'Price', key: 'price', format: (v) => `$${v.toLocaleString()}` },
     { name: 'Discount', key: 'discount', format: (v) => v > 0 ? `${v}% OFF` : 'None' },
     { name: 'Rating', key: 'rating', format: (v) => `${v} / 5.0` },
     { name: 'Brand', key: 'brand' },
     { name: 'Availability', key: 'availability' },
-    ...allSpecKeys.map(key => ({
-      name: key,
-      specKey: key,
-    }))
   ];
+
+  // Gather all unique group titles across products
+  const allGroupTitles = Array.from(
+    new Set(
+      comparisonList.flatMap(p => 
+        (p.specGroups || [{ title: "General Specs", specs: p.specs }]).map(g => g.title)
+      )
+    )
+  );
+
+  // For each group, gather unique spec keys
+  const groupedSpecs = allGroupTitles.map(title => {
+    const keys = new Set();
+    comparisonList.forEach(p => {
+      const groups = p.specGroups || [{ title: "General Specs", specs: p.specs }];
+      const group = groups.find(g => g.title === title);
+      if (group) {
+        Object.keys(group.specs).forEach(k => keys.add(k));
+      }
+    });
+    return {
+      title,
+      keys: Array.from(keys)
+    };
+  });
 
   // Logic to determine overall winner among current items (simple heuristic based on rating & pricing value ratio)
   const determineWinner = () => {
@@ -149,19 +166,14 @@ export default function Comparison() {
                 </thead>
                 <tbody>
                   
-                  {/* GENERATIVE METRICS */}
-                  {metrics.map((metric, mIdx) => (
+                  {/* BASE METRICS */}
+                  {baseMetrics.map((metric, mIdx) => (
                     <tr key={mIdx} className="border-b border-[#1E1E24]/60 hover:bg-[#0C0C0F]/20">
                       <td className="py-4 px-6 font-bold text-slate-400">{metric.name}</td>
                       {comparisonList.map((product) => {
-                        let val = '';
-                        if (metric.key) {
-                          val = metric.format 
-                            ? metric.format(product[metric.key]) 
-                            : product[metric.key];
-                        } else if (metric.specKey) {
-                          val = product.specs[metric.specKey] || 'N/A';
-                        }
+                        const val = metric.format 
+                          ? metric.format(product[metric.key]) 
+                          : product[metric.key];
                         return (
                           <td key={product.id} className="py-4 px-6 text-slate-200 font-medium leading-relaxed">
                             {val}
@@ -169,6 +181,36 @@ export default function Comparison() {
                         );
                       })}
                     </tr>
+                  ))}
+
+                  {/* GROUPED SPECS */}
+                  {groupedSpecs.map((group, gIdx) => (
+                    <React.Fragment key={`group-${gIdx}`}>
+                      <tr className="bg-[#121216] border-y border-[#1E1E24]">
+                        <td colSpan={comparisonList.length + 1} className="py-4 px-6">
+                          <h4 className="font-sans font-bold text-sm text-[#E2B53E] uppercase tracking-wider">
+                            {group.title}
+                          </h4>
+                        </td>
+                      </tr>
+                      {group.keys.map((specKey, sIdx) => (
+                        <tr key={`spec-${gIdx}-${sIdx}`} className="border-b border-[#1E1E24]/60 hover:bg-[#0C0C0F]/20">
+                          <td className="py-4 px-6 font-semibold text-slate-400">
+                            {specKey}
+                          </td>
+                          {comparisonList.map((product) => {
+                            const productGroups = product.specGroups || [{ title: "General Specs", specs: product.specs }];
+                            const productGroup = productGroups.find(g => g.title === group.title);
+                            const val = productGroup?.specs[specKey] || '-';
+                            return (
+                              <td key={product.id} className="py-4 px-6 text-slate-200 leading-relaxed">
+                                {val}
+                              </td>
+                            );
+                          })}
+                        </tr>
+                      ))}
+                    </React.Fragment>
                   ))}
 
                   {/* PROS & CONS IN THE TABLE */}
