@@ -103,7 +103,7 @@ export const PRODUCTS = [
     "rating": 4,
     "reviewCount": 20,
     "brand": "Apple",
-    "image": "https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?w=600&auto=format&fit=crop&q=80&sig=phones-apple-iphone-15-pro-max-1",
+    "image": "https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -145,7 +145,7 @@ export const PRODUCTS = [
     "rating": 4.1,
     "reviewCount": 109,
     "brand": "Apple",
-    "image": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?w=600&auto=format&fit=crop&q=80&sig=phones-apple-iphone-15-2",
+    "image": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -187,7 +187,7 @@ export const PRODUCTS = [
     "rating": 4.2,
     "reviewCount": 198,
     "brand": "Apple",
-    "image": "https://images.unsplash.com/photo-1580910051074-3eb694886505?w=600&auto=format&fit=crop&q=80&sig=phones-apple-iphone-14-pro-3",
+    "image": "https://images.unsplash.com/photo-1580910051074-3eb694886505?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -229,7 +229,7 @@ export const PRODUCTS = [
     "rating": 4.3,
     "reviewCount": 287,
     "brand": "Apple",
-    "image": "https://images.unsplash.com/photo-1605236453806-6ff36851218e?w=600&auto=format&fit=crop&q=80&sig=phones-apple-iphone-se-4",
+    "image": "https://images.unsplash.com/photo-1605236453806-6ff36851218e?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -271,7 +271,7 @@ export const PRODUCTS = [
     "rating": 4,
     "reviewCount": 20,
     "brand": "Samsung",
-    "image": "https://images.unsplash.com/photo-1610945415295-d9bbf067e59c?w=600&auto=format&fit=crop&q=80&sig=phones-samsung-galaxy-s24-ultra-5",
+    "image": "https://images.unsplash.com/photo-1610945415295-d9bbf067e59c?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -313,7 +313,7 @@ export const PRODUCTS = [
     "rating": 4.1,
     "reviewCount": 109,
     "brand": "Samsung",
-    "image": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=600&auto=format&fit=crop&q=80&sig=phones-samsung-galaxy-s24--6",
+    "image": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -355,7 +355,7 @@ export const PRODUCTS = [
     "rating": 4.2,
     "reviewCount": 198,
     "brand": "Samsung",
-    "image": "https://images.unsplash.com/photo-1574944985070-8f3ebc6b79d2?w=600&auto=format&fit=crop&q=80&sig=phones-samsung-galaxy-z-fold-5-7",
+    "image": "https://images.unsplash.com/photo-1574944985070-8f3ebc6b79d2?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -397,7 +397,7 @@ export const PRODUCTS = [
     "rating": 4.3,
     "reviewCount": 287,
     "brand": "Samsung",
-    "image": "https://images.unsplash.com/photo-1610945415295-d9bbf067e59c?w=600&auto=format&fit=crop&q=80&sig=phones-samsung-galaxy-z-flip-5-8",
+    "image": "https://images.unsplash.com/photo-1610945415295-d9bbf067e59c?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -439,7 +439,7 @@ export const PRODUCTS = [
     "rating": 4.4,
     "reviewCount": 376,
     "brand": "Samsung",
-    "image": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=600&auto=format&fit=crop&q=80&sig=phones-samsung-galaxy-a54-9",
+    "image": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -481,7 +481,7 @@ export const PRODUCTS = [
     "rating": 4,
     "reviewCount": 20,
     "brand": "Google",
-    "image": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=600&auto=format&fit=crop&q=80&sig=phones-google-pixel-8-pro-10",
+    "image": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -523,7 +523,7 @@ export const PRODUCTS = [
     "rating": 4.1,
     "reviewCount": 109,
     "brand": "Google",
-    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=600&auto=format&fit=crop&q=80&sig=phones-google-pixel-8-11",
+    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -565,7 +565,7 @@ export const PRODUCTS = [
     "rating": 4.2,
     "reviewCount": 198,
     "brand": "Google",
-    "image": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=600&auto=format&fit=crop&q=80&sig=phones-google-pixel-7a-12",
+    "image": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -607,7 +607,7 @@ export const PRODUCTS = [
     "rating": 4.3,
     "reviewCount": 287,
     "brand": "Google",
-    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=600&auto=format&fit=crop&q=80&sig=phones-google-pixel-fold-13",
+    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -649,7 +649,7 @@ export const PRODUCTS = [
     "rating": 4,
     "reviewCount": 20,
     "brand": "OnePlus",
-    "image": "https://images.unsplash.com/photo-1567581935884-3349723552ca?w=600&auto=format&fit=crop&q=80&sig=phones-oneplus-oneplus-12-14",
+    "image": "https://images.unsplash.com/photo-1567581935884-3349723552ca?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -691,7 +691,7 @@ export const PRODUCTS = [
     "rating": 4.1,
     "reviewCount": 109,
     "brand": "OnePlus",
-    "image": "https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?w=600&auto=format&fit=crop&q=80&sig=phones-oneplus-oneplus-12r-15",
+    "image": "https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -733,7 +733,7 @@ export const PRODUCTS = [
     "rating": 4.2,
     "reviewCount": 198,
     "brand": "OnePlus",
-    "image": "https://images.unsplash.com/photo-1567581935884-3349723552ca?w=600&auto=format&fit=crop&q=80&sig=phones-oneplus-oneplus-open-16",
+    "image": "https://images.unsplash.com/photo-1567581935884-3349723552ca?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -775,7 +775,7 @@ export const PRODUCTS = [
     "rating": 4.3,
     "reviewCount": 287,
     "brand": "OnePlus",
-    "image": "https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?w=600&auto=format&fit=crop&q=80&sig=phones-oneplus-oneplus-nord-3-17",
+    "image": "https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -817,7 +817,7 @@ export const PRODUCTS = [
     "rating": 4,
     "reviewCount": 20,
     "brand": "Nothing",
-    "image": "https://images.unsplash.com/photo-1567581935884-3349723552ca?w=600&auto=format&fit=crop&q=80&sig=phones-nothing-nothing-phone-2--18",
+    "image": "https://images.unsplash.com/photo-1567581935884-3349723552ca?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -859,7 +859,7 @@ export const PRODUCTS = [
     "rating": 4.1,
     "reviewCount": 109,
     "brand": "Nothing",
-    "image": "https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?w=600&auto=format&fit=crop&q=80&sig=phones-nothing-nothing-phone-2a--19",
+    "image": "https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -901,7 +901,7 @@ export const PRODUCTS = [
     "rating": 4,
     "reviewCount": 20,
     "brand": "Xiaomi",
-    "image": "https://images.unsplash.com/photo-1567581935884-3349723552ca?w=600&auto=format&fit=crop&q=80&sig=phones-xiaomi-xiaomi-14-ultra-20",
+    "image": "https://images.unsplash.com/photo-1567581935884-3349723552ca?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -943,7 +943,7 @@ export const PRODUCTS = [
     "rating": 4.1,
     "reviewCount": 109,
     "brand": "Xiaomi",
-    "image": "https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?w=600&auto=format&fit=crop&q=80&sig=phones-xiaomi-xiaomi-14-pro-21",
+    "image": "https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -985,7 +985,7 @@ export const PRODUCTS = [
     "rating": 4.2,
     "reviewCount": 198,
     "brand": "Xiaomi",
-    "image": "https://images.unsplash.com/photo-1567581935884-3349723552ca?w=600&auto=format&fit=crop&q=80&sig=phones-xiaomi-redmi-note-13-pro--22",
+    "image": "https://images.unsplash.com/photo-1567581935884-3349723552ca?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -1027,7 +1027,7 @@ export const PRODUCTS = [
     "rating": 4,
     "reviewCount": 20,
     "brand": "Vivo",
-    "image": "https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?w=600&auto=format&fit=crop&q=80&sig=phones-vivo-vivo-x100-pro-23",
+    "image": "https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -1069,7 +1069,7 @@ export const PRODUCTS = [
     "rating": 4.1,
     "reviewCount": 109,
     "brand": "Vivo",
-    "image": "https://images.unsplash.com/photo-1567581935884-3349723552ca?w=600&auto=format&fit=crop&q=80&sig=phones-vivo-vivo-v30-pro-24",
+    "image": "https://images.unsplash.com/photo-1567581935884-3349723552ca?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -1111,7 +1111,7 @@ export const PRODUCTS = [
     "rating": 4,
     "reviewCount": 20,
     "brand": "OPPO",
-    "image": "https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?w=600&auto=format&fit=crop&q=80&sig=phones-oppo-oppo-find-x7-ultra-25",
+    "image": "https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -1153,7 +1153,7 @@ export const PRODUCTS = [
     "rating": 4.1,
     "reviewCount": 109,
     "brand": "OPPO",
-    "image": "https://images.unsplash.com/photo-1567581935884-3349723552ca?w=600&auto=format&fit=crop&q=80&sig=phones-oppo-oppo-reno-11-pro-26",
+    "image": "https://images.unsplash.com/photo-1567581935884-3349723552ca?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -1195,7 +1195,7 @@ export const PRODUCTS = [
     "rating": 4,
     "reviewCount": 20,
     "brand": "Motorola",
-    "image": "https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?w=600&auto=format&fit=crop&q=80&sig=phones-motorola-motorola-edge-50-pro-27",
+    "image": "https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -1237,7 +1237,7 @@ export const PRODUCTS = [
     "rating": 4.1,
     "reviewCount": 109,
     "brand": "Motorola",
-    "image": "https://images.unsplash.com/photo-1567581935884-3349723552ca?w=600&auto=format&fit=crop&q=80&sig=phones-motorola-motorola-razr-40-ultra-28",
+    "image": "https://images.unsplash.com/photo-1567581935884-3349723552ca?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -1279,7 +1279,7 @@ export const PRODUCTS = [
     "rating": 4.2,
     "reviewCount": 198,
     "brand": "Motorola",
-    "image": "https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?w=600&auto=format&fit=crop&q=80&sig=phones-motorola-moto-g-power-29",
+    "image": "https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -1321,7 +1321,7 @@ export const PRODUCTS = [
     "rating": 4,
     "reviewCount": 20,
     "brand": "Apple",
-    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=600&auto=format&fit=crop&q=80&sig=laptops-apple-macbook-pro-16-m3-max-30",
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -1363,7 +1363,7 @@ export const PRODUCTS = [
     "rating": 4.1,
     "reviewCount": 109,
     "brand": "Apple",
-    "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=600&auto=format&fit=crop&q=80&sig=laptops-apple-macbook-pro-14-m3-31",
+    "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -1405,7 +1405,7 @@ export const PRODUCTS = [
     "rating": 4.2,
     "reviewCount": 198,
     "brand": "Apple",
-    "image": "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?w=600&auto=format&fit=crop&q=80&sig=laptops-apple-macbook-air-15-m3-32",
+    "image": "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -1447,7 +1447,7 @@ export const PRODUCTS = [
     "rating": 4.3,
     "reviewCount": 287,
     "brand": "Apple",
-    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=600&auto=format&fit=crop&q=80&sig=laptops-apple-macbook-air-13-m2-33",
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -1489,7 +1489,7 @@ export const PRODUCTS = [
     "rating": 4,
     "reviewCount": 20,
     "brand": "Dell",
-    "image": "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?w=600&auto=format&fit=crop&q=80&sig=laptops-dell-xps-15-34",
+    "image": "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -1531,7 +1531,7 @@ export const PRODUCTS = [
     "rating": 4.1,
     "reviewCount": 109,
     "brand": "Dell",
-    "image": "https://images.unsplash.com/photo-1484788984921-03950022c9ef?w=600&auto=format&fit=crop&q=80&sig=laptops-dell-xps-13-plus-35",
+    "image": "https://images.unsplash.com/photo-1484788984921-03950022c9ef?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -1573,7 +1573,7 @@ export const PRODUCTS = [
     "rating": 4.2,
     "reviewCount": 198,
     "brand": "Dell",
-    "image": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?w=600&auto=format&fit=crop&q=80&sig=laptops-dell-alienware-m18-36",
+    "image": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -1615,7 +1615,7 @@ export const PRODUCTS = [
     "rating": 4.3,
     "reviewCount": 287,
     "brand": "Dell",
-    "image": "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=600&auto=format&fit=crop&q=80&sig=laptops-dell-inspiron-16-plus-37",
+    "image": "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -1657,7 +1657,7 @@ export const PRODUCTS = [
     "rating": 4,
     "reviewCount": 20,
     "brand": "HP",
-    "image": "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?w=600&auto=format&fit=crop&q=80&sig=laptops-hp-spectre-x360-14-38",
+    "image": "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -1699,7 +1699,7 @@ export const PRODUCTS = [
     "rating": 4.1,
     "reviewCount": 109,
     "brand": "HP",
-    "image": "https://images.unsplash.com/photo-1484788984921-03950022c9ef?w=600&auto=format&fit=crop&q=80&sig=laptops-hp-envy-x360-39",
+    "image": "https://images.unsplash.com/photo-1484788984921-03950022c9ef?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -1741,7 +1741,7 @@ export const PRODUCTS = [
     "rating": 4.2,
     "reviewCount": 198,
     "brand": "HP",
-    "image": "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=600&auto=format&fit=crop&q=80&sig=laptops-hp-omen-transcend-16-40",
+    "image": "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -1783,7 +1783,7 @@ export const PRODUCTS = [
     "rating": 4.3,
     "reviewCount": 287,
     "brand": "HP",
-    "image": "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?w=600&auto=format&fit=crop&q=80&sig=laptops-hp-pavilion-plus-14-41",
+    "image": "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -1825,7 +1825,7 @@ export const PRODUCTS = [
     "rating": 4,
     "reviewCount": 20,
     "brand": "Lenovo",
-    "image": "https://images.unsplash.com/photo-1484788984921-03950022c9ef?w=600&auto=format&fit=crop&q=80&sig=laptops-lenovo-yoga-9i-42",
+    "image": "https://images.unsplash.com/photo-1484788984921-03950022c9ef?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -1867,7 +1867,7 @@ export const PRODUCTS = [
     "rating": 4.1,
     "reviewCount": 109,
     "brand": "Lenovo",
-    "image": "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=600&auto=format&fit=crop&q=80&sig=laptops-lenovo-thinkpad-x1-carbon-gen-11-43",
+    "image": "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -1909,7 +1909,7 @@ export const PRODUCTS = [
     "rating": 4.2,
     "reviewCount": 198,
     "brand": "Lenovo",
-    "image": "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?w=600&auto=format&fit=crop&q=80&sig=laptops-lenovo-legion-pro-7i-44",
+    "image": "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -1951,7 +1951,7 @@ export const PRODUCTS = [
     "rating": 4.3,
     "reviewCount": 287,
     "brand": "Lenovo",
-    "image": "https://images.unsplash.com/photo-1484788984921-03950022c9ef?w=600&auto=format&fit=crop&q=80&sig=laptops-lenovo-ideapad-slim-5-45",
+    "image": "https://images.unsplash.com/photo-1484788984921-03950022c9ef?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -1993,7 +1993,7 @@ export const PRODUCTS = [
     "rating": 4,
     "reviewCount": 20,
     "brand": "ASUS",
-    "image": "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=600&auto=format&fit=crop&q=80&sig=laptops-asus-zenbook-14-oled-46",
+    "image": "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -2035,7 +2035,7 @@ export const PRODUCTS = [
     "rating": 4.1,
     "reviewCount": 109,
     "brand": "ASUS",
-    "image": "https://images.unsplash.com/photo-1542751110-97427bbecf20?w=600&auto=format&fit=crop&q=80&sig=laptops-asus-rog-zephyrus-g14-47",
+    "image": "https://images.unsplash.com/photo-1542751110-97427bbecf20?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -2077,7 +2077,7 @@ export const PRODUCTS = [
     "rating": 4.2,
     "reviewCount": 198,
     "brand": "ASUS",
-    "image": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=600&auto=format&fit=crop&q=80&sig=laptops-asus-vivobook-pro-15-48",
+    "image": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -2119,7 +2119,7 @@ export const PRODUCTS = [
     "rating": 4.3,
     "reviewCount": 287,
     "brand": "ASUS",
-    "image": "https://images.unsplash.com/photo-1504707748692-419802cf939d?w=600&auto=format&fit=crop&q=80&sig=laptops-asus-tuf-gaming-a15-49",
+    "image": "https://images.unsplash.com/photo-1504707748692-419802cf939d?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -2161,7 +2161,7 @@ export const PRODUCTS = [
     "rating": 4,
     "reviewCount": 20,
     "brand": "Acer",
-    "image": "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?w=600&auto=format&fit=crop&q=80&sig=laptops-acer-swift-go-14-50",
+    "image": "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -2203,7 +2203,7 @@ export const PRODUCTS = [
     "rating": 4.1,
     "reviewCount": 109,
     "brand": "Acer",
-    "image": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?w=600&auto=format&fit=crop&q=80&sig=laptops-acer-predator-helios-16-51",
+    "image": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -2245,7 +2245,7 @@ export const PRODUCTS = [
     "rating": 4.2,
     "reviewCount": 198,
     "brand": "Acer",
-    "image": "https://images.unsplash.com/photo-1542751110-97427bbecf20?w=600&auto=format&fit=crop&q=80&sig=laptops-acer-nitro-5-52",
+    "image": "https://images.unsplash.com/photo-1542751110-97427bbecf20?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -2287,7 +2287,7 @@ export const PRODUCTS = [
     "rating": 4.3,
     "reviewCount": 287,
     "brand": "Acer",
-    "image": "https://images.unsplash.com/photo-1484788984921-03950022c9ef?w=600&auto=format&fit=crop&q=80&sig=laptops-acer-aspire-5-53",
+    "image": "https://images.unsplash.com/photo-1484788984921-03950022c9ef?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -2329,7 +2329,7 @@ export const PRODUCTS = [
     "rating": 4,
     "reviewCount": 20,
     "brand": "MSI",
-    "image": "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=600&auto=format&fit=crop&q=80&sig=laptops-msi-stealth-16-studio-54",
+    "image": "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -2371,7 +2371,7 @@ export const PRODUCTS = [
     "rating": 4.1,
     "reviewCount": 109,
     "brand": "MSI",
-    "image": "https://images.unsplash.com/photo-1504707748692-419802cf939d?w=600&auto=format&fit=crop&q=80&sig=laptops-msi-raider-ge78-55",
+    "image": "https://images.unsplash.com/photo-1504707748692-419802cf939d?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -2413,7 +2413,7 @@ export const PRODUCTS = [
     "rating": 4.2,
     "reviewCount": 198,
     "brand": "MSI",
-    "image": "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?w=600&auto=format&fit=crop&q=80&sig=laptops-msi-prestige-14-evo-56",
+    "image": "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -2455,7 +2455,7 @@ export const PRODUCTS = [
     "rating": 4.3,
     "reviewCount": 287,
     "brand": "MSI",
-    "image": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?w=600&auto=format&fit=crop&q=80&sig=laptops-msi-cyborg-15-57",
+    "image": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -2497,7 +2497,7 @@ export const PRODUCTS = [
     "rating": 4,
     "reviewCount": 20,
     "brand": "Apple",
-    "image": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=600&auto=format&fit=crop&q=80&sig=tablets-apple-ipad-pro-12-9-m2-58",
+    "image": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -2539,7 +2539,7 @@ export const PRODUCTS = [
     "rating": 4.1,
     "reviewCount": 109,
     "brand": "Apple",
-    "image": "https://images.unsplash.com/photo-1623126908029-58cb08a2b272?w=600&auto=format&fit=crop&q=80&sig=tablets-apple-ipad-air-5th-gen-59",
+    "image": "https://images.unsplash.com/photo-1623126908029-58cb08a2b272?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -2581,7 +2581,7 @@ export const PRODUCTS = [
     "rating": 4.2,
     "reviewCount": 198,
     "brand": "Apple",
-    "image": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=600&auto=format&fit=crop&q=80&sig=tablets-apple-ipad-mini-6-60",
+    "image": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -2623,7 +2623,7 @@ export const PRODUCTS = [
     "rating": 4.3,
     "reviewCount": 287,
     "brand": "Apple",
-    "image": "https://images.unsplash.com/photo-1623126908029-58cb08a2b272?w=600&auto=format&fit=crop&q=80&sig=tablets-apple-ipad-10th-gen-61",
+    "image": "https://images.unsplash.com/photo-1623126908029-58cb08a2b272?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -2665,7 +2665,7 @@ export const PRODUCTS = [
     "rating": 4,
     "reviewCount": 20,
     "brand": "Samsung",
-    "image": "https://images.unsplash.com/photo-1561154464-82e9adf32764?w=600&auto=format&fit=crop&q=80&sig=tablets-samsung-galaxy-tab-s9-ultra-62",
+    "image": "https://images.unsplash.com/photo-1561154464-82e9adf32764?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -2707,7 +2707,7 @@ export const PRODUCTS = [
     "rating": 4.1,
     "reviewCount": 109,
     "brand": "Samsung",
-    "image": "https://images.unsplash.com/photo-1585776245991-cf89dd7fc73a?w=600&auto=format&fit=crop&q=80&sig=tablets-samsung-galaxy-tab-s9--63",
+    "image": "https://images.unsplash.com/photo-1585776245991-cf89dd7fc73a?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -2749,7 +2749,7 @@ export const PRODUCTS = [
     "rating": 4.2,
     "reviewCount": 198,
     "brand": "Samsung",
-    "image": "https://images.unsplash.com/photo-1561154464-82e9adf32764?w=600&auto=format&fit=crop&q=80&sig=tablets-samsung-galaxy-tab-s9-fe-64",
+    "image": "https://images.unsplash.com/photo-1561154464-82e9adf32764?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -2791,7 +2791,7 @@ export const PRODUCTS = [
     "rating": 4.3,
     "reviewCount": 287,
     "brand": "Samsung",
-    "image": "https://images.unsplash.com/photo-1585776245991-cf89dd7fc73a?w=600&auto=format&fit=crop&q=80&sig=tablets-samsung-galaxy-tab-a9--65",
+    "image": "https://images.unsplash.com/photo-1585776245991-cf89dd7fc73a?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -2833,7 +2833,7 @@ export const PRODUCTS = [
     "rating": 4,
     "reviewCount": 20,
     "brand": "OnePlus",
-    "image": "https://images.unsplash.com/photo-1561154464-82e9adf32764?w=600&auto=format&fit=crop&q=80&sig=tablets-oneplus-oneplus-pad-66",
+    "image": "https://images.unsplash.com/photo-1561154464-82e9adf32764?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -2875,7 +2875,7 @@ export const PRODUCTS = [
     "rating": 4.1,
     "reviewCount": 109,
     "brand": "OnePlus",
-    "image": "https://images.unsplash.com/photo-1585776245991-cf89dd7fc73a?w=600&auto=format&fit=crop&q=80&sig=tablets-oneplus-oneplus-pad-go-67",
+    "image": "https://images.unsplash.com/photo-1585776245991-cf89dd7fc73a?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -2917,7 +2917,7 @@ export const PRODUCTS = [
     "rating": 4,
     "reviewCount": 20,
     "brand": "Xiaomi",
-    "image": "https://images.unsplash.com/photo-1561154464-82e9adf32764?w=600&auto=format&fit=crop&q=80&sig=tablets-xiaomi-xiaomi-pad-6-68",
+    "image": "https://images.unsplash.com/photo-1561154464-82e9adf32764?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -2959,7 +2959,7 @@ export const PRODUCTS = [
     "rating": 4.1,
     "reviewCount": 109,
     "brand": "Xiaomi",
-    "image": "https://images.unsplash.com/photo-1585776245991-cf89dd7fc73a?w=600&auto=format&fit=crop&q=80&sig=tablets-xiaomi-xiaomi-pad-6-pro-69",
+    "image": "https://images.unsplash.com/photo-1585776245991-cf89dd7fc73a?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -3001,7 +3001,7 @@ export const PRODUCTS = [
     "rating": 4,
     "reviewCount": 20,
     "brand": "Sony",
-    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600&auto=format&fit=crop&q=80&sig=headphones-sony-wh-1000xm5-70",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -3043,7 +3043,7 @@ export const PRODUCTS = [
     "rating": 4.1,
     "reviewCount": 109,
     "brand": "Sony",
-    "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=600&auto=format&fit=crop&q=80&sig=headphones-sony-wf-1000xm5-71",
+    "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -3085,7 +3085,7 @@ export const PRODUCTS = [
     "rating": 4.2,
     "reviewCount": 198,
     "brand": "Sony",
-    "image": "https://images.unsplash.com/photo-1572569511254-d8f925fe2cbb?w=600&auto=format&fit=crop&q=80&sig=headphones-sony-linkbuds-s-72",
+    "image": "https://images.unsplash.com/photo-1572569511254-d8f925fe2cbb?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -3127,7 +3127,7 @@ export const PRODUCTS = [
     "rating": 4.3,
     "reviewCount": 287,
     "brand": "Sony",
-    "image": "https://images.unsplash.com/photo-1484704849700-f032a568e944?w=600&auto=format&fit=crop&q=80&sig=headphones-sony-inzone-h9-73",
+    "image": "https://images.unsplash.com/photo-1484704849700-f032a568e944?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -3169,7 +3169,7 @@ export const PRODUCTS = [
     "rating": 4,
     "reviewCount": 20,
     "brand": "Bose",
-    "image": "https://images.unsplash.com/photo-1546435770-a3e426bf472b?w=600&auto=format&fit=crop&q=80&sig=headphones-bose-quietcomfort-ultra-headphones-74",
+    "image": "https://images.unsplash.com/photo-1546435770-a3e426bf472b?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -3211,7 +3211,7 @@ export const PRODUCTS = [
     "rating": 4.1,
     "reviewCount": 109,
     "brand": "Bose",
-    "image": "https://images.unsplash.com/photo-1583394838336-acd977736f90?w=600&auto=format&fit=crop&q=80&sig=headphones-bose-quietcomfort-ultra-earbuds-75",
+    "image": "https://images.unsplash.com/photo-1583394838336-acd977736f90?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -3253,7 +3253,7 @@ export const PRODUCTS = [
     "rating": 4.2,
     "reviewCount": 198,
     "brand": "Bose",
-    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600&auto=format&fit=crop&q=80&sig=headphones-bose-quietcomfort-45-76",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -3295,7 +3295,7 @@ export const PRODUCTS = [
     "rating": 4,
     "reviewCount": 20,
     "brand": "Apple",
-    "image": "https://images.unsplash.com/photo-1600294037681-c80b4cb5b434?w=600&auto=format&fit=crop&q=80&sig=headphones-apple-airpods-pro-2nd-gen--77",
+    "image": "https://images.unsplash.com/photo-1600294037681-c80b4cb5b434?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -3337,7 +3337,7 @@ export const PRODUCTS = [
     "rating": 4.1,
     "reviewCount": 109,
     "brand": "Apple",
-    "image": "https://images.unsplash.com/photo-1484704849700-f032a568e944?w=600&auto=format&fit=crop&q=80&sig=headphones-apple-airpods-max-78",
+    "image": "https://images.unsplash.com/photo-1484704849700-f032a568e944?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -3379,7 +3379,7 @@ export const PRODUCTS = [
     "rating": 4.2,
     "reviewCount": 198,
     "brand": "Apple",
-    "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=600&auto=format&fit=crop&q=80&sig=headphones-apple-airpods-3rd-gen--79",
+    "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -3421,7 +3421,7 @@ export const PRODUCTS = [
     "rating": 4,
     "reviewCount": 20,
     "brand": "JBL",
-    "image": "https://images.unsplash.com/photo-1546435770-a3e426bf472b?w=600&auto=format&fit=crop&q=80&sig=headphones-jbl-tour-one-m2-80",
+    "image": "https://images.unsplash.com/photo-1546435770-a3e426bf472b?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -3463,7 +3463,7 @@ export const PRODUCTS = [
     "rating": 4.1,
     "reviewCount": 109,
     "brand": "JBL",
-    "image": "https://images.unsplash.com/photo-1583394838336-acd977736f90?w=600&auto=format&fit=crop&q=80&sig=headphones-jbl-live-pro-2-81",
+    "image": "https://images.unsplash.com/photo-1583394838336-acd977736f90?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -3505,7 +3505,7 @@ export const PRODUCTS = [
     "rating": 4.2,
     "reviewCount": 198,
     "brand": "JBL",
-    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600&auto=format&fit=crop&q=80&sig=headphones-jbl-quantum-910-82",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -3547,7 +3547,7 @@ export const PRODUCTS = [
     "rating": 4.3,
     "reviewCount": 287,
     "brand": "JBL",
-    "image": "https://images.unsplash.com/photo-1484704849700-f032a568e944?w=600&auto=format&fit=crop&q=80&sig=headphones-jbl-tune-770nc-83",
+    "image": "https://images.unsplash.com/photo-1484704849700-f032a568e944?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -3589,7 +3589,7 @@ export const PRODUCTS = [
     "rating": 4,
     "reviewCount": 20,
     "brand": "Sennheiser",
-    "image": "https://images.unsplash.com/photo-1546435770-a3e426bf472b?w=600&auto=format&fit=crop&q=80&sig=headphones-sennheiser-momentum-4-wireless-84",
+    "image": "https://images.unsplash.com/photo-1546435770-a3e426bf472b?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -3631,7 +3631,7 @@ export const PRODUCTS = [
     "rating": 4.1,
     "reviewCount": 109,
     "brand": "Sennheiser",
-    "image": "https://images.unsplash.com/photo-1583394838336-acd977736f90?w=600&auto=format&fit=crop&q=80&sig=headphones-sennheiser-momentum-true-wireless-3-85",
+    "image": "https://images.unsplash.com/photo-1583394838336-acd977736f90?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -3673,7 +3673,7 @@ export const PRODUCTS = [
     "rating": 4.2,
     "reviewCount": 198,
     "brand": "Sennheiser",
-    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600&auto=format&fit=crop&q=80&sig=headphones-sennheiser-hd-660s2-86",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -3715,7 +3715,7 @@ export const PRODUCTS = [
     "rating": 4,
     "reviewCount": 20,
     "brand": "Nothing",
-    "image": "https://images.unsplash.com/photo-1572569511254-d8f925fe2cbb?w=600&auto=format&fit=crop&q=80&sig=headphones-nothing-ear-2--87",
+    "image": "https://images.unsplash.com/photo-1572569511254-d8f925fe2cbb?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -3757,7 +3757,7 @@ export const PRODUCTS = [
     "rating": 4.1,
     "reviewCount": 109,
     "brand": "Nothing",
-    "image": "https://images.unsplash.com/photo-1600294037681-c80b4cb5b434?w=600&auto=format&fit=crop&q=80&sig=headphones-nothing-ear-stick--88",
+    "image": "https://images.unsplash.com/photo-1600294037681-c80b4cb5b434?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -3799,7 +3799,7 @@ export const PRODUCTS = [
     "rating": 4.2,
     "reviewCount": 198,
     "brand": "Nothing",
-    "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=600&auto=format&fit=crop&q=80&sig=headphones-nothing-cmf-buds-pro-89",
+    "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -3841,7 +3841,7 @@ export const PRODUCTS = [
     "rating": 4,
     "reviewCount": 20,
     "brand": "Samsung",
-    "image": "https://images.unsplash.com/photo-1572569511254-d8f925fe2cbb?w=600&auto=format&fit=crop&q=80&sig=headphones-samsung-galaxy-buds2-pro-90",
+    "image": "https://images.unsplash.com/photo-1572569511254-d8f925fe2cbb?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -3883,7 +3883,7 @@ export const PRODUCTS = [
     "rating": 4.1,
     "reviewCount": 109,
     "brand": "Samsung",
-    "image": "https://images.unsplash.com/photo-1600294037681-c80b4cb5b434?w=600&auto=format&fit=crop&q=80&sig=headphones-samsung-galaxy-buds-fe-91",
+    "image": "https://images.unsplash.com/photo-1600294037681-c80b4cb5b434?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -3925,7 +3925,7 @@ export const PRODUCTS = [
     "rating": 4.2,
     "reviewCount": 198,
     "brand": "Samsung",
-    "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=600&auto=format&fit=crop&q=80&sig=headphones-samsung-galaxy-buds-live-92",
+    "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -3967,7 +3967,7 @@ export const PRODUCTS = [
     "rating": 4,
     "reviewCount": 20,
     "brand": "Sony",
-    "image": "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?w=600&auto=format&fit=crop&q=80&sig=gaming-sony-playstation-5-pro-93",
+    "image": "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -4009,7 +4009,7 @@ export const PRODUCTS = [
     "rating": 4.1,
     "reviewCount": 109,
     "brand": "Sony",
-    "image": "https://images.unsplash.com/photo-1605901309584-818e25960a8f?w=600&auto=format&fit=crop&q=80&sig=gaming-sony-playstation-5-slim-94",
+    "image": "https://images.unsplash.com/photo-1605901309584-818e25960a8f?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -4051,7 +4051,7 @@ export const PRODUCTS = [
     "rating": 4.2,
     "reviewCount": 198,
     "brand": "Sony",
-    "image": "https://images.unsplash.com/photo-1511512578047-dfb367046420?w=600&auto=format&fit=crop&q=80&sig=gaming-sony-playstation-portal-95",
+    "image": "https://images.unsplash.com/photo-1511512578047-dfb367046420?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -4093,7 +4093,7 @@ export const PRODUCTS = [
     "rating": 4.3,
     "reviewCount": 287,
     "brand": "Sony",
-    "image": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=600&auto=format&fit=crop&q=80&sig=gaming-sony-dualsense-edge-controller-96",
+    "image": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -4135,7 +4135,7 @@ export const PRODUCTS = [
     "rating": 4,
     "reviewCount": 20,
     "brand": "Microsoft",
-    "image": "https://images.unsplash.com/photo-1578301978693-85fa9c0320b9?w=600&auto=format&fit=crop&q=80&sig=gaming-microsoft-xbox-series-x-97",
+    "image": "https://images.unsplash.com/photo-1578301978693-85fa9c0320b9?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -4177,7 +4177,7 @@ export const PRODUCTS = [
     "rating": 4.1,
     "reviewCount": 109,
     "brand": "Microsoft",
-    "image": "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?w=600&auto=format&fit=crop&q=80&sig=gaming-microsoft-xbox-series-s-1tb-98",
+    "image": "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -4219,7 +4219,7 @@ export const PRODUCTS = [
     "rating": 4.2,
     "reviewCount": 198,
     "brand": "Microsoft",
-    "image": "https://images.unsplash.com/photo-1605901309584-818e25960a8f?w=600&auto=format&fit=crop&q=80&sig=gaming-microsoft-xbox-elite-wireless-controller-series-2-99",
+    "image": "https://images.unsplash.com/photo-1605901309584-818e25960a8f?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -4261,7 +4261,7 @@ export const PRODUCTS = [
     "rating": 4,
     "reviewCount": 20,
     "brand": "Nintendo",
-    "image": "https://images.unsplash.com/photo-1578301978693-85fa9c0320b9?w=600&auto=format&fit=crop&q=80&sig=gaming-nintendo-nintendo-switch-oled-100",
+    "image": "https://images.unsplash.com/photo-1578301978693-85fa9c0320b9?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -4303,7 +4303,7 @@ export const PRODUCTS = [
     "rating": 4.1,
     "reviewCount": 109,
     "brand": "Nintendo",
-    "image": "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?w=600&auto=format&fit=crop&q=80&sig=gaming-nintendo-nintendo-switch-lite-101",
+    "image": "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -4345,7 +4345,7 @@ export const PRODUCTS = [
     "rating": 4.2,
     "reviewCount": 198,
     "brand": "Nintendo",
-    "image": "https://images.unsplash.com/photo-1605901309584-818e25960a8f?w=600&auto=format&fit=crop&q=80&sig=gaming-nintendo-switch-pro-controller-102",
+    "image": "https://images.unsplash.com/photo-1605901309584-818e25960a8f?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -4387,7 +4387,7 @@ export const PRODUCTS = [
     "rating": 4,
     "reviewCount": 20,
     "brand": "Logitech",
-    "image": "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?w=600&auto=format&fit=crop&q=80&sig=gaming-logitech-g-pro-x-superlight-2-103",
+    "image": "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -4429,7 +4429,7 @@ export const PRODUCTS = [
     "rating": 4.1,
     "reviewCount": 109,
     "brand": "Logitech",
-    "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=600&auto=format&fit=crop&q=80&sig=gaming-logitech-g915-lightspeed-keyboard-104",
+    "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -4471,7 +4471,7 @@ export const PRODUCTS = [
     "rating": 4.2,
     "reviewCount": 198,
     "brand": "Logitech",
-    "image": "https://images.unsplash.com/photo-1625842268584-8f3290404c41?w=600&auto=format&fit=crop&q=80&sig=gaming-logitech-g502-x-plus-105",
+    "image": "https://images.unsplash.com/photo-1625842268584-8f3290404c41?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -4513,7 +4513,7 @@ export const PRODUCTS = [
     "rating": 4.3,
     "reviewCount": 287,
     "brand": "Logitech",
-    "image": "https://images.unsplash.com/photo-1592840496694-26d035b52b48?w=600&auto=format&fit=crop&q=80&sig=gaming-logitech-astro-a50-x-106",
+    "image": "https://images.unsplash.com/photo-1592840496694-26d035b52b48?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -4555,7 +4555,7 @@ export const PRODUCTS = [
     "rating": 4,
     "reviewCount": 20,
     "brand": "Razer",
-    "image": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=600&auto=format&fit=crop&q=80&sig=gaming-razer-viper-v3-pro-107",
+    "image": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -4597,7 +4597,7 @@ export const PRODUCTS = [
     "rating": 4.1,
     "reviewCount": 109,
     "brand": "Razer",
-    "image": "https://images.unsplash.com/photo-1595225476474-87563907a212?w=600&auto=format&fit=crop&q=80&sig=gaming-razer-blackwidow-v4-pro-108",
+    "image": "https://images.unsplash.com/photo-1595225476474-87563907a212?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -4639,7 +4639,7 @@ export const PRODUCTS = [
     "rating": 4.2,
     "reviewCount": 198,
     "brand": "Razer",
-    "image": "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?w=600&auto=format&fit=crop&q=80&sig=gaming-razer-kraken-v3-hypersense-109",
+    "image": "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -4681,7 +4681,7 @@ export const PRODUCTS = [
     "rating": 4.3,
     "reviewCount": 287,
     "brand": "Razer",
-    "image": "https://images.unsplash.com/photo-1592840496694-26d035b52b48?w=600&auto=format&fit=crop&q=80&sig=gaming-razer-wolverine-v2-pro-110",
+    "image": "https://images.unsplash.com/photo-1592840496694-26d035b52b48?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -4723,7 +4723,7 @@ export const PRODUCTS = [
     "rating": 4,
     "reviewCount": 20,
     "brand": "ASUS",
-    "image": "https://images.unsplash.com/photo-1627856013091-fed6e4e30025?w=600&auto=format&fit=crop&q=80&sig=gaming-asus-rog-ally-z1-extreme-111",
+    "image": "https://images.unsplash.com/photo-1627856013091-fed6e4e30025?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -4765,7 +4765,7 @@ export const PRODUCTS = [
     "rating": 4.1,
     "reviewCount": 109,
     "brand": "ASUS",
-    "image": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=600&auto=format&fit=crop&q=80&sig=gaming-asus-rog-raikiri-pro-112",
+    "image": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -4807,7 +4807,7 @@ export const PRODUCTS = [
     "rating": 4.2,
     "reviewCount": 198,
     "brand": "ASUS",
-    "image": "https://images.unsplash.com/photo-1592840496694-26d035b52b48?w=600&auto=format&fit=crop&q=80&sig=gaming-asus-rog-cetra-true-wireless-113",
+    "image": "https://images.unsplash.com/photo-1592840496694-26d035b52b48?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -4849,7 +4849,7 @@ export const PRODUCTS = [
     "rating": 4,
     "reviewCount": 20,
     "brand": "LG",
-    "image": "https://images.unsplash.com/photo-1593305841991-05c297ba4575?w=600&auto=format&fit=crop&q=80&sig=home-appliances-lg-oled-evo-c3-65-tv-114",
+    "image": "https://images.unsplash.com/photo-1593305841991-05c297ba4575?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -4891,7 +4891,7 @@ export const PRODUCTS = [
     "rating": 4.1,
     "reviewCount": 109,
     "brand": "LG",
-    "image": "https://images.unsplash.com/photo-1545173168-9f1947e80154?w=600&auto=format&fit=crop&q=80&sig=home-appliances-lg-washtower-smart-laundry-115",
+    "image": "https://images.unsplash.com/photo-1545173168-9f1947e80154?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -4933,7 +4933,7 @@ export const PRODUCTS = [
     "rating": 4.2,
     "reviewCount": 198,
     "brand": "LG",
-    "image": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?w=600&auto=format&fit=crop&q=80&sig=home-appliances-lg-instaview-refrigerator-116",
+    "image": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -4975,7 +4975,7 @@ export const PRODUCTS = [
     "rating": 4.3,
     "reviewCount": 287,
     "brand": "LG",
-    "image": "https://images.unsplash.com/photo-1722710070534-e31f0290d8de?w=600&auto=format&fit=crop&q=80&sig=home-appliances-lg-cordzero-a9-stick-vacuum-117",
+    "image": "https://images.unsplash.com/photo-1722710070534-e31f0290d8de?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -5017,7 +5017,7 @@ export const PRODUCTS = [
     "rating": 4,
     "reviewCount": 20,
     "brand": "Samsung",
-    "image": "https://images.unsplash.com/photo-1593784991095-a205069470b6?w=600&auto=format&fit=crop&q=80&sig=home-appliances-samsung-neo-qled-8k-tv-118",
+    "image": "https://images.unsplash.com/photo-1593784991095-a205069470b6?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -5059,7 +5059,7 @@ export const PRODUCTS = [
     "rating": 4.1,
     "reviewCount": 109,
     "brand": "Samsung",
-    "image": "https://images.unsplash.com/photo-1571175437980-0c315cc29858?w=600&auto=format&fit=crop&q=80&sig=home-appliances-samsung-bespoke-4-door-flex-refrigerator-119",
+    "image": "https://images.unsplash.com/photo-1571175437980-0c315cc29858?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -5101,7 +5101,7 @@ export const PRODUCTS = [
     "rating": 4.2,
     "reviewCount": 198,
     "brand": "Samsung",
-    "image": "https://images.unsplash.com/photo-1765970101654-337b573142fb?w=600&auto=format&fit=crop&q=80&sig=home-appliances-samsung-bespoke-jet-ai-vacuum-120",
+    "image": "https://images.unsplash.com/photo-1765970101654-337b573142fb?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -5143,7 +5143,7 @@ export const PRODUCTS = [
     "rating": 4.3,
     "reviewCount": 287,
     "brand": "Samsung",
-    "image": "https://images.unsplash.com/photo-1517677208171-0bc6725a3e60?w=600&auto=format&fit=crop&q=80&sig=home-appliances-samsung-smart-dial-washer-121",
+    "image": "https://images.unsplash.com/photo-1517677208171-0bc6725a3e60?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -5185,7 +5185,7 @@ export const PRODUCTS = [
     "rating": 4,
     "reviewCount": 20,
     "brand": "Whirlpool",
-    "image": "https://images.unsplash.com/photo-1626806787461-102c1bfaaea1?w=600&auto=format&fit=crop&q=80&sig=home-appliances-whirlpool-smart-front-load-washer-122",
+    "image": "https://images.unsplash.com/photo-1626806787461-102c1bfaaea1?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -5227,7 +5227,7 @@ export const PRODUCTS = [
     "rating": 4.1,
     "reviewCount": 109,
     "brand": "Whirlpool",
-    "image": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?w=600&auto=format&fit=crop&q=80&sig=home-appliances-whirlpool-french-door-refrigerator-123",
+    "image": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -5269,7 +5269,7 @@ export const PRODUCTS = [
     "rating": 4.2,
     "reviewCount": 198,
     "brand": "Whirlpool",
-    "image": "https://images.unsplash.com/photo-1583847268964-b28dc8f51f92?w=600&auto=format&fit=crop&q=80&sig=home-appliances-whirlpool-smart-double-wall-oven-124",
+    "image": "https://images.unsplash.com/photo-1583847268964-b28dc8f51f92?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -5311,7 +5311,7 @@ export const PRODUCTS = [
     "rating": 4,
     "reviewCount": 20,
     "brand": "Bosch",
-    "image": "https://images.unsplash.com/photo-1545173168-9f1947e80154?w=600&auto=format&fit=crop&q=80&sig=home-appliances-bosch-800-series-dishwasher-125",
+    "image": "https://images.unsplash.com/photo-1545173168-9f1947e80154?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -5353,7 +5353,7 @@ export const PRODUCTS = [
     "rating": 4.1,
     "reviewCount": 109,
     "brand": "Bosch",
-    "image": "https://images.unsplash.com/photo-1571175437980-0c315cc29858?w=600&auto=format&fit=crop&q=80&sig=home-appliances-bosch-500-series-refrigerator-126",
+    "image": "https://images.unsplash.com/photo-1571175437980-0c315cc29858?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -5395,7 +5395,7 @@ export const PRODUCTS = [
     "rating": 4.2,
     "reviewCount": 198,
     "brand": "Bosch",
-    "image": "https://images.unsplash.com/photo-1574269909862-7e1d70bb8078?w=600&auto=format&fit=crop&q=80&sig=home-appliances-bosch-benchmark-induction-cooktop-127",
+    "image": "https://images.unsplash.com/photo-1574269909862-7e1d70bb8078?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -5437,7 +5437,7 @@ export const PRODUCTS = [
     "rating": 4,
     "reviewCount": 20,
     "brand": "IFB",
-    "image": "https://images.unsplash.com/photo-1517677208171-0bc6725a3e60?w=600&auto=format&fit=crop&q=80&sig=home-appliances-ifb-senator-wss-8kg-washer-128",
+    "image": "https://images.unsplash.com/photo-1517677208171-0bc6725a3e60?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -5479,7 +5479,7 @@ export const PRODUCTS = [
     "rating": 4.1,
     "reviewCount": 109,
     "brand": "IFB",
-    "image": "https://images.unsplash.com/photo-1626806787461-102c1bfaaea1?w=600&auto=format&fit=crop&q=80&sig=home-appliances-ifb-neptune-vx-dishwasher-129",
+    "image": "https://images.unsplash.com/photo-1626806787461-102c1bfaaea1?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -5521,7 +5521,7 @@ export const PRODUCTS = [
     "rating": 4.2,
     "reviewCount": 198,
     "brand": "IFB",
-    "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=600&auto=format&fit=crop&q=80&sig=home-appliances-ifb-microwave-oven-30l-130",
+    "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -5563,7 +5563,7 @@ export const PRODUCTS = [
     "rating": 4,
     "reviewCount": 20,
     "brand": "Philips",
-    "image": "https://images.unsplash.com/photo-1621905251189-08b45d6a269e?w=600&auto=format&fit=crop&q=80&sig=home-appliances-philips-air-purifier-3000i-131",
+    "image": "https://images.unsplash.com/photo-1621905251189-08b45d6a269e?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -5605,7 +5605,7 @@ export const PRODUCTS = [
     "rating": 4.1,
     "reviewCount": 109,
     "brand": "Philips",
-    "image": "https://images.unsplash.com/photo-1583847268964-b28dc8f51f92?w=600&auto=format&fit=crop&q=80&sig=home-appliances-philips-perfectcare-elite-steam-iron-132",
+    "image": "https://images.unsplash.com/photo-1583847268964-b28dc8f51f92?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -5647,7 +5647,7 @@ export const PRODUCTS = [
     "rating": 4.2,
     "reviewCount": 198,
     "brand": "Philips",
-    "image": "https://images.unsplash.com/photo-1574269909862-7e1d70bb8078?w=600&auto=format&fit=crop&q=80&sig=home-appliances-philips-eco-conscious-edition-kettle-133",
+    "image": "https://images.unsplash.com/photo-1574269909862-7e1d70bb8078?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -5689,7 +5689,7 @@ export const PRODUCTS = [
     "rating": 4,
     "reviewCount": 20,
     "brand": "Penguin",
-    "image": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=600&auto=format&fit=crop&q=80&sig=books-penguin-atomic-habits-134",
+    "image": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -5731,7 +5731,7 @@ export const PRODUCTS = [
     "rating": 4.1,
     "reviewCount": 109,
     "brand": "Penguin",
-    "image": "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=600&auto=format&fit=crop&q=80&sig=books-penguin-the-psychology-of-money-135",
+    "image": "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -5773,7 +5773,7 @@ export const PRODUCTS = [
     "rating": 4.2,
     "reviewCount": 198,
     "brand": "Penguin",
-    "image": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=600&auto=format&fit=crop&q=80&sig=books-penguin-thinking-fast-and-slow-136",
+    "image": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -5815,7 +5815,7 @@ export const PRODUCTS = [
     "rating": 4,
     "reviewCount": 20,
     "brand": "HarperCollins",
-    "image": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=600&auto=format&fit=crop&q=80&sig=books-harpercollins-the-alchemist-137",
+    "image": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -5857,7 +5857,7 @@ export const PRODUCTS = [
     "rating": 4.1,
     "reviewCount": 109,
     "brand": "HarperCollins",
-    "image": "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=600&auto=format&fit=crop&q=80&sig=books-harpercollins-sapiens-a-brief-history-of-humankind-138",
+    "image": "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -5899,7 +5899,7 @@ export const PRODUCTS = [
     "rating": 4.2,
     "reviewCount": 198,
     "brand": "HarperCollins",
-    "image": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=600&auto=format&fit=crop&q=80&sig=books-harpercollins-ikigai-139",
+    "image": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -5941,7 +5941,7 @@ export const PRODUCTS = [
     "rating": 4,
     "reviewCount": 20,
     "brand": "Simon & Schuster",
-    "image": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=600&auto=format&fit=crop&q=80&sig=books-simon-schuster-steve-jobs-biography-140",
+    "image": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -5983,7 +5983,7 @@ export const PRODUCTS = [
     "rating": 4.1,
     "reviewCount": 109,
     "brand": "Simon & Schuster",
-    "image": "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=600&auto=format&fit=crop&q=80&sig=books-simon-schuster-principles-by-ray-dalio-141",
+    "image": "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -6025,7 +6025,7 @@ export const PRODUCTS = [
     "rating": 4.2,
     "reviewCount": 198,
     "brand": "Simon & Schuster",
-    "image": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=600&auto=format&fit=crop&q=80&sig=books-simon-schuster-shoe-dog-142",
+    "image": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -6067,7 +6067,7 @@ export const PRODUCTS = [
     "rating": 4,
     "reviewCount": 20,
     "brand": "Nike",
-    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=600&auto=format&fit=crop&q=80&sig=fashion-nike-air-force-1-07-143",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -6109,7 +6109,7 @@ export const PRODUCTS = [
     "rating": 4.1,
     "reviewCount": 109,
     "brand": "Nike",
-    "image": "https://images.unsplash.com/photo-1551488831-00ddcb6c6bd3?w=600&auto=format&fit=crop&q=80&sig=fashion-nike-tech-fleece-full-zip-144",
+    "image": "https://images.unsplash.com/photo-1551488831-00ddcb6c6bd3?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -6151,7 +6151,7 @@ export const PRODUCTS = [
     "rating": 4.2,
     "reviewCount": 198,
     "brand": "Nike",
-    "image": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=600&auto=format&fit=crop&q=80&sig=fashion-nike-sportswear-club-fleece-pants-145",
+    "image": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -6193,7 +6193,7 @@ export const PRODUCTS = [
     "rating": 4,
     "reviewCount": 20,
     "brand": "Adidas",
-    "image": "https://images.unsplash.com/photo-1606107557195-0e29a4b5b4aa?w=600&auto=format&fit=crop&q=80&sig=fashion-adidas-ultraboost-light-146",
+    "image": "https://images.unsplash.com/photo-1606107557195-0e29a4b5b4aa?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -6235,7 +6235,7 @@ export const PRODUCTS = [
     "rating": 4.1,
     "reviewCount": 109,
     "brand": "Adidas",
-    "image": "https://images.unsplash.com/photo-1560769629-975ec94e6a86?w=600&auto=format&fit=crop&q=80&sig=fashion-adidas-samba-og-shoes-147",
+    "image": "https://images.unsplash.com/photo-1560769629-975ec94e6a86?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -6277,7 +6277,7 @@ export const PRODUCTS = [
     "rating": 4.2,
     "reviewCount": 198,
     "brand": "Adidas",
-    "image": "https://images.unsplash.com/photo-1483985988355-763728e1935b?w=600&auto=format&fit=crop&q=80&sig=fashion-adidas-adicolor-classics-track-jacket-148",
+    "image": "https://images.unsplash.com/photo-1483985988355-763728e1935b?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -6319,7 +6319,7 @@ export const PRODUCTS = [
     "rating": 4,
     "reviewCount": 20,
     "brand": "Patagonia",
-    "image": "https://images.unsplash.com/photo-1551488831-00ddcb6c6bd3?w=600&auto=format&fit=crop&q=80&sig=fashion-patagonia-better-sweater-fleece-149",
+    "image": "https://images.unsplash.com/photo-1551488831-00ddcb6c6bd3?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -6361,7 +6361,7 @@ export const PRODUCTS = [
     "rating": 4.1,
     "reviewCount": 109,
     "brand": "Patagonia",
-    "image": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=600&auto=format&fit=crop&q=80&sig=fashion-patagonia-torrentshell-3l-rain-jacket-150",
+    "image": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -6403,7 +6403,7 @@ export const PRODUCTS = [
     "rating": 4.2,
     "reviewCount": 198,
     "brand": "Patagonia",
-    "image": "https://images.unsplash.com/photo-1483985988355-763728e1935b?w=600&auto=format&fit=crop&q=80&sig=fashion-patagonia-nano-puff-jacket-151",
+    "image": "https://images.unsplash.com/photo-1483985988355-763728e1935b?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -6445,7 +6445,7 @@ export const PRODUCTS = [
     "rating": 4,
     "reviewCount": 20,
     "brand": "The North Face",
-    "image": "https://images.unsplash.com/photo-1551488831-00ddcb6c6bd3?w=600&auto=format&fit=crop&q=80&sig=fashion-the-north-face-nuptse-1996-retro-jacket-152",
+    "image": "https://images.unsplash.com/photo-1551488831-00ddcb6c6bd3?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -6487,7 +6487,7 @@ export const PRODUCTS = [
     "rating": 4.1,
     "reviewCount": 109,
     "brand": "The North Face",
-    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=600&auto=format&fit=crop&q=80&sig=fashion-the-north-face-borealis-backpack-153",
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -6529,7 +6529,7 @@ export const PRODUCTS = [
     "rating": 4.2,
     "reviewCount": 198,
     "brand": "The North Face",
-    "image": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=600&auto=format&fit=crop&q=80&sig=fashion-the-north-face-apex-bionic-jacket-154",
+    "image": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -6571,7 +6571,7 @@ export const PRODUCTS = [
     "rating": 4,
     "reviewCount": 20,
     "brand": "Dyson",
-    "image": "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?w=600&auto=format&fit=crop&q=80&sig=beauty-dyson-airwrap-multi-styler-155",
+    "image": "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -6613,7 +6613,7 @@ export const PRODUCTS = [
     "rating": 4.1,
     "reviewCount": 109,
     "brand": "Dyson",
-    "image": "https://images.unsplash.com/photo-1562322140-8baeececf3df?w=600&auto=format&fit=crop&q=80&sig=beauty-dyson-supersonic-hair-dryer-156",
+    "image": "https://images.unsplash.com/photo-1562322140-8baeececf3df?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -6655,7 +6655,7 @@ export const PRODUCTS = [
     "rating": 4.2,
     "reviewCount": 198,
     "brand": "Dyson",
-    "image": "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?w=600&auto=format&fit=crop&q=80&sig=beauty-dyson-corrale-hair-straightener-157",
+    "image": "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -6697,7 +6697,7 @@ export const PRODUCTS = [
     "rating": 4,
     "reviewCount": 20,
     "brand": "L'Oréal",
-    "image": "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?w=600&auto=format&fit=crop&q=80&sig=beauty-l-or-al-revitalift-derm-intensives-serum-158",
+    "image": "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -6739,7 +6739,7 @@ export const PRODUCTS = [
     "rating": 4.1,
     "reviewCount": 109,
     "brand": "L'Oréal",
-    "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=600&auto=format&fit=crop&q=80&sig=beauty-l-or-al-true-match-foundation-159",
+    "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -6781,7 +6781,7 @@ export const PRODUCTS = [
     "rating": 4.2,
     "reviewCount": 198,
     "brand": "L'Oréal",
-    "image": "https://images.unsplash.com/photo-1556228720-195a672e8a03?w=600&auto=format&fit=crop&q=80&sig=beauty-l-or-al-voluminous-lash-paradise-160",
+    "image": "https://images.unsplash.com/photo-1556228720-195a672e8a03?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -6823,7 +6823,7 @@ export const PRODUCTS = [
     "rating": 4,
     "reviewCount": 20,
     "brand": "Estée Lauder",
-    "image": "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?w=600&auto=format&fit=crop&q=80&sig=beauty-est-e-lauder-advanced-night-repair-serum-161",
+    "image": "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -6865,7 +6865,7 @@ export const PRODUCTS = [
     "rating": 4.1,
     "reviewCount": 109,
     "brand": "Estée Lauder",
-    "image": "https://images.unsplash.com/photo-1512496015851-a90fb38ba796?w=600&auto=format&fit=crop&q=80&sig=beauty-est-e-lauder-double-wear-foundation-162",
+    "image": "https://images.unsplash.com/photo-1512496015851-a90fb38ba796?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -6907,7 +6907,7 @@ export const PRODUCTS = [
     "rating": 4.2,
     "reviewCount": 198,
     "brand": "Estée Lauder",
-    "image": "https://images.unsplash.com/photo-1556228720-195a672e8a03?w=600&auto=format&fit=crop&q=80&sig=beauty-est-e-lauder-revitalizing-supreme-cream-163",
+    "image": "https://images.unsplash.com/photo-1556228720-195a672e8a03?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -6949,7 +6949,7 @@ export const PRODUCTS = [
     "rating": 4,
     "reviewCount": 20,
     "brand": "Philips",
-    "image": "https://images.unsplash.com/photo-1559592481-74153c497858?w=600&auto=format&fit=crop&q=80&sig=beauty-philips-lumea-ipl-hair-removal-164",
+    "image": "https://images.unsplash.com/photo-1559592481-74153c497858?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -6991,7 +6991,7 @@ export const PRODUCTS = [
     "rating": 4.1,
     "reviewCount": 109,
     "brand": "Philips",
-    "image": "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?w=600&auto=format&fit=crop&q=80&sig=beauty-philips-sonicare-diamondclean-9000-165",
+    "image": "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -7033,7 +7033,7 @@ export const PRODUCTS = [
     "rating": 4.2,
     "reviewCount": 198,
     "brand": "Philips",
-    "image": "https://images.unsplash.com/photo-1559592481-74153c497858?w=600&auto=format&fit=crop&q=80&sig=beauty-philips-oneblade-pro-166",
+    "image": "https://images.unsplash.com/photo-1559592481-74153c497858?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -7075,7 +7075,7 @@ export const PRODUCTS = [
     "rating": 4,
     "reviewCount": 20,
     "brand": "Herman Miller",
-    "image": "https://images.unsplash.com/photo-1580481072645-022f9a6dbf27?w=600&auto=format&fit=crop&q=80&sig=furniture-herman-miller-aeron-ergonomic-chair-167",
+    "image": "https://images.unsplash.com/photo-1580481072645-022f9a6dbf27?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -7117,7 +7117,7 @@ export const PRODUCTS = [
     "rating": 4.1,
     "reviewCount": 109,
     "brand": "Herman Miller",
-    "image": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?w=600&auto=format&fit=crop&q=80&sig=furniture-herman-miller-embody-chair-168",
+    "image": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -7159,7 +7159,7 @@ export const PRODUCTS = [
     "rating": 4.2,
     "reviewCount": 198,
     "brand": "Herman Miller",
-    "image": "https://images.unsplash.com/photo-1580481072645-022f9a6dbf27?w=600&auto=format&fit=crop&q=80&sig=furniture-herman-miller-sayl-chair-169",
+    "image": "https://images.unsplash.com/photo-1580481072645-022f9a6dbf27?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -7201,7 +7201,7 @@ export const PRODUCTS = [
     "rating": 4.3,
     "reviewCount": 287,
     "brand": "Herman Miller",
-    "image": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?w=600&auto=format&fit=crop&q=80&sig=furniture-herman-miller-noguchi-table-170",
+    "image": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -7243,7 +7243,7 @@ export const PRODUCTS = [
     "rating": 4,
     "reviewCount": 20,
     "brand": "Steelcase",
-    "image": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?w=600&auto=format&fit=crop&q=80&sig=furniture-steelcase-gesture-office-chair-171",
+    "image": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -7285,7 +7285,7 @@ export const PRODUCTS = [
     "rating": 4.1,
     "reviewCount": 109,
     "brand": "Steelcase",
-    "image": "https://images.unsplash.com/photo-1580481072645-022f9a6dbf27?w=600&auto=format&fit=crop&q=80&sig=furniture-steelcase-leap-fabric-chair-172",
+    "image": "https://images.unsplash.com/photo-1580481072645-022f9a6dbf27?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -7327,7 +7327,7 @@ export const PRODUCTS = [
     "rating": 4.2,
     "reviewCount": 198,
     "brand": "Steelcase",
-    "image": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?w=600&auto=format&fit=crop&q=80&sig=furniture-steelcase-series-2-chair-173",
+    "image": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -7369,7 +7369,7 @@ export const PRODUCTS = [
     "rating": 4,
     "reviewCount": 20,
     "brand": "IKEA",
-    "image": "https://images.unsplash.com/photo-1580481072645-022f9a6dbf27?w=600&auto=format&fit=crop&q=80&sig=furniture-ikea-markus-office-chair-174",
+    "image": "https://images.unsplash.com/photo-1580481072645-022f9a6dbf27?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -7411,7 +7411,7 @@ export const PRODUCTS = [
     "rating": 4.1,
     "reviewCount": 109,
     "brand": "IKEA",
-    "image": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?w=600&auto=format&fit=crop&q=80&sig=furniture-ikea-bekant-standing-desk-175",
+    "image": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -7453,7 +7453,7 @@ export const PRODUCTS = [
     "rating": 4.2,
     "reviewCount": 198,
     "brand": "IKEA",
-    "image": "https://images.unsplash.com/photo-1595428774223-ef52624120d2?w=600&auto=format&fit=crop&q=80&sig=furniture-ikea-kallax-shelving-unit-176",
+    "image": "https://images.unsplash.com/photo-1595428774223-ef52624120d2?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -7495,7 +7495,7 @@ export const PRODUCTS = [
     "rating": 4.3,
     "reviewCount": 287,
     "brand": "IKEA",
-    "image": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?w=600&auto=format&fit=crop&q=80&sig=furniture-ikea-po-ng-armchair-177",
+    "image": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -7537,7 +7537,7 @@ export const PRODUCTS = [
     "rating": 4,
     "reviewCount": 20,
     "brand": "West Elm",
-    "image": "https://images.unsplash.com/photo-1580481072645-022f9a6dbf27?w=600&auto=format&fit=crop&q=80&sig=furniture-west-elm-mid-century-show-wood-chair-178",
+    "image": "https://images.unsplash.com/photo-1580481072645-022f9a6dbf27?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -7579,7 +7579,7 @@ export const PRODUCTS = [
     "rating": 4.1,
     "reviewCount": 109,
     "brand": "West Elm",
-    "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=600&auto=format&fit=crop&q=80&sig=furniture-west-elm-andes-sofa-179",
+    "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -7621,7 +7621,7 @@ export const PRODUCTS = [
     "rating": 4.2,
     "reviewCount": 198,
     "brand": "West Elm",
-    "image": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?w=600&auto=format&fit=crop&q=80&sig=furniture-west-elm-industrial-storage-desk-180",
+    "image": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -7663,7 +7663,7 @@ export const PRODUCTS = [
     "rating": 4,
     "reviewCount": 20,
     "brand": "Breville",
-    "image": "https://images.unsplash.com/photo-1517701550927-30cf4ba1dba5?w=600&auto=format&fit=crop&q=80&sig=kitchen-breville-barista-express-impress-181",
+    "image": "https://images.unsplash.com/photo-1517701550927-30cf4ba1dba5?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -7705,7 +7705,7 @@ export const PRODUCTS = [
     "rating": 4.1,
     "reviewCount": 109,
     "brand": "Breville",
-    "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=600&auto=format&fit=crop&q=80&sig=kitchen-breville-smart-oven-air-fryer-pro-182",
+    "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -7747,7 +7747,7 @@ export const PRODUCTS = [
     "rating": 4.2,
     "reviewCount": 198,
     "brand": "Breville",
-    "image": "https://images.unsplash.com/photo-1517701550927-30cf4ba1dba5?w=600&auto=format&fit=crop&q=80&sig=kitchen-breville-the-bambino-plus-183",
+    "image": "https://images.unsplash.com/photo-1517701550927-30cf4ba1dba5?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -7789,7 +7789,7 @@ export const PRODUCTS = [
     "rating": 4,
     "reviewCount": 20,
     "brand": "KitchenAid",
-    "image": "https://images.unsplash.com/photo-1578643463396-0997cb5328c1?w=600&auto=format&fit=crop&q=80&sig=kitchen-kitchenaid-artisan-series-5-quart-stand-mixer-184",
+    "image": "https://images.unsplash.com/photo-1578643463396-0997cb5328c1?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -7831,7 +7831,7 @@ export const PRODUCTS = [
     "rating": 4.1,
     "reviewCount": 109,
     "brand": "KitchenAid",
-    "image": "https://images.unsplash.com/photo-1584269600464-37b1b58a9fe7?w=600&auto=format&fit=crop&q=80&sig=kitchen-kitchenaid-pro-line-series-blender-185",
+    "image": "https://images.unsplash.com/photo-1584269600464-37b1b58a9fe7?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -7873,7 +7873,7 @@ export const PRODUCTS = [
     "rating": 4.2,
     "reviewCount": 198,
     "brand": "KitchenAid",
-    "image": "https://images.unsplash.com/photo-1583847268964-b28dc8f51f92?w=600&auto=format&fit=crop&q=80&sig=kitchen-kitchenaid-digital-countertop-oven-186",
+    "image": "https://images.unsplash.com/photo-1583847268964-b28dc8f51f92?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -7915,7 +7915,7 @@ export const PRODUCTS = [
     "rating": 4,
     "reviewCount": 20,
     "brand": "Ninja",
-    "image": "https://images.unsplash.com/photo-1574269909862-7e1d70bb8078?w=600&auto=format&fit=crop&q=80&sig=kitchen-ninja-foodi-10-in-1-smart-xl-air-fry-oven-187",
+    "image": "https://images.unsplash.com/photo-1574269909862-7e1d70bb8078?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -7957,7 +7957,7 @@ export const PRODUCTS = [
     "rating": 4.1,
     "reviewCount": 109,
     "brand": "Ninja",
-    "image": "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?w=600&auto=format&fit=crop&q=80&sig=kitchen-ninja-creami-ice-cream-maker-188",
+    "image": "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -7999,7 +7999,7 @@ export const PRODUCTS = [
     "rating": 4.2,
     "reviewCount": 198,
     "brand": "Ninja",
-    "image": "https://images.unsplash.com/photo-1584269600464-37b1b58a9fe7?w=600&auto=format&fit=crop&q=80&sig=kitchen-ninja-professional-plus-blender-189",
+    "image": "https://images.unsplash.com/photo-1584269600464-37b1b58a9fe7?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -8041,7 +8041,7 @@ export const PRODUCTS = [
     "rating": 4,
     "reviewCount": 20,
     "brand": "Instant Pot",
-    "image": "https://images.unsplash.com/photo-1506368249639-73a05d6f6488?w=600&auto=format&fit=crop&q=80&sig=kitchen-instant-pot-duo-plus-9-in-1-190",
+    "image": "https://images.unsplash.com/photo-1506368249639-73a05d6f6488?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -8083,7 +8083,7 @@ export const PRODUCTS = [
     "rating": 4.1,
     "reviewCount": 109,
     "brand": "Instant Pot",
-    "image": "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?w=600&auto=format&fit=crop&q=80&sig=kitchen-instant-pot-vortex-plus-6-quart-air-fryer-191",
+    "image": "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -8125,7 +8125,7 @@ export const PRODUCTS = [
     "rating": 4.2,
     "reviewCount": 198,
     "brand": "Instant Pot",
-    "image": "https://images.unsplash.com/photo-1506368249639-73a05d6f6488?w=600&auto=format&fit=crop&q=80&sig=kitchen-instant-pot-pro-crisp-8-quart-192",
+    "image": "https://images.unsplash.com/photo-1506368249639-73a05d6f6488?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -8167,7 +8167,7 @@ export const PRODUCTS = [
     "rating": 4,
     "reviewCount": 20,
     "brand": "Garmin",
-    "image": "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?w=600&auto=format&fit=crop&q=80&sig=sports-garmin-fenix-7x-sapphire-solar-193",
+    "image": "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -8209,7 +8209,7 @@ export const PRODUCTS = [
     "rating": 4.1,
     "reviewCount": 109,
     "brand": "Garmin",
-    "image": "https://images.unsplash.com/photo-1517502884422-41eaacad0167?w=600&auto=format&fit=crop&q=80&sig=sports-garmin-forerunner-965-194",
+    "image": "https://images.unsplash.com/photo-1517502884422-41eaacad0167?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -8251,7 +8251,7 @@ export const PRODUCTS = [
     "rating": 4.2,
     "reviewCount": 198,
     "brand": "Garmin",
-    "image": "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?w=600&auto=format&fit=crop&q=80&sig=sports-garmin-venu-3-195",
+    "image": "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -8293,7 +8293,7 @@ export const PRODUCTS = [
     "rating": 4.3,
     "reviewCount": 287,
     "brand": "Garmin",
-    "image": "https://images.unsplash.com/photo-1508062878650-88b52897f298?w=600&auto=format&fit=crop&q=80&sig=sports-garmin-edge-1040-solar-196",
+    "image": "https://images.unsplash.com/photo-1508062878650-88b52897f298?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -8335,7 +8335,7 @@ export const PRODUCTS = [
     "rating": 4,
     "reviewCount": 20,
     "brand": "Therabody",
-    "image": "https://images.unsplash.com/photo-1517838277536-f5f99be501cd?w=600&auto=format&fit=crop&q=80&sig=sports-therabody-theragun-pro-197",
+    "image": "https://images.unsplash.com/photo-1517838277536-f5f99be501cd?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -8377,7 +8377,7 @@ export const PRODUCTS = [
     "rating": 4.1,
     "reviewCount": 109,
     "brand": "Therabody",
-    "image": "https://images.unsplash.com/photo-1517838277536-f5f99be501cd?w=600&auto=format&fit=crop&q=80&sig=sports-therabody-theragun-mini-198",
+    "image": "https://images.unsplash.com/photo-1517838277536-f5f99be501cd?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -8419,7 +8419,7 @@ export const PRODUCTS = [
     "rating": 4.2,
     "reviewCount": 198,
     "brand": "Therabody",
-    "image": "https://images.unsplash.com/photo-1517838277536-f5f99be501cd?w=600&auto=format&fit=crop&q=80&sig=sports-therabody-recoveryair-pro-199",
+    "image": "https://images.unsplash.com/photo-1517838277536-f5f99be501cd?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -8461,7 +8461,7 @@ export const PRODUCTS = [
     "rating": 4,
     "reviewCount": 20,
     "brand": "Bowflex",
-    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=600&auto=format&fit=crop&q=80&sig=sports-bowflex-selecttech-552-dumbbells-200",
+    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -8503,7 +8503,7 @@ export const PRODUCTS = [
     "rating": 4.1,
     "reviewCount": 109,
     "brand": "Bowflex",
-    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=600&auto=format&fit=crop&q=80&sig=sports-bowflex-max-trainer-m9-201",
+    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -8545,7 +8545,7 @@ export const PRODUCTS = [
     "rating": 4.2,
     "reviewCount": 198,
     "brand": "Bowflex",
-    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=600&auto=format&fit=crop&q=80&sig=sports-bowflex-treadmill-22-202",
+    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -8587,7 +8587,7 @@ export const PRODUCTS = [
     "rating": 4,
     "reviewCount": 20,
     "brand": "Fitbit",
-    "image": "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?w=600&auto=format&fit=crop&q=80&sig=sports-fitbit-charge-6-203",
+    "image": "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -8629,7 +8629,7 @@ export const PRODUCTS = [
     "rating": 4.1,
     "reviewCount": 109,
     "brand": "Fitbit",
-    "image": "https://images.unsplash.com/photo-1517502884422-41eaacad0167?w=600&auto=format&fit=crop&q=80&sig=sports-fitbit-sense-2-204",
+    "image": "https://images.unsplash.com/photo-1517502884422-41eaacad0167?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -8671,7 +8671,7 @@ export const PRODUCTS = [
     "rating": 4.2,
     "reviewCount": 198,
     "brand": "Fitbit",
-    "image": "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?w=600&auto=format&fit=crop&q=80&sig=sports-fitbit-versa-4-205",
+    "image": "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -8713,7 +8713,7 @@ export const PRODUCTS = [
     "rating": 4,
     "reviewCount": 20,
     "brand": "Samsonite",
-    "image": "https://images.unsplash.com/photo-1565026057447-bc90a3dceb87?w=600&auto=format&fit=crop&q=80&sig=travel-samsonite-omni-pc-hardside-expandable-206",
+    "image": "https://images.unsplash.com/photo-1565026057447-bc90a3dceb87?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -8755,7 +8755,7 @@ export const PRODUCTS = [
     "rating": 4.1,
     "reviewCount": 109,
     "brand": "Samsonite",
-    "image": "https://images.unsplash.com/photo-1581553673739-c4906b5d0de8?w=600&auto=format&fit=crop&q=80&sig=travel-samsonite-winfield-2-hardside-207",
+    "image": "https://images.unsplash.com/photo-1581553673739-c4906b5d0de8?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -8797,7 +8797,7 @@ export const PRODUCTS = [
     "rating": 4.2,
     "reviewCount": 198,
     "brand": "Samsonite",
-    "image": "https://images.unsplash.com/photo-1565026057447-bc90a3dceb87?w=600&auto=format&fit=crop&q=80&sig=travel-samsonite-freeform-hardside-spinner-208",
+    "image": "https://images.unsplash.com/photo-1565026057447-bc90a3dceb87?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -8839,7 +8839,7 @@ export const PRODUCTS = [
     "rating": 4,
     "reviewCount": 20,
     "brand": "Rimowa",
-    "image": "https://images.unsplash.com/photo-1581553673739-c4906b5d0de8?w=600&auto=format&fit=crop&q=80&sig=travel-rimowa-original-cabin-209",
+    "image": "https://images.unsplash.com/photo-1581553673739-c4906b5d0de8?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -8881,7 +8881,7 @@ export const PRODUCTS = [
     "rating": 4.1,
     "reviewCount": 109,
     "brand": "Rimowa",
-    "image": "https://images.unsplash.com/photo-1565026057447-bc90a3dceb87?w=600&auto=format&fit=crop&q=80&sig=travel-rimowa-essential-trunk-plus-210",
+    "image": "https://images.unsplash.com/photo-1565026057447-bc90a3dceb87?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -8923,7 +8923,7 @@ export const PRODUCTS = [
     "rating": 4.2,
     "reviewCount": 198,
     "brand": "Rimowa",
-    "image": "https://images.unsplash.com/photo-1581553673739-c4906b5d0de8?w=600&auto=format&fit=crop&q=80&sig=travel-rimowa-classic-check-in-l-211",
+    "image": "https://images.unsplash.com/photo-1581553673739-c4906b5d0de8?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -8965,7 +8965,7 @@ export const PRODUCTS = [
     "rating": 4,
     "reviewCount": 20,
     "brand": "Away",
-    "image": "https://images.unsplash.com/photo-1565026057447-bc90a3dceb87?w=600&auto=format&fit=crop&q=80&sig=travel-away-the-bigger-carry-on-212",
+    "image": "https://images.unsplash.com/photo-1565026057447-bc90a3dceb87?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -9007,7 +9007,7 @@ export const PRODUCTS = [
     "rating": 4.1,
     "reviewCount": 109,
     "brand": "Away",
-    "image": "https://images.unsplash.com/photo-1581553673739-c4906b5d0de8?w=600&auto=format&fit=crop&q=80&sig=travel-away-the-medium-213",
+    "image": "https://images.unsplash.com/photo-1581553673739-c4906b5d0de8?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -9049,7 +9049,7 @@ export const PRODUCTS = [
     "rating": 4.2,
     "reviewCount": 198,
     "brand": "Away",
-    "image": "https://images.unsplash.com/photo-1565026057447-bc90a3dceb87?w=600&auto=format&fit=crop&q=80&sig=travel-away-the-everywhere-bag-214",
+    "image": "https://images.unsplash.com/photo-1565026057447-bc90a3dceb87?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -9091,7 +9091,7 @@ export const PRODUCTS = [
     "rating": 4,
     "reviewCount": 20,
     "brand": "Peak Design",
-    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=600&auto=format&fit=crop&q=80&sig=travel-peak-design-travel-backpack-45l-215",
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -9133,7 +9133,7 @@ export const PRODUCTS = [
     "rating": 4.1,
     "reviewCount": 109,
     "brand": "Peak Design",
-    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=600&auto=format&fit=crop&q=80&sig=travel-peak-design-everyday-backpack-v2-216",
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
@@ -9175,7 +9175,7 @@ export const PRODUCTS = [
     "rating": 4.2,
     "reviewCount": 198,
     "brand": "Peak Design",
-    "image": "https://images.unsplash.com/photo-1581553673739-c4906b5d0de8?w=600&auto=format&fit=crop&q=80&sig=travel-peak-design-wash-pouch-217",
+    "image": "https://images.unsplash.com/photo-1581553673739-c4906b5d0de8?w=600&auto=format&fit=crop&q=80",
     "keyFeatures": [
       "Premium Quality",
       "Latest Technology",
