@@ -111,17 +111,22 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Display": "6.1\" OLED, 120Hz",
+      "Processor": "A17 Pro",
+      "Camera": "48MP Main + 12MP UW + 12MP Tele",
+      "Battery": "5000mAh, 45W fast charge",
+      "Storage": "128GB / 256GB / 512GB",
       "Brand": "Apple",
       "Model": "iPhone 15 Pro Max",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "All-day battery life",
+      "Smooth 120Hz refresh rate"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Heavy weight",
+      "Software takes time to learn"
     ],
     "description": "The Apple iPhone 15 Pro Max is one of the most sought-after products in the phones category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "Low Stock",
@@ -153,17 +158,22 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Display": "6.7\" AMOLED, 120Hz",
+      "Processor": "Tensor G3",
+      "Camera": "48MP Main + 12MP UW + 12MP Tele",
+      "Battery": "4600mAh",
+      "Storage": "512GB / 1TB",
       "Brand": "Apple",
       "Model": "iPhone 15",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Stunningly bright display",
+      "Premium titanium build"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Heavy weight",
+      "Fingerprint magnet"
     ],
     "description": "The Apple iPhone 15 is one of the most sought-after products in the phones category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -195,17 +205,22 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Display": "6.7\" AMOLED, 120Hz",
+      "Processor": "Tensor G3",
+      "Camera": "48MP Main + 12MP UW + 12MP Tele",
+      "Battery": "4000mAh, 25W fast charge",
+      "Storage": "128GB / 256GB / 512GB",
       "Brand": "Apple",
       "Model": "iPhone 14 Pro",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Incredible camera performance",
+      "Smooth 120Hz refresh rate"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "No charger included in box",
+      "Slightly bulky camera bump"
     ],
     "description": "The Apple iPhone 14 Pro is one of the most sought-after products in the phones category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -237,17 +252,22 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Display": "6.7\" AMOLED, 120Hz",
+      "Processor": "Tensor G3",
+      "Camera": "50MP Main + 48MP Tele",
+      "Battery": "5000mAh, 45W fast charge",
+      "Storage": "128GB / 256GB / 512GB",
       "Brand": "Apple",
       "Model": "iPhone SE",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "All-day battery life",
+      "Smooth 120Hz refresh rate"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Expensive flagship price",
+      "Software takes time to learn"
     ],
     "description": "The Apple iPhone SE is one of the most sought-after products in the phones category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -279,17 +299,22 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Display": "6.1\" OLED, 120Hz",
+      "Processor": "Snapdragon 8 Gen 3",
+      "Camera": "200MP Main + 50MP Tele + 12MP UW",
+      "Battery": "4422mAh, 15W wireless",
+      "Storage": "512GB / 1TB",
       "Brand": "Samsung",
       "Model": "Galaxy S24 Ultra",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Stunningly bright display",
+      "Premium titanium build"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Heavy weight",
+      "Fingerprint magnet"
     ],
     "description": "The Samsung Galaxy S24 Ultra is one of the most sought-after products in the phones category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "Low Stock",
@@ -321,17 +346,22 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Display": "6.8\" Dynamic AMOLED 2X",
+      "Processor": "Dimensity 9300",
+      "Camera": "48MP Main + 12MP UW + 12MP Tele",
+      "Battery": "5000mAh, 45W fast charge",
+      "Storage": "512GB / 1TB",
       "Brand": "Samsung",
       "Model": "Galaxy S24+",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Stunningly bright display",
+      "Premium titanium build"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Expensive flagship price",
+      "Fingerprint magnet"
     ],
     "description": "The Samsung Galaxy S24+ is one of the most sought-after products in the phones category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -363,17 +393,22 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Display": "6.8\" Dynamic AMOLED 2X",
+      "Processor": "Snapdragon 8 Gen 3",
+      "Camera": "50MP Main + 48MP Tele",
+      "Battery": "5000mAh, 45W fast charge",
+      "Storage": "256GB / 512GB / 1TB",
       "Brand": "Samsung",
       "Model": "Galaxy Z Fold 5",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Stunningly bright display",
+      "Excellent AI features"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Heavy weight",
+      "Software takes time to learn"
     ],
     "description": "The Samsung Galaxy Z Fold 5 is one of the most sought-after products in the phones category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -405,17 +440,22 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Display": "6.8\" Dynamic AMOLED 2X",
+      "Processor": "A17 Pro",
+      "Camera": "48MP Main + 12MP UW + 12MP Tele",
+      "Battery": "4422mAh, 15W wireless",
+      "Storage": "128GB / 256GB / 512GB",
       "Brand": "Samsung",
       "Model": "Galaxy Z Flip 5",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Incredible camera performance",
+      "Smooth 120Hz refresh rate"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Heavy weight",
+      "Fingerprint magnet"
     ],
     "description": "The Samsung Galaxy Z Flip 5 is one of the most sought-after products in the phones category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -447,17 +487,22 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Display": "6.1\" OLED, 120Hz",
+      "Processor": "Tensor G3",
+      "Camera": "200MP Main + 50MP Tele + 12MP UW",
+      "Battery": "4422mAh, 15W wireless",
+      "Storage": "512GB / 1TB",
       "Brand": "Samsung",
       "Model": "Galaxy A54",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "All-day battery life",
+      "Smooth 120Hz refresh rate"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Expensive flagship price",
+      "Fingerprint magnet"
     ],
     "description": "The Samsung Galaxy A54 is one of the most sought-after products in the phones category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -489,17 +534,22 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Display": "6.1\" Super Retina XDR",
+      "Processor": "Snapdragon 8 Gen 3",
+      "Camera": "200MP Main + 50MP Tele + 12MP UW",
+      "Battery": "5000mAh, 45W fast charge",
+      "Storage": "512GB / 1TB",
       "Brand": "Google",
       "Model": "Pixel 8 Pro",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "All-day battery life",
+      "Smooth 120Hz refresh rate"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "No charger included in box",
+      "Software takes time to learn"
     ],
     "description": "The Google Pixel 8 Pro is one of the most sought-after products in the phones category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "Low Stock",
@@ -531,17 +581,22 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Display": "6.8\" Dynamic AMOLED 2X",
+      "Processor": "Snapdragon 8 Gen 3",
+      "Camera": "48MP Main + 12MP UW + 12MP Tele",
+      "Battery": "4422mAh, 15W wireless",
+      "Storage": "128GB / 256GB / 512GB",
       "Brand": "Google",
       "Model": "Pixel 8",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Incredible camera performance",
+      "Excellent AI features"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Heavy weight",
+      "Slightly bulky camera bump"
     ],
     "description": "The Google Pixel 8 is one of the most sought-after products in the phones category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -573,17 +628,22 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Display": "6.1\" OLED, 120Hz",
+      "Processor": "Dimensity 9300",
+      "Camera": "200MP Main + 50MP Tele + 12MP UW",
+      "Battery": "5000mAh, 45W fast charge",
+      "Storage": "512GB / 1TB",
       "Brand": "Google",
       "Model": "Pixel 7a",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Stunningly bright display",
+      "Premium titanium build"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Expensive flagship price",
+      "Fingerprint magnet"
     ],
     "description": "The Google Pixel 7a is one of the most sought-after products in the phones category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -615,17 +675,22 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Display": "6.1\" OLED, 120Hz",
+      "Processor": "A17 Pro",
+      "Camera": "200MP Main + 50MP Tele + 12MP UW",
+      "Battery": "4000mAh, 25W fast charge",
+      "Storage": "128GB / 256GB / 512GB",
       "Brand": "Google",
       "Model": "Pixel Fold",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Incredible camera performance",
+      "Smooth 120Hz refresh rate"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Expensive flagship price",
+      "Slightly bulky camera bump"
     ],
     "description": "The Google Pixel Fold is one of the most sought-after products in the phones category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -657,17 +722,22 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Display": "6.1\" OLED, 120Hz",
+      "Processor": "A17 Pro",
+      "Camera": "50MP Main + 48MP Tele",
+      "Battery": "4422mAh, 15W wireless",
+      "Storage": "512GB / 1TB",
       "Brand": "OnePlus",
       "Model": "OnePlus 12",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "All-day battery life",
+      "Smooth 120Hz refresh rate"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Heavy weight",
+      "Slightly bulky camera bump"
     ],
     "description": "The OnePlus OnePlus 12 is one of the most sought-after products in the phones category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "Low Stock",
@@ -699,17 +769,22 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Display": "6.1\" OLED, 120Hz",
+      "Processor": "Tensor G3",
+      "Camera": "50MP Main + 48MP Tele",
+      "Battery": "4600mAh",
+      "Storage": "256GB / 512GB / 1TB",
       "Brand": "OnePlus",
       "Model": "OnePlus 12R",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "All-day battery life",
+      "Premium titanium build"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Expensive flagship price",
+      "Fingerprint magnet"
     ],
     "description": "The OnePlus OnePlus 12R is one of the most sought-after products in the phones category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -741,17 +816,22 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Display": "6.7\" AMOLED, 120Hz",
+      "Processor": "Dimensity 9300",
+      "Camera": "50MP Main + 48MP Tele",
+      "Battery": "4600mAh",
+      "Storage": "512GB / 1TB",
       "Brand": "OnePlus",
       "Model": "OnePlus Open",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "All-day battery life",
+      "Excellent AI features"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Expensive flagship price",
+      "Slightly bulky camera bump"
     ],
     "description": "The OnePlus OnePlus Open is one of the most sought-after products in the phones category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -783,17 +863,22 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Display": "6.7\" AMOLED, 120Hz",
+      "Processor": "Dimensity 9300",
+      "Camera": "48MP Main + 12MP UW + 12MP Tele",
+      "Battery": "4422mAh, 15W wireless",
+      "Storage": "256GB / 512GB / 1TB",
       "Brand": "OnePlus",
       "Model": "OnePlus Nord 3",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "All-day battery life",
+      "Smooth 120Hz refresh rate"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "No charger included in box",
+      "Software takes time to learn"
     ],
     "description": "The OnePlus OnePlus Nord 3 is one of the most sought-after products in the phones category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -825,17 +910,22 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Display": "6.1\" OLED, 120Hz",
+      "Processor": "A17 Pro",
+      "Camera": "50MP Main + 48MP Tele",
+      "Battery": "4000mAh, 25W fast charge",
+      "Storage": "256GB / 512GB / 1TB",
       "Brand": "Nothing",
       "Model": "Nothing Phone (2)",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Stunningly bright display",
+      "Excellent AI features"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Expensive flagship price",
+      "Fingerprint magnet"
     ],
     "description": "The Nothing Nothing Phone (2) is one of the most sought-after products in the phones category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "Low Stock",
@@ -867,17 +957,22 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Display": "6.1\" OLED, 120Hz",
+      "Processor": "Dimensity 9300",
+      "Camera": "200MP Main + 50MP Tele + 12MP UW",
+      "Battery": "4000mAh, 25W fast charge",
+      "Storage": "128GB / 256GB / 512GB",
       "Brand": "Nothing",
       "Model": "Nothing Phone (2a)",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "All-day battery life",
+      "Premium titanium build"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "No charger included in box",
+      "Slightly bulky camera bump"
     ],
     "description": "The Nothing Nothing Phone (2a) is one of the most sought-after products in the phones category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -909,17 +1004,22 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Display": "6.1\" OLED, 120Hz",
+      "Processor": "Snapdragon 8 Gen 3",
+      "Camera": "200MP Main + 50MP Tele + 12MP UW",
+      "Battery": "4000mAh, 25W fast charge",
+      "Storage": "256GB / 512GB / 1TB",
       "Brand": "Xiaomi",
       "Model": "Xiaomi 14 Ultra",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Stunningly bright display",
+      "Premium titanium build"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Expensive flagship price",
+      "Software takes time to learn"
     ],
     "description": "The Xiaomi Xiaomi 14 Ultra is one of the most sought-after products in the phones category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "Low Stock",
@@ -951,17 +1051,22 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Display": "6.1\" OLED, 120Hz",
+      "Processor": "Tensor G3",
+      "Camera": "200MP Main + 50MP Tele + 12MP UW",
+      "Battery": "5000mAh, 45W fast charge",
+      "Storage": "256GB / 512GB / 1TB",
       "Brand": "Xiaomi",
       "Model": "Xiaomi 14 Pro",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Incredible camera performance",
+      "Smooth 120Hz refresh rate"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "No charger included in box",
+      "Slightly bulky camera bump"
     ],
     "description": "The Xiaomi Xiaomi 14 Pro is one of the most sought-after products in the phones category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -993,17 +1098,22 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Display": "6.7\" AMOLED, 120Hz",
+      "Processor": "A17 Pro",
+      "Camera": "50MP Main + 48MP Tele",
+      "Battery": "4600mAh",
+      "Storage": "256GB / 512GB / 1TB",
       "Brand": "Xiaomi",
       "Model": "Redmi Note 13 Pro+",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Incredible camera performance",
+      "Premium titanium build"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Heavy weight",
+      "Slightly bulky camera bump"
     ],
     "description": "The Xiaomi Redmi Note 13 Pro+ is one of the most sought-after products in the phones category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -1035,17 +1145,22 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Display": "6.1\" OLED, 120Hz",
+      "Processor": "Tensor G3",
+      "Camera": "200MP Main + 50MP Tele + 12MP UW",
+      "Battery": "4000mAh, 25W fast charge",
+      "Storage": "512GB / 1TB",
       "Brand": "Vivo",
       "Model": "Vivo X100 Pro",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "All-day battery life",
+      "Premium titanium build"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "No charger included in box",
+      "Fingerprint magnet"
     ],
     "description": "The Vivo Vivo X100 Pro is one of the most sought-after products in the phones category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "Low Stock",
@@ -1077,17 +1192,22 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Display": "6.1\" Super Retina XDR",
+      "Processor": "A17 Pro",
+      "Camera": "50MP Main + 48MP Tele",
+      "Battery": "4000mAh, 25W fast charge",
+      "Storage": "512GB / 1TB",
       "Brand": "Vivo",
       "Model": "Vivo V30 Pro",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Incredible camera performance",
+      "Smooth 120Hz refresh rate"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "No charger included in box",
+      "Slightly bulky camera bump"
     ],
     "description": "The Vivo Vivo V30 Pro is one of the most sought-after products in the phones category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -1119,17 +1239,22 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Display": "6.8\" Dynamic AMOLED 2X",
+      "Processor": "Tensor G3",
+      "Camera": "200MP Main + 50MP Tele + 12MP UW",
+      "Battery": "4422mAh, 15W wireless",
+      "Storage": "512GB / 1TB",
       "Brand": "OPPO",
       "Model": "OPPO Find X7 Ultra",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Incredible camera performance",
+      "Smooth 120Hz refresh rate"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Expensive flagship price",
+      "Fingerprint magnet"
     ],
     "description": "The OPPO OPPO Find X7 Ultra is one of the most sought-after products in the phones category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "Low Stock",
@@ -1161,17 +1286,22 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Display": "6.1\" OLED, 120Hz",
+      "Processor": "Tensor G3",
+      "Camera": "200MP Main + 50MP Tele + 12MP UW",
+      "Battery": "4422mAh, 15W wireless",
+      "Storage": "256GB / 512GB / 1TB",
       "Brand": "OPPO",
       "Model": "OPPO Reno 11 Pro",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Stunningly bright display",
+      "Excellent AI features"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Expensive flagship price",
+      "Software takes time to learn"
     ],
     "description": "The OPPO OPPO Reno 11 Pro is one of the most sought-after products in the phones category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -1203,17 +1333,22 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Display": "6.1\" OLED, 120Hz",
+      "Processor": "A17 Pro",
+      "Camera": "48MP Main + 12MP UW + 12MP Tele",
+      "Battery": "4000mAh, 25W fast charge",
+      "Storage": "512GB / 1TB",
       "Brand": "Motorola",
       "Model": "Motorola Edge 50 Pro",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "All-day battery life",
+      "Premium titanium build"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "No charger included in box",
+      "Fingerprint magnet"
     ],
     "description": "The Motorola Motorola Edge 50 Pro is one of the most sought-after products in the phones category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "Low Stock",
@@ -1245,17 +1380,22 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Display": "6.1\" Super Retina XDR",
+      "Processor": "Dimensity 9300",
+      "Camera": "50MP Main + 48MP Tele",
+      "Battery": "4600mAh",
+      "Storage": "128GB / 256GB / 512GB",
       "Brand": "Motorola",
       "Model": "Motorola Razr 40 Ultra",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "All-day battery life",
+      "Smooth 120Hz refresh rate"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Heavy weight",
+      "Fingerprint magnet"
     ],
     "description": "The Motorola Motorola Razr 40 Ultra is one of the most sought-after products in the phones category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -1287,17 +1427,22 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Display": "6.7\" AMOLED, 120Hz",
+      "Processor": "Tensor G3",
+      "Camera": "48MP Main + 12MP UW + 12MP Tele",
+      "Battery": "4600mAh",
+      "Storage": "128GB / 256GB / 512GB",
       "Brand": "Motorola",
       "Model": "Moto G Power",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Stunningly bright display",
+      "Excellent AI features"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Expensive flagship price",
+      "Slightly bulky camera bump"
     ],
     "description": "The Motorola Moto G Power is one of the most sought-after products in the phones category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -1329,17 +1474,22 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Display": "13.4\" OLED Touch",
+      "Processor": "Intel Core Ultra 7",
+      "RAM": "16GB Unified",
+      "Storage": "1TB PCIe 4.0 SSD",
+      "Battery": "65Wh",
       "Brand": "Apple",
       "Model": "MacBook Pro 16\" M3 Max",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Gorgeous display",
+      "Excellent keyboard and trackpad"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Expensive configuration upgrades",
+      "Gets warm under heavy load"
     ],
     "description": "The Apple MacBook Pro 16\" M3 Max is one of the most sought-after products in the laptops category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "Low Stock",
@@ -1371,17 +1521,22 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Display": "14\" Liquid Retina XDR",
+      "Processor": "AMD Ryzen 9 8945HS",
+      "RAM": "64GB Unified",
+      "Storage": "512GB NVMe SSD",
+      "Battery": "65Wh",
       "Brand": "Apple",
       "Model": "MacBook Pro 14\" M3",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Gorgeous display",
+      "Excellent keyboard and trackpad"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Cannot upgrade RAM or storage",
+      "No touchscreen option"
     ],
     "description": "The Apple MacBook Pro 14\" M3 is one of the most sought-after products in the laptops category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -1413,17 +1568,22 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Display": "13.4\" OLED Touch",
+      "Processor": "M3 Max, 14-core",
+      "RAM": "32GB LPDDR5x",
+      "Storage": "1TB PCIe 4.0 SSD",
+      "Battery": "65Wh",
       "Brand": "Apple",
       "Model": "MacBook Air 15\" M3",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Gorgeous display",
+      "Great thermals"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Limited port selection",
+      "Gets warm under heavy load"
     ],
     "description": "The Apple MacBook Air 15\" M3 is one of the most sought-after products in the laptops category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -1455,17 +1615,22 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Display": "16\" Mini-LED, 120Hz",
+      "Processor": "M3 Pro, 12-core",
+      "RAM": "16GB Unified",
+      "Storage": "2TB NVMe SSD",
+      "Battery": "70Wh, up to 18 hrs",
       "Brand": "Apple",
       "Model": "MacBook Air 13\" M2",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Class-leading battery life",
+      "Great thermals"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Limited port selection",
+      "Webcam is only 720p"
     ],
     "description": "The Apple MacBook Air 13\" M2 is one of the most sought-after products in the laptops category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -1497,17 +1662,22 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Display": "15.6\" 4K IPS",
+      "Processor": "M3 Pro, 12-core",
+      "RAM": "16GB Unified",
+      "Storage": "1TB PCIe 4.0 SSD",
+      "Battery": "65Wh",
       "Brand": "Dell",
       "Model": "XPS 15",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Gorgeous display",
+      "Sleek and lightweight design"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Limited port selection",
+      "Webcam is only 720p"
     ],
     "description": "The Dell XPS 15 is one of the most sought-after products in the laptops category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "Low Stock",
@@ -1539,17 +1709,22 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Display": "16\" Mini-LED, 120Hz",
+      "Processor": "AMD Ryzen 9 8945HS",
+      "RAM": "32GB LPDDR5x",
+      "Storage": "512GB NVMe SSD",
+      "Battery": "65Wh",
       "Brand": "Dell",
       "Model": "XPS 13 Plus",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Gorgeous display",
+      "Sleek and lightweight design"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Expensive configuration upgrades",
+      "No touchscreen option"
     ],
     "description": "The Dell XPS 13 Plus is one of the most sought-after products in the laptops category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -1581,17 +1756,22 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Display": "14\" Liquid Retina XDR",
+      "Processor": "Intel Core Ultra 7",
+      "RAM": "32GB LPDDR5x",
+      "Storage": "1TB PCIe 4.0 SSD",
+      "Battery": "70Wh, up to 18 hrs",
       "Brand": "Dell",
       "Model": "Alienware m18",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Class-leading battery life",
+      "Sleek and lightweight design"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Cannot upgrade RAM or storage",
+      "Gets warm under heavy load"
     ],
     "description": "The Dell Alienware m18 is one of the most sought-after products in the laptops category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -1623,17 +1803,22 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Display": "15.6\" 4K IPS",
+      "Processor": "AMD Ryzen 9 8945HS",
+      "RAM": "64GB Unified",
+      "Storage": "512GB NVMe SSD",
+      "Battery": "99.9Wh, up to 22 hrs",
       "Brand": "Dell",
       "Model": "Inspiron 16 Plus",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Phenomenal performance",
+      "Excellent keyboard and trackpad"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Limited port selection",
+      "No touchscreen option"
     ],
     "description": "The Dell Inspiron 16 Plus is one of the most sought-after products in the laptops category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -1665,17 +1850,22 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Display": "15.6\" 4K IPS",
+      "Processor": "AMD Ryzen 9 8945HS",
+      "RAM": "16GB DDR5",
+      "Storage": "1TB PCIe 4.0 SSD",
+      "Battery": "99.9Wh, up to 22 hrs",
       "Brand": "HP",
       "Model": "Spectre x360 14",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Class-leading battery life",
+      "Excellent keyboard and trackpad"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Limited port selection",
+      "Webcam is only 720p"
     ],
     "description": "The HP Spectre x360 14 is one of the most sought-after products in the laptops category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "Low Stock",
@@ -1707,17 +1897,22 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Display": "13.4\" OLED Touch",
+      "Processor": "Intel Core Ultra 7",
+      "RAM": "16GB DDR5",
+      "Storage": "2TB NVMe SSD",
+      "Battery": "70Wh, up to 18 hrs",
       "Brand": "HP",
       "Model": "Envy x360",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Class-leading battery life",
+      "Great thermals"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Expensive configuration upgrades",
+      "Webcam is only 720p"
     ],
     "description": "The HP Envy x360 is one of the most sought-after products in the laptops category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -1749,17 +1944,22 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Display": "13.4\" OLED Touch",
+      "Processor": "M3 Max, 14-core",
+      "RAM": "16GB DDR5",
+      "Storage": "1TB PCIe 4.0 SSD",
+      "Battery": "70Wh, up to 18 hrs",
       "Brand": "HP",
       "Model": "Omen Transcend 16",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Phenomenal performance",
+      "Excellent keyboard and trackpad"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Expensive configuration upgrades",
+      "Gets warm under heavy load"
     ],
     "description": "The HP Omen Transcend 16 is one of the most sought-after products in the laptops category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -1791,17 +1991,22 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Display": "15.6\" 4K IPS",
+      "Processor": "AMD Ryzen 9 8945HS",
+      "RAM": "32GB LPDDR5x",
+      "Storage": "512GB NVMe SSD",
+      "Battery": "70Wh, up to 18 hrs",
       "Brand": "HP",
       "Model": "Pavilion Plus 14",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Gorgeous display",
+      "Great thermals"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Cannot upgrade RAM or storage",
+      "Webcam is only 720p"
     ],
     "description": "The HP Pavilion Plus 14 is one of the most sought-after products in the laptops category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -1833,17 +2038,22 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Display": "15.6\" 4K IPS",
+      "Processor": "AMD Ryzen 9 8945HS",
+      "RAM": "16GB DDR5",
+      "Storage": "512GB NVMe SSD",
+      "Battery": "99.9Wh, up to 22 hrs",
       "Brand": "Lenovo",
       "Model": "Yoga 9i",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Gorgeous display",
+      "Sleek and lightweight design"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Cannot upgrade RAM or storage",
+      "Webcam is only 720p"
     ],
     "description": "The Lenovo Yoga 9i is one of the most sought-after products in the laptops category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "Low Stock",
@@ -1875,17 +2085,22 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Display": "14\" Liquid Retina XDR",
+      "Processor": "M3 Max, 14-core",
+      "RAM": "64GB Unified",
+      "Storage": "2TB NVMe SSD",
+      "Battery": "70Wh, up to 18 hrs",
       "Brand": "Lenovo",
       "Model": "ThinkPad X1 Carbon Gen 11",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Gorgeous display",
+      "Great thermals"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Limited port selection",
+      "No touchscreen option"
     ],
     "description": "The Lenovo ThinkPad X1 Carbon Gen 11 is one of the most sought-after products in the laptops category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -1917,17 +2132,22 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Display": "16\" Mini-LED, 120Hz",
+      "Processor": "Intel Core Ultra 7",
+      "RAM": "16GB DDR5",
+      "Storage": "512GB NVMe SSD",
+      "Battery": "70Wh, up to 18 hrs",
       "Brand": "Lenovo",
       "Model": "Legion Pro 7i",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Phenomenal performance",
+      "Excellent keyboard and trackpad"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Cannot upgrade RAM or storage",
+      "Gets warm under heavy load"
     ],
     "description": "The Lenovo Legion Pro 7i is one of the most sought-after products in the laptops category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -1959,17 +2179,22 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Display": "15.6\" 4K IPS",
+      "Processor": "M3 Pro, 12-core",
+      "RAM": "64GB Unified",
+      "Storage": "1TB PCIe 4.0 SSD",
+      "Battery": "99.9Wh, up to 22 hrs",
       "Brand": "Lenovo",
       "Model": "IdeaPad Slim 5",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Phenomenal performance",
+      "Sleek and lightweight design"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Limited port selection",
+      "Webcam is only 720p"
     ],
     "description": "The Lenovo IdeaPad Slim 5 is one of the most sought-after products in the laptops category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -2001,17 +2226,22 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Display": "13.4\" OLED Touch",
+      "Processor": "M3 Max, 14-core",
+      "RAM": "32GB LPDDR5x",
+      "Storage": "1TB PCIe 4.0 SSD",
+      "Battery": "99.9Wh, up to 22 hrs",
       "Brand": "ASUS",
       "Model": "Zenbook 14 OLED",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Class-leading battery life",
+      "Excellent keyboard and trackpad"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Expensive configuration upgrades",
+      "Webcam is only 720p"
     ],
     "description": "The ASUS Zenbook 14 OLED is one of the most sought-after products in the laptops category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "Low Stock",
@@ -2043,17 +2273,22 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Display": "16\" Mini-LED, 120Hz",
+      "Processor": "AMD Ryzen 9 8945HS",
+      "RAM": "32GB LPDDR5x",
+      "Storage": "512GB NVMe SSD",
+      "Battery": "65Wh",
       "Brand": "ASUS",
       "Model": "ROG Zephyrus G14",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Phenomenal performance",
+      "Sleek and lightweight design"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Cannot upgrade RAM or storage",
+      "Gets warm under heavy load"
     ],
     "description": "The ASUS ROG Zephyrus G14 is one of the most sought-after products in the laptops category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -2085,17 +2320,22 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Display": "15.6\" 4K IPS",
+      "Processor": "Intel Core Ultra 7",
+      "RAM": "16GB Unified",
+      "Storage": "512GB NVMe SSD",
+      "Battery": "65Wh",
       "Brand": "ASUS",
       "Model": "Vivobook Pro 15",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Class-leading battery life",
+      "Sleek and lightweight design"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Cannot upgrade RAM or storage",
+      "Webcam is only 720p"
     ],
     "description": "The ASUS Vivobook Pro 15 is one of the most sought-after products in the laptops category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -2127,17 +2367,22 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Display": "15.6\" 4K IPS",
+      "Processor": "M3 Max, 14-core",
+      "RAM": "32GB LPDDR5x",
+      "Storage": "1TB PCIe 4.0 SSD",
+      "Battery": "65Wh",
       "Brand": "ASUS",
       "Model": "TUF Gaming A15",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Phenomenal performance",
+      "Sleek and lightweight design"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Limited port selection",
+      "Webcam is only 720p"
     ],
     "description": "The ASUS TUF Gaming A15 is one of the most sought-after products in the laptops category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -2169,17 +2414,22 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Display": "16\" Mini-LED, 120Hz",
+      "Processor": "Intel Core Ultra 7",
+      "RAM": "16GB DDR5",
+      "Storage": "1TB PCIe 4.0 SSD",
+      "Battery": "65Wh",
       "Brand": "Acer",
       "Model": "Swift Go 14",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Class-leading battery life",
+      "Sleek and lightweight design"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Limited port selection",
+      "No touchscreen option"
     ],
     "description": "The Acer Swift Go 14 is one of the most sought-after products in the laptops category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "Low Stock",
@@ -2211,17 +2461,22 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Display": "14\" Liquid Retina XDR",
+      "Processor": "AMD Ryzen 9 8945HS",
+      "RAM": "32GB LPDDR5x",
+      "Storage": "2TB NVMe SSD",
+      "Battery": "99.9Wh, up to 22 hrs",
       "Brand": "Acer",
       "Model": "Predator Helios 16",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Phenomenal performance",
+      "Great thermals"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Expensive configuration upgrades",
+      "Gets warm under heavy load"
     ],
     "description": "The Acer Predator Helios 16 is one of the most sought-after products in the laptops category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -2253,17 +2508,22 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Display": "14\" Liquid Retina XDR",
+      "Processor": "M3 Max, 14-core",
+      "RAM": "16GB Unified",
+      "Storage": "1TB PCIe 4.0 SSD",
+      "Battery": "70Wh, up to 18 hrs",
       "Brand": "Acer",
       "Model": "Nitro 5",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Phenomenal performance",
+      "Sleek and lightweight design"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Limited port selection",
+      "Gets warm under heavy load"
     ],
     "description": "The Acer Nitro 5 is one of the most sought-after products in the laptops category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -2295,17 +2555,22 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Display": "16\" Mini-LED, 120Hz",
+      "Processor": "M3 Pro, 12-core",
+      "RAM": "32GB LPDDR5x",
+      "Storage": "512GB NVMe SSD",
+      "Battery": "70Wh, up to 18 hrs",
       "Brand": "Acer",
       "Model": "Aspire 5",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Class-leading battery life",
+      "Sleek and lightweight design"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Expensive configuration upgrades",
+      "Webcam is only 720p"
     ],
     "description": "The Acer Aspire 5 is one of the most sought-after products in the laptops category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -2337,17 +2602,22 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Display": "15.6\" 4K IPS",
+      "Processor": "M3 Max, 14-core",
+      "RAM": "16GB DDR5",
+      "Storage": "2TB NVMe SSD",
+      "Battery": "99.9Wh, up to 22 hrs",
       "Brand": "MSI",
       "Model": "Stealth 16 Studio",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Phenomenal performance",
+      "Great thermals"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Cannot upgrade RAM or storage",
+      "No touchscreen option"
     ],
     "description": "The MSI Stealth 16 Studio is one of the most sought-after products in the laptops category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "Low Stock",
@@ -2379,17 +2649,22 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Display": "14\" Liquid Retina XDR",
+      "Processor": "Intel Core Ultra 7",
+      "RAM": "32GB LPDDR5x",
+      "Storage": "512GB NVMe SSD",
+      "Battery": "65Wh",
       "Brand": "MSI",
       "Model": "Raider GE78",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Class-leading battery life",
+      "Great thermals"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Limited port selection",
+      "Gets warm under heavy load"
     ],
     "description": "The MSI Raider GE78 is one of the most sought-after products in the laptops category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -2421,17 +2696,22 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Display": "15.6\" 4K IPS",
+      "Processor": "Intel Core Ultra 7",
+      "RAM": "32GB LPDDR5x",
+      "Storage": "1TB PCIe 4.0 SSD",
+      "Battery": "70Wh, up to 18 hrs",
       "Brand": "MSI",
       "Model": "Prestige 14 Evo",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Gorgeous display",
+      "Excellent keyboard and trackpad"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Expensive configuration upgrades",
+      "No touchscreen option"
     ],
     "description": "The MSI Prestige 14 Evo is one of the most sought-after products in the laptops category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -2463,17 +2743,22 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Display": "16\" Mini-LED, 120Hz",
+      "Processor": "M3 Max, 14-core",
+      "RAM": "16GB DDR5",
+      "Storage": "512GB NVMe SSD",
+      "Battery": "70Wh, up to 18 hrs",
       "Brand": "MSI",
       "Model": "Cyborg 15",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Class-leading battery life",
+      "Sleek and lightweight design"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Expensive configuration upgrades",
+      "Webcam is only 720p"
     ],
     "description": "The MSI Cyborg 15 is one of the most sought-after products in the laptops category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -2505,17 +2790,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Standard Grade",
+      "Warranty": "1 Year Limited",
       "Brand": "Apple",
       "Model": "iPad Pro 12.9\" M2",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Highly durable",
+      "Excellent customer support"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Higher price point",
+      "May not fit all setups"
     ],
     "description": "The Apple iPad Pro 12.9\" M2 is one of the most sought-after products in the tablets category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "Low Stock",
@@ -2547,17 +2834,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Premium Grade",
+      "Warranty": "1 Year Limited",
       "Brand": "Apple",
       "Model": "iPad Air 5th Gen",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Great aesthetics",
+      "Excellent customer support"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Requires maintenance",
+      "Limited color options"
     ],
     "description": "The Apple iPad Air 5th Gen is one of the most sought-after products in the tablets category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -2589,17 +2878,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Standard Grade",
+      "Warranty": "2 Year Extended",
       "Brand": "Apple",
       "Model": "iPad mini 6",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Highly durable",
+      "Excellent customer support"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Higher price point",
+      "Bulky design"
     ],
     "description": "The Apple iPad mini 6 is one of the most sought-after products in the tablets category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -2631,17 +2922,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Premium Grade",
+      "Warranty": "1 Year Limited",
       "Brand": "Apple",
       "Model": "iPad 10th Gen",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Great aesthetics",
+      "Good value for money"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Requires maintenance",
+      "May not fit all setups"
     ],
     "description": "The Apple iPad 10th Gen is one of the most sought-after products in the tablets category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -2673,17 +2966,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Standard Grade",
+      "Warranty": "Lifetime Support",
       "Brand": "Samsung",
       "Model": "Galaxy Tab S9 Ultra",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Fast operation",
+      "Reliable performance"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Steep learning curve",
+      "Bulky design"
     ],
     "description": "The Samsung Galaxy Tab S9 Ultra is one of the most sought-after products in the tablets category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "Low Stock",
@@ -2715,17 +3010,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Standard Grade",
+      "Warranty": "2 Year Extended",
       "Brand": "Samsung",
       "Model": "Galaxy Tab S9+",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Fast operation",
+      "Good value for money"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Higher price point",
+      "Limited color options"
     ],
     "description": "The Samsung Galaxy Tab S9+ is one of the most sought-after products in the tablets category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -2757,17 +3054,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Standard Grade",
+      "Warranty": "Lifetime Support",
       "Brand": "Samsung",
       "Model": "Galaxy Tab S9 FE",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Highly durable",
+      "Reliable performance"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Higher price point",
+      "May not fit all setups"
     ],
     "description": "The Samsung Galaxy Tab S9 FE is one of the most sought-after products in the tablets category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -2799,17 +3098,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Premium Grade",
+      "Warranty": "Lifetime Support",
       "Brand": "Samsung",
       "Model": "Galaxy Tab A9+",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Easy to use",
+      "Excellent customer support"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Steep learning curve",
+      "May not fit all setups"
     ],
     "description": "The Samsung Galaxy Tab A9+ is one of the most sought-after products in the tablets category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -2841,17 +3142,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Premium Grade",
+      "Warranty": "Lifetime Support",
       "Brand": "OnePlus",
       "Model": "OnePlus Pad",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Great aesthetics",
+      "Reliable performance"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Higher price point",
+      "May not fit all setups"
     ],
     "description": "The OnePlus OnePlus Pad is one of the most sought-after products in the tablets category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "Low Stock",
@@ -2883,17 +3186,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Premium Grade",
+      "Warranty": "1 Year Limited",
       "Brand": "OnePlus",
       "Model": "OnePlus Pad Go",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Great aesthetics",
+      "Reliable performance"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Requires maintenance",
+      "Bulky design"
     ],
     "description": "The OnePlus OnePlus Pad Go is one of the most sought-after products in the tablets category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -2925,17 +3230,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Professional Grade",
+      "Warranty": "1 Year Limited",
       "Brand": "Xiaomi",
       "Model": "Xiaomi Pad 6",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Great aesthetics",
+      "Reliable performance"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Higher price point",
+      "Limited color options"
     ],
     "description": "The Xiaomi Xiaomi Pad 6 is one of the most sought-after products in the tablets category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "Low Stock",
@@ -2967,17 +3274,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Professional Grade",
+      "Warranty": "1 Year Limited",
       "Brand": "Xiaomi",
       "Model": "Xiaomi Pad 6 Pro",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Highly durable",
+      "Reliable performance"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Requires maintenance",
+      "Limited color options"
     ],
     "description": "The Xiaomi Xiaomi Pad 6 Pro is one of the most sought-after products in the tablets category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -3009,17 +3318,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Professional Grade",
+      "Warranty": "2 Year Extended",
       "Brand": "Sony",
       "Model": "WH-1000XM5",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Great aesthetics",
+      "Excellent customer support"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Steep learning curve",
+      "Bulky design"
     ],
     "description": "The Sony WH-1000XM5 is one of the most sought-after products in the headphones category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "Low Stock",
@@ -3051,17 +3362,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Standard Grade",
+      "Warranty": "1 Year Limited",
       "Brand": "Sony",
       "Model": "WF-1000XM5",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Highly durable",
+      "Reliable performance"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Requires maintenance",
+      "Limited color options"
     ],
     "description": "The Sony WF-1000XM5 is one of the most sought-after products in the headphones category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -3093,17 +3406,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Professional Grade",
+      "Warranty": "2 Year Extended",
       "Brand": "Sony",
       "Model": "LinkBuds S",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Fast operation",
+      "Good value for money"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Higher price point",
+      "Limited color options"
     ],
     "description": "The Sony LinkBuds S is one of the most sought-after products in the headphones category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -3135,17 +3450,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Premium Grade",
+      "Warranty": "1 Year Limited",
       "Brand": "Sony",
       "Model": "Inzone H9",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Fast operation",
+      "Reliable performance"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Higher price point",
+      "Bulky design"
     ],
     "description": "The Sony Inzone H9 is one of the most sought-after products in the headphones category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -3177,17 +3494,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Standard Grade",
+      "Warranty": "Lifetime Support",
       "Brand": "Bose",
       "Model": "QuietComfort Ultra Headphones",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Great aesthetics",
+      "Reliable performance"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Steep learning curve",
+      "May not fit all setups"
     ],
     "description": "The Bose QuietComfort Ultra Headphones is one of the most sought-after products in the headphones category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "Low Stock",
@@ -3219,17 +3538,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Professional Grade",
+      "Warranty": "2 Year Extended",
       "Brand": "Bose",
       "Model": "QuietComfort Ultra Earbuds",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Highly durable",
+      "Good value for money"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Requires maintenance",
+      "Bulky design"
     ],
     "description": "The Bose QuietComfort Ultra Earbuds is one of the most sought-after products in the headphones category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -3261,17 +3582,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Standard Grade",
+      "Warranty": "Lifetime Support",
       "Brand": "Bose",
       "Model": "QuietComfort 45",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Highly durable",
+      "Excellent customer support"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Steep learning curve",
+      "May not fit all setups"
     ],
     "description": "The Bose QuietComfort 45 is one of the most sought-after products in the headphones category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -3303,17 +3626,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Standard Grade",
+      "Warranty": "2 Year Extended",
       "Brand": "Apple",
       "Model": "AirPods Pro (2nd Gen)",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Easy to use",
+      "Excellent customer support"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Requires maintenance",
+      "May not fit all setups"
     ],
     "description": "The Apple AirPods Pro (2nd Gen) is one of the most sought-after products in the headphones category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "Low Stock",
@@ -3345,17 +3670,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Premium Grade",
+      "Warranty": "2 Year Extended",
       "Brand": "Apple",
       "Model": "AirPods Max",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Easy to use",
+      "Good value for money"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Higher price point",
+      "May not fit all setups"
     ],
     "description": "The Apple AirPods Max is one of the most sought-after products in the headphones category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -3387,17 +3714,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Professional Grade",
+      "Warranty": "2 Year Extended",
       "Brand": "Apple",
       "Model": "AirPods (3rd Gen)",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Fast operation",
+      "Reliable performance"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Higher price point",
+      "Bulky design"
     ],
     "description": "The Apple AirPods (3rd Gen) is one of the most sought-after products in the headphones category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -3429,17 +3758,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Premium Grade",
+      "Warranty": "Lifetime Support",
       "Brand": "JBL",
       "Model": "Tour One M2",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Fast operation",
+      "Good value for money"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Steep learning curve",
+      "Limited color options"
     ],
     "description": "The JBL Tour One M2 is one of the most sought-after products in the headphones category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "Low Stock",
@@ -3471,17 +3802,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Professional Grade",
+      "Warranty": "Lifetime Support",
       "Brand": "JBL",
       "Model": "Live Pro 2",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Great aesthetics",
+      "Excellent customer support"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Requires maintenance",
+      "Bulky design"
     ],
     "description": "The JBL Live Pro 2 is one of the most sought-after products in the headphones category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -3513,17 +3846,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Standard Grade",
+      "Warranty": "2 Year Extended",
       "Brand": "JBL",
       "Model": "Quantum 910",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Fast operation",
+      "Reliable performance"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Requires maintenance",
+      "Bulky design"
     ],
     "description": "The JBL Quantum 910 is one of the most sought-after products in the headphones category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -3555,17 +3890,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Standard Grade",
+      "Warranty": "Lifetime Support",
       "Brand": "JBL",
       "Model": "Tune 770NC",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Highly durable",
+      "Reliable performance"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Requires maintenance",
+      "Bulky design"
     ],
     "description": "The JBL Tune 770NC is one of the most sought-after products in the headphones category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -3597,17 +3934,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Professional Grade",
+      "Warranty": "Lifetime Support",
       "Brand": "Sennheiser",
       "Model": "Momentum 4 Wireless",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Easy to use",
+      "Reliable performance"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Higher price point",
+      "Limited color options"
     ],
     "description": "The Sennheiser Momentum 4 Wireless is one of the most sought-after products in the headphones category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "Low Stock",
@@ -3639,17 +3978,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Professional Grade",
+      "Warranty": "1 Year Limited",
       "Brand": "Sennheiser",
       "Model": "Momentum True Wireless 3",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Easy to use",
+      "Good value for money"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Higher price point",
+      "Bulky design"
     ],
     "description": "The Sennheiser Momentum True Wireless 3 is one of the most sought-after products in the headphones category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -3681,17 +4022,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Professional Grade",
+      "Warranty": "Lifetime Support",
       "Brand": "Sennheiser",
       "Model": "HD 660S2",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Highly durable",
+      "Excellent customer support"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Higher price point",
+      "May not fit all setups"
     ],
     "description": "The Sennheiser HD 660S2 is one of the most sought-after products in the headphones category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -3723,17 +4066,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Professional Grade",
+      "Warranty": "Lifetime Support",
       "Brand": "Nothing",
       "Model": "Ear (2)",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Highly durable",
+      "Good value for money"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Higher price point",
+      "Bulky design"
     ],
     "description": "The Nothing Ear (2) is one of the most sought-after products in the headphones category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "Low Stock",
@@ -3765,17 +4110,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Standard Grade",
+      "Warranty": "1 Year Limited",
       "Brand": "Nothing",
       "Model": "Ear (stick)",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Great aesthetics",
+      "Excellent customer support"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Requires maintenance",
+      "May not fit all setups"
     ],
     "description": "The Nothing Ear (stick) is one of the most sought-after products in the headphones category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -3807,17 +4154,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Professional Grade",
+      "Warranty": "1 Year Limited",
       "Brand": "Nothing",
       "Model": "CMF Buds Pro",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Highly durable",
+      "Good value for money"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Steep learning curve",
+      "May not fit all setups"
     ],
     "description": "The Nothing CMF Buds Pro is one of the most sought-after products in the headphones category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -3849,17 +4198,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Premium Grade",
+      "Warranty": "1 Year Limited",
       "Brand": "Samsung",
       "Model": "Galaxy Buds2 Pro",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Easy to use",
+      "Good value for money"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Requires maintenance",
+      "May not fit all setups"
     ],
     "description": "The Samsung Galaxy Buds2 Pro is one of the most sought-after products in the headphones category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "Low Stock",
@@ -3891,17 +4242,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Premium Grade",
+      "Warranty": "2 Year Extended",
       "Brand": "Samsung",
       "Model": "Galaxy Buds FE",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Great aesthetics",
+      "Reliable performance"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Requires maintenance",
+      "Bulky design"
     ],
     "description": "The Samsung Galaxy Buds FE is one of the most sought-after products in the headphones category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -3933,17 +4286,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Professional Grade",
+      "Warranty": "2 Year Extended",
       "Brand": "Samsung",
       "Model": "Galaxy Buds Live",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Fast operation",
+      "Reliable performance"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Higher price point",
+      "Bulky design"
     ],
     "description": "The Samsung Galaxy Buds Live is one of the most sought-after products in the headphones category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -3975,17 +4330,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Premium Grade",
+      "Warranty": "1 Year Limited",
       "Brand": "Sony",
       "Model": "PlayStation 5 Pro",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Great aesthetics",
+      "Excellent customer support"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Steep learning curve",
+      "Limited color options"
     ],
     "description": "The Sony PlayStation 5 Pro is one of the most sought-after products in the gaming category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "Low Stock",
@@ -4017,17 +4374,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Premium Grade",
+      "Warranty": "1 Year Limited",
       "Brand": "Sony",
       "Model": "PlayStation 5 Slim",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Great aesthetics",
+      "Reliable performance"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Requires maintenance",
+      "Bulky design"
     ],
     "description": "The Sony PlayStation 5 Slim is one of the most sought-after products in the gaming category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -4059,17 +4418,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Standard Grade",
+      "Warranty": "1 Year Limited",
       "Brand": "Sony",
       "Model": "PlayStation Portal",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Great aesthetics",
+      "Good value for money"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Requires maintenance",
+      "Limited color options"
     ],
     "description": "The Sony PlayStation Portal is one of the most sought-after products in the gaming category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -4101,17 +4462,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Standard Grade",
+      "Warranty": "2 Year Extended",
       "Brand": "Sony",
       "Model": "DualSense Edge Controller",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Great aesthetics",
+      "Excellent customer support"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Requires maintenance",
+      "Bulky design"
     ],
     "description": "The Sony DualSense Edge Controller is one of the most sought-after products in the gaming category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -4143,17 +4506,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Professional Grade",
+      "Warranty": "2 Year Extended",
       "Brand": "Microsoft",
       "Model": "Xbox Series X",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Easy to use",
+      "Reliable performance"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Higher price point",
+      "Limited color options"
     ],
     "description": "The Microsoft Xbox Series X is one of the most sought-after products in the gaming category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "Low Stock",
@@ -4185,17 +4550,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Standard Grade",
+      "Warranty": "1 Year Limited",
       "Brand": "Microsoft",
       "Model": "Xbox Series S - 1TB",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Fast operation",
+      "Excellent customer support"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Steep learning curve",
+      "Limited color options"
     ],
     "description": "The Microsoft Xbox Series S - 1TB is one of the most sought-after products in the gaming category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -4227,17 +4594,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Premium Grade",
+      "Warranty": "1 Year Limited",
       "Brand": "Microsoft",
       "Model": "Xbox Elite Wireless Controller Series 2",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Easy to use",
+      "Reliable performance"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Steep learning curve",
+      "Bulky design"
     ],
     "description": "The Microsoft Xbox Elite Wireless Controller Series 2 is one of the most sought-after products in the gaming category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -4269,17 +4638,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Standard Grade",
+      "Warranty": "2 Year Extended",
       "Brand": "Nintendo",
       "Model": "Nintendo Switch OLED",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Great aesthetics",
+      "Good value for money"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Requires maintenance",
+      "May not fit all setups"
     ],
     "description": "The Nintendo Nintendo Switch OLED is one of the most sought-after products in the gaming category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "Low Stock",
@@ -4311,17 +4682,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Professional Grade",
+      "Warranty": "1 Year Limited",
       "Brand": "Nintendo",
       "Model": "Nintendo Switch Lite",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Easy to use",
+      "Reliable performance"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Requires maintenance",
+      "Limited color options"
     ],
     "description": "The Nintendo Nintendo Switch Lite is one of the most sought-after products in the gaming category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -4353,17 +4726,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Professional Grade",
+      "Warranty": "2 Year Extended",
       "Brand": "Nintendo",
       "Model": "Switch Pro Controller",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Easy to use",
+      "Good value for money"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Requires maintenance",
+      "May not fit all setups"
     ],
     "description": "The Nintendo Switch Pro Controller is one of the most sought-after products in the gaming category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -4395,17 +4770,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Professional Grade",
+      "Warranty": "2 Year Extended",
       "Brand": "Logitech",
       "Model": "G Pro X Superlight 2",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Easy to use",
+      "Excellent customer support"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Steep learning curve",
+      "Bulky design"
     ],
     "description": "The Logitech G Pro X Superlight 2 is one of the most sought-after products in the gaming category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "Low Stock",
@@ -4437,17 +4814,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Standard Grade",
+      "Warranty": "2 Year Extended",
       "Brand": "Logitech",
       "Model": "G915 Lightspeed Keyboard",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Fast operation",
+      "Reliable performance"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Higher price point",
+      "Bulky design"
     ],
     "description": "The Logitech G915 Lightspeed Keyboard is one of the most sought-after products in the gaming category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -4479,17 +4858,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Premium Grade",
+      "Warranty": "2 Year Extended",
       "Brand": "Logitech",
       "Model": "G502 X Plus",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Easy to use",
+      "Excellent customer support"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Requires maintenance",
+      "Limited color options"
     ],
     "description": "The Logitech G502 X Plus is one of the most sought-after products in the gaming category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -4521,17 +4902,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Premium Grade",
+      "Warranty": "Lifetime Support",
       "Brand": "Logitech",
       "Model": "Astro A50 X",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Great aesthetics",
+      "Excellent customer support"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Higher price point",
+      "Limited color options"
     ],
     "description": "The Logitech Astro A50 X is one of the most sought-after products in the gaming category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -4563,17 +4946,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Premium Grade",
+      "Warranty": "2 Year Extended",
       "Brand": "Razer",
       "Model": "Viper V3 Pro",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Easy to use",
+      "Reliable performance"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Steep learning curve",
+      "Bulky design"
     ],
     "description": "The Razer Viper V3 Pro is one of the most sought-after products in the gaming category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "Low Stock",
@@ -4605,17 +4990,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Premium Grade",
+      "Warranty": "1 Year Limited",
       "Brand": "Razer",
       "Model": "BlackWidow V4 Pro",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Easy to use",
+      "Reliable performance"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Steep learning curve",
+      "Limited color options"
     ],
     "description": "The Razer BlackWidow V4 Pro is one of the most sought-after products in the gaming category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -4647,17 +5034,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Standard Grade",
+      "Warranty": "1 Year Limited",
       "Brand": "Razer",
       "Model": "Kraken V3 Hypersense",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Great aesthetics",
+      "Reliable performance"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Steep learning curve",
+      "May not fit all setups"
     ],
     "description": "The Razer Kraken V3 Hypersense is one of the most sought-after products in the gaming category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -4689,17 +5078,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Professional Grade",
+      "Warranty": "1 Year Limited",
       "Brand": "Razer",
       "Model": "Wolverine V2 Pro",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Fast operation",
+      "Reliable performance"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Requires maintenance",
+      "May not fit all setups"
     ],
     "description": "The Razer Wolverine V2 Pro is one of the most sought-after products in the gaming category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -4731,17 +5122,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Premium Grade",
+      "Warranty": "1 Year Limited",
       "Brand": "ASUS",
       "Model": "ROG Ally Z1 Extreme",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Great aesthetics",
+      "Excellent customer support"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Higher price point",
+      "Bulky design"
     ],
     "description": "The ASUS ROG Ally Z1 Extreme is one of the most sought-after products in the gaming category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "Low Stock",
@@ -4773,17 +5166,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Professional Grade",
+      "Warranty": "2 Year Extended",
       "Brand": "ASUS",
       "Model": "ROG Raikiri Pro",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Highly durable",
+      "Reliable performance"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Higher price point",
+      "Limited color options"
     ],
     "description": "The ASUS ROG Raikiri Pro is one of the most sought-after products in the gaming category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -4815,17 +5210,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Standard Grade",
+      "Warranty": "1 Year Limited",
       "Brand": "ASUS",
       "Model": "ROG Cetra True Wireless",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Great aesthetics",
+      "Good value for money"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Requires maintenance",
+      "May not fit all setups"
     ],
     "description": "The ASUS ROG Cetra True Wireless is one of the most sought-after products in the gaming category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -4857,17 +5254,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Standard Grade",
+      "Warranty": "2 Year Extended",
       "Brand": "LG",
       "Model": "OLED evo C3 65\" TV",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Great aesthetics",
+      "Reliable performance"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Steep learning curve",
+      "Limited color options"
     ],
     "description": "The LG OLED evo C3 65\" TV is one of the most sought-after products in the home-appliances category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "Low Stock",
@@ -4899,17 +5298,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Premium Grade",
+      "Warranty": "2 Year Extended",
       "Brand": "LG",
       "Model": "WashTower Smart Laundry",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Fast operation",
+      "Good value for money"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Requires maintenance",
+      "Limited color options"
     ],
     "description": "The LG WashTower Smart Laundry is one of the most sought-after products in the home-appliances category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -4941,17 +5342,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Standard Grade",
+      "Warranty": "2 Year Extended",
       "Brand": "LG",
       "Model": "InstaView Refrigerator",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Fast operation",
+      "Good value for money"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Steep learning curve",
+      "May not fit all setups"
     ],
     "description": "The LG InstaView Refrigerator is one of the most sought-after products in the home-appliances category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -4983,17 +5386,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Standard Grade",
+      "Warranty": "Lifetime Support",
       "Brand": "LG",
       "Model": "CordZero A9 Stick Vacuum",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Easy to use",
+      "Excellent customer support"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Higher price point",
+      "Bulky design"
     ],
     "description": "The LG CordZero A9 Stick Vacuum is one of the most sought-after products in the home-appliances category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -5025,17 +5430,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Premium Grade",
+      "Warranty": "Lifetime Support",
       "Brand": "Samsung",
       "Model": "Neo QLED 8K TV",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Great aesthetics",
+      "Reliable performance"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Steep learning curve",
+      "May not fit all setups"
     ],
     "description": "The Samsung Neo QLED 8K TV is one of the most sought-after products in the home-appliances category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "Low Stock",
@@ -5067,17 +5474,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Professional Grade",
+      "Warranty": "Lifetime Support",
       "Brand": "Samsung",
       "Model": "Bespoke 4-Door Flex Refrigerator",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Fast operation",
+      "Reliable performance"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Requires maintenance",
+      "Limited color options"
     ],
     "description": "The Samsung Bespoke 4-Door Flex Refrigerator is one of the most sought-after products in the home-appliances category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -5109,17 +5518,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Premium Grade",
+      "Warranty": "1 Year Limited",
       "Brand": "Samsung",
       "Model": "Bespoke Jet AI Vacuum",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Fast operation",
+      "Excellent customer support"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Higher price point",
+      "May not fit all setups"
     ],
     "description": "The Samsung Bespoke Jet AI Vacuum is one of the most sought-after products in the home-appliances category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -5151,17 +5562,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Standard Grade",
+      "Warranty": "Lifetime Support",
       "Brand": "Samsung",
       "Model": "Smart Dial Washer",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Fast operation",
+      "Good value for money"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Requires maintenance",
+      "Limited color options"
     ],
     "description": "The Samsung Smart Dial Washer is one of the most sought-after products in the home-appliances category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -5193,17 +5606,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Premium Grade",
+      "Warranty": "2 Year Extended",
       "Brand": "Whirlpool",
       "Model": "Smart Front Load Washer",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Fast operation",
+      "Good value for money"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Higher price point",
+      "May not fit all setups"
     ],
     "description": "The Whirlpool Smart Front Load Washer is one of the most sought-after products in the home-appliances category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "Low Stock",
@@ -5235,17 +5650,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Premium Grade",
+      "Warranty": "Lifetime Support",
       "Brand": "Whirlpool",
       "Model": "French Door Refrigerator",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Great aesthetics",
+      "Reliable performance"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Steep learning curve",
+      "Bulky design"
     ],
     "description": "The Whirlpool French Door Refrigerator is one of the most sought-after products in the home-appliances category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -5277,17 +5694,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Premium Grade",
+      "Warranty": "2 Year Extended",
       "Brand": "Whirlpool",
       "Model": "Smart Double Wall Oven",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Fast operation",
+      "Good value for money"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Higher price point",
+      "May not fit all setups"
     ],
     "description": "The Whirlpool Smart Double Wall Oven is one of the most sought-after products in the home-appliances category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -5319,17 +5738,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Premium Grade",
+      "Warranty": "2 Year Extended",
       "Brand": "Bosch",
       "Model": "800 Series Dishwasher",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Highly durable",
+      "Good value for money"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Requires maintenance",
+      "Limited color options"
     ],
     "description": "The Bosch 800 Series Dishwasher is one of the most sought-after products in the home-appliances category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "Low Stock",
@@ -5361,17 +5782,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Premium Grade",
+      "Warranty": "Lifetime Support",
       "Brand": "Bosch",
       "Model": "500 Series Refrigerator",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Highly durable",
+      "Reliable performance"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Higher price point",
+      "Limited color options"
     ],
     "description": "The Bosch 500 Series Refrigerator is one of the most sought-after products in the home-appliances category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -5403,17 +5826,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Professional Grade",
+      "Warranty": "Lifetime Support",
       "Brand": "Bosch",
       "Model": "Benchmark Induction Cooktop",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Highly durable",
+      "Excellent customer support"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Higher price point",
+      "Limited color options"
     ],
     "description": "The Bosch Benchmark Induction Cooktop is one of the most sought-after products in the home-appliances category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -5445,17 +5870,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Standard Grade",
+      "Warranty": "1 Year Limited",
       "Brand": "IFB",
       "Model": "Senator WSS 8kg Washer",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Great aesthetics",
+      "Reliable performance"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Higher price point",
+      "May not fit all setups"
     ],
     "description": "The IFB Senator WSS 8kg Washer is one of the most sought-after products in the home-appliances category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "Low Stock",
@@ -5487,17 +5914,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Premium Grade",
+      "Warranty": "Lifetime Support",
       "Brand": "IFB",
       "Model": "Neptune VX Dishwasher",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Fast operation",
+      "Good value for money"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Requires maintenance",
+      "Limited color options"
     ],
     "description": "The IFB Neptune VX Dishwasher is one of the most sought-after products in the home-appliances category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -5529,17 +5958,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Standard Grade",
+      "Warranty": "2 Year Extended",
       "Brand": "IFB",
       "Model": "Microwave Oven 30L",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Easy to use",
+      "Good value for money"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Higher price point",
+      "Limited color options"
     ],
     "description": "The IFB Microwave Oven 30L is one of the most sought-after products in the home-appliances category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -5571,17 +6002,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Premium Grade",
+      "Warranty": "Lifetime Support",
       "Brand": "Philips",
       "Model": "Air Purifier 3000i",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Great aesthetics",
+      "Reliable performance"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Requires maintenance",
+      "Limited color options"
     ],
     "description": "The Philips Air Purifier 3000i is one of the most sought-after products in the home-appliances category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "Low Stock",
@@ -5613,17 +6046,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Professional Grade",
+      "Warranty": "1 Year Limited",
       "Brand": "Philips",
       "Model": "PerfectCare Elite Steam Iron",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Great aesthetics",
+      "Excellent customer support"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Steep learning curve",
+      "Limited color options"
     ],
     "description": "The Philips PerfectCare Elite Steam Iron is one of the most sought-after products in the home-appliances category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -5655,17 +6090,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Standard Grade",
+      "Warranty": "Lifetime Support",
       "Brand": "Philips",
       "Model": "Eco Conscious Edition Kettle",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Easy to use",
+      "Excellent customer support"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Steep learning curve",
+      "May not fit all setups"
     ],
     "description": "The Philips Eco Conscious Edition Kettle is one of the most sought-after products in the home-appliances category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -5697,17 +6134,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Professional Grade",
+      "Warranty": "Lifetime Support",
       "Brand": "Penguin",
       "Model": "Atomic Habits",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Great aesthetics",
+      "Excellent customer support"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Steep learning curve",
+      "May not fit all setups"
     ],
     "description": "The Penguin Atomic Habits is one of the most sought-after products in the books category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "Low Stock",
@@ -5739,17 +6178,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Standard Grade",
+      "Warranty": "2 Year Extended",
       "Brand": "Penguin",
       "Model": "The Psychology of Money",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Fast operation",
+      "Reliable performance"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Steep learning curve",
+      "May not fit all setups"
     ],
     "description": "The Penguin The Psychology of Money is one of the most sought-after products in the books category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -5781,17 +6222,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Premium Grade",
+      "Warranty": "2 Year Extended",
       "Brand": "Penguin",
       "Model": "Thinking, Fast and Slow",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Fast operation",
+      "Good value for money"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Higher price point",
+      "May not fit all setups"
     ],
     "description": "The Penguin Thinking, Fast and Slow is one of the most sought-after products in the books category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -5823,17 +6266,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Standard Grade",
+      "Warranty": "1 Year Limited",
       "Brand": "HarperCollins",
       "Model": "The Alchemist",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Fast operation",
+      "Good value for money"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Higher price point",
+      "Bulky design"
     ],
     "description": "The HarperCollins The Alchemist is one of the most sought-after products in the books category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "Low Stock",
@@ -5865,17 +6310,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Standard Grade",
+      "Warranty": "1 Year Limited",
       "Brand": "HarperCollins",
       "Model": "Sapiens: A Brief History of Humankind",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Highly durable",
+      "Excellent customer support"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Higher price point",
+      "Bulky design"
     ],
     "description": "The HarperCollins Sapiens: A Brief History of Humankind is one of the most sought-after products in the books category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -5907,17 +6354,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Professional Grade",
+      "Warranty": "1 Year Limited",
       "Brand": "HarperCollins",
       "Model": "Ikigai",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Great aesthetics",
+      "Good value for money"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Higher price point",
+      "May not fit all setups"
     ],
     "description": "The HarperCollins Ikigai is one of the most sought-after products in the books category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -5949,17 +6398,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Professional Grade",
+      "Warranty": "Lifetime Support",
       "Brand": "Simon & Schuster",
       "Model": "Steve Jobs Biography",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Great aesthetics",
+      "Excellent customer support"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Requires maintenance",
+      "May not fit all setups"
     ],
     "description": "The Simon & Schuster Steve Jobs Biography is one of the most sought-after products in the books category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "Low Stock",
@@ -5991,17 +6442,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Standard Grade",
+      "Warranty": "2 Year Extended",
       "Brand": "Simon & Schuster",
       "Model": "Principles by Ray Dalio",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Great aesthetics",
+      "Reliable performance"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Steep learning curve",
+      "Limited color options"
     ],
     "description": "The Simon & Schuster Principles by Ray Dalio is one of the most sought-after products in the books category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -6033,17 +6486,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Professional Grade",
+      "Warranty": "Lifetime Support",
       "Brand": "Simon & Schuster",
       "Model": "Shoe Dog",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Great aesthetics",
+      "Good value for money"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Steep learning curve",
+      "Bulky design"
     ],
     "description": "The Simon & Schuster Shoe Dog is one of the most sought-after products in the books category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -6075,17 +6530,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Professional Grade",
+      "Warranty": "1 Year Limited",
       "Brand": "Nike",
       "Model": "Air Force 1 '07",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Great aesthetics",
+      "Excellent customer support"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Higher price point",
+      "Bulky design"
     ],
     "description": "The Nike Air Force 1 '07 is one of the most sought-after products in the fashion category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "Low Stock",
@@ -6117,17 +6574,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Standard Grade",
+      "Warranty": "1 Year Limited",
       "Brand": "Nike",
       "Model": "Tech Fleece Full-Zip",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Great aesthetics",
+      "Excellent customer support"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Requires maintenance",
+      "Bulky design"
     ],
     "description": "The Nike Tech Fleece Full-Zip is one of the most sought-after products in the fashion category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -6159,17 +6618,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Professional Grade",
+      "Warranty": "1 Year Limited",
       "Brand": "Nike",
       "Model": "Sportswear Club Fleece Pants",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Fast operation",
+      "Good value for money"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Higher price point",
+      "Bulky design"
     ],
     "description": "The Nike Sportswear Club Fleece Pants is one of the most sought-after products in the fashion category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -6201,17 +6662,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Professional Grade",
+      "Warranty": "2 Year Extended",
       "Brand": "Adidas",
       "Model": "Ultraboost Light",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Highly durable",
+      "Reliable performance"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Higher price point",
+      "Bulky design"
     ],
     "description": "The Adidas Ultraboost Light is one of the most sought-after products in the fashion category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "Low Stock",
@@ -6243,17 +6706,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Professional Grade",
+      "Warranty": "1 Year Limited",
       "Brand": "Adidas",
       "Model": "Samba OG Shoes",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Highly durable",
+      "Excellent customer support"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Requires maintenance",
+      "May not fit all setups"
     ],
     "description": "The Adidas Samba OG Shoes is one of the most sought-after products in the fashion category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -6285,17 +6750,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Professional Grade",
+      "Warranty": "2 Year Extended",
       "Brand": "Adidas",
       "Model": "Adicolor Classics Track Jacket",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Highly durable",
+      "Good value for money"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Steep learning curve",
+      "Limited color options"
     ],
     "description": "The Adidas Adicolor Classics Track Jacket is one of the most sought-after products in the fashion category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -6327,17 +6794,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Premium Grade",
+      "Warranty": "2 Year Extended",
       "Brand": "Patagonia",
       "Model": "Better Sweater Fleece",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Fast operation",
+      "Reliable performance"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Requires maintenance",
+      "Bulky design"
     ],
     "description": "The Patagonia Better Sweater Fleece is one of the most sought-after products in the fashion category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "Low Stock",
@@ -6369,17 +6838,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Professional Grade",
+      "Warranty": "2 Year Extended",
       "Brand": "Patagonia",
       "Model": "Torrentshell 3L Rain Jacket",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Easy to use",
+      "Excellent customer support"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Requires maintenance",
+      "May not fit all setups"
     ],
     "description": "The Patagonia Torrentshell 3L Rain Jacket is one of the most sought-after products in the fashion category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -6411,17 +6882,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Premium Grade",
+      "Warranty": "1 Year Limited",
       "Brand": "Patagonia",
       "Model": "Nano Puff Jacket",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Highly durable",
+      "Excellent customer support"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Higher price point",
+      "Bulky design"
     ],
     "description": "The Patagonia Nano Puff Jacket is one of the most sought-after products in the fashion category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -6453,17 +6926,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Standard Grade",
+      "Warranty": "2 Year Extended",
       "Brand": "The North Face",
       "Model": "Nuptse 1996 Retro Jacket",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Fast operation",
+      "Excellent customer support"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Steep learning curve",
+      "Bulky design"
     ],
     "description": "The The North Face Nuptse 1996 Retro Jacket is one of the most sought-after products in the fashion category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "Low Stock",
@@ -6495,17 +6970,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Professional Grade",
+      "Warranty": "Lifetime Support",
       "Brand": "The North Face",
       "Model": "Borealis Backpack",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Easy to use",
+      "Good value for money"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Higher price point",
+      "May not fit all setups"
     ],
     "description": "The The North Face Borealis Backpack is one of the most sought-after products in the fashion category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -6537,17 +7014,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Premium Grade",
+      "Warranty": "2 Year Extended",
       "Brand": "The North Face",
       "Model": "Apex Bionic Jacket",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Fast operation",
+      "Reliable performance"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Steep learning curve",
+      "May not fit all setups"
     ],
     "description": "The The North Face Apex Bionic Jacket is one of the most sought-after products in the fashion category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -6579,17 +7058,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Premium Grade",
+      "Warranty": "2 Year Extended",
       "Brand": "Dyson",
       "Model": "Airwrap Multi-Styler",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Easy to use",
+      "Reliable performance"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Steep learning curve",
+      "Limited color options"
     ],
     "description": "The Dyson Airwrap Multi-Styler is one of the most sought-after products in the beauty category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "Low Stock",
@@ -6621,17 +7102,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Premium Grade",
+      "Warranty": "1 Year Limited",
       "Brand": "Dyson",
       "Model": "Supersonic Hair Dryer",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Highly durable",
+      "Reliable performance"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Steep learning curve",
+      "Bulky design"
     ],
     "description": "The Dyson Supersonic Hair Dryer is one of the most sought-after products in the beauty category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -6663,17 +7146,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Professional Grade",
+      "Warranty": "1 Year Limited",
       "Brand": "Dyson",
       "Model": "Corrale Hair Straightener",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Fast operation",
+      "Reliable performance"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Steep learning curve",
+      "May not fit all setups"
     ],
     "description": "The Dyson Corrale Hair Straightener is one of the most sought-after products in the beauty category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -6705,17 +7190,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Premium Grade",
+      "Warranty": "2 Year Extended",
       "Brand": "L'Oréal",
       "Model": "Revitalift Derm Intensives Serum",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Fast operation",
+      "Excellent customer support"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Requires maintenance",
+      "May not fit all setups"
     ],
     "description": "The L'Oréal Revitalift Derm Intensives Serum is one of the most sought-after products in the beauty category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "Low Stock",
@@ -6747,17 +7234,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Standard Grade",
+      "Warranty": "2 Year Extended",
       "Brand": "L'Oréal",
       "Model": "True Match Foundation",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Great aesthetics",
+      "Reliable performance"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Requires maintenance",
+      "Bulky design"
     ],
     "description": "The L'Oréal True Match Foundation is one of the most sought-after products in the beauty category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -6789,17 +7278,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Standard Grade",
+      "Warranty": "Lifetime Support",
       "Brand": "L'Oréal",
       "Model": "Voluminous Lash Paradise",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Highly durable",
+      "Reliable performance"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Higher price point",
+      "Limited color options"
     ],
     "description": "The L'Oréal Voluminous Lash Paradise is one of the most sought-after products in the beauty category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -6831,17 +7322,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Premium Grade",
+      "Warranty": "Lifetime Support",
       "Brand": "Estée Lauder",
       "Model": "Advanced Night Repair Serum",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Fast operation",
+      "Good value for money"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Steep learning curve",
+      "Bulky design"
     ],
     "description": "The Estée Lauder Advanced Night Repair Serum is one of the most sought-after products in the beauty category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "Low Stock",
@@ -6873,17 +7366,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Professional Grade",
+      "Warranty": "2 Year Extended",
       "Brand": "Estée Lauder",
       "Model": "Double Wear Foundation",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Fast operation",
+      "Reliable performance"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Requires maintenance",
+      "May not fit all setups"
     ],
     "description": "The Estée Lauder Double Wear Foundation is one of the most sought-after products in the beauty category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -6915,17 +7410,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Standard Grade",
+      "Warranty": "2 Year Extended",
       "Brand": "Estée Lauder",
       "Model": "Revitalizing Supreme+ Cream",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Easy to use",
+      "Good value for money"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Steep learning curve",
+      "May not fit all setups"
     ],
     "description": "The Estée Lauder Revitalizing Supreme+ Cream is one of the most sought-after products in the beauty category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -6957,17 +7454,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Standard Grade",
+      "Warranty": "1 Year Limited",
       "Brand": "Philips",
       "Model": "Lumea IPL Hair Removal",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Fast operation",
+      "Excellent customer support"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Higher price point",
+      "May not fit all setups"
     ],
     "description": "The Philips Lumea IPL Hair Removal is one of the most sought-after products in the beauty category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "Low Stock",
@@ -6999,17 +7498,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Premium Grade",
+      "Warranty": "Lifetime Support",
       "Brand": "Philips",
       "Model": "Sonicare DiamondClean 9000",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Fast operation",
+      "Excellent customer support"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Requires maintenance",
+      "Bulky design"
     ],
     "description": "The Philips Sonicare DiamondClean 9000 is one of the most sought-after products in the beauty category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -7041,17 +7542,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Professional Grade",
+      "Warranty": "1 Year Limited",
       "Brand": "Philips",
       "Model": "OneBlade Pro",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Highly durable",
+      "Reliable performance"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Steep learning curve",
+      "Limited color options"
     ],
     "description": "The Philips OneBlade Pro is one of the most sought-after products in the beauty category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -7083,17 +7586,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Professional Grade",
+      "Warranty": "2 Year Extended",
       "Brand": "Herman Miller",
       "Model": "Aeron Ergonomic Chair",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Fast operation",
+      "Good value for money"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Higher price point",
+      "Limited color options"
     ],
     "description": "The Herman Miller Aeron Ergonomic Chair is one of the most sought-after products in the furniture category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "Low Stock",
@@ -7125,17 +7630,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Professional Grade",
+      "Warranty": "1 Year Limited",
       "Brand": "Herman Miller",
       "Model": "Embody Chair",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Highly durable",
+      "Reliable performance"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Higher price point",
+      "Bulky design"
     ],
     "description": "The Herman Miller Embody Chair is one of the most sought-after products in the furniture category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -7167,17 +7674,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Professional Grade",
+      "Warranty": "Lifetime Support",
       "Brand": "Herman Miller",
       "Model": "Sayl Chair",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Great aesthetics",
+      "Reliable performance"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Steep learning curve",
+      "May not fit all setups"
     ],
     "description": "The Herman Miller Sayl Chair is one of the most sought-after products in the furniture category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -7209,17 +7718,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Premium Grade",
+      "Warranty": "2 Year Extended",
       "Brand": "Herman Miller",
       "Model": "Noguchi Table",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Easy to use",
+      "Excellent customer support"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Higher price point",
+      "Bulky design"
     ],
     "description": "The Herman Miller Noguchi Table is one of the most sought-after products in the furniture category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -7251,17 +7762,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Professional Grade",
+      "Warranty": "1 Year Limited",
       "Brand": "Steelcase",
       "Model": "Gesture Office Chair",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Easy to use",
+      "Reliable performance"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Steep learning curve",
+      "Limited color options"
     ],
     "description": "The Steelcase Gesture Office Chair is one of the most sought-after products in the furniture category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "Low Stock",
@@ -7293,17 +7806,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Premium Grade",
+      "Warranty": "1 Year Limited",
       "Brand": "Steelcase",
       "Model": "Leap Fabric Chair",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Easy to use",
+      "Excellent customer support"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Requires maintenance",
+      "Limited color options"
     ],
     "description": "The Steelcase Leap Fabric Chair is one of the most sought-after products in the furniture category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -7335,17 +7850,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Standard Grade",
+      "Warranty": "2 Year Extended",
       "Brand": "Steelcase",
       "Model": "Series 2 Chair",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Great aesthetics",
+      "Excellent customer support"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Requires maintenance",
+      "Bulky design"
     ],
     "description": "The Steelcase Series 2 Chair is one of the most sought-after products in the furniture category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -7377,17 +7894,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Premium Grade",
+      "Warranty": "2 Year Extended",
       "Brand": "IKEA",
       "Model": "MARKUS Office Chair",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Great aesthetics",
+      "Good value for money"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Steep learning curve",
+      "May not fit all setups"
     ],
     "description": "The IKEA MARKUS Office Chair is one of the most sought-after products in the furniture category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "Low Stock",
@@ -7419,17 +7938,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Standard Grade",
+      "Warranty": "1 Year Limited",
       "Brand": "IKEA",
       "Model": "BEKANT Standing Desk",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Highly durable",
+      "Excellent customer support"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Higher price point",
+      "Limited color options"
     ],
     "description": "The IKEA BEKANT Standing Desk is one of the most sought-after products in the furniture category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -7461,17 +7982,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Standard Grade",
+      "Warranty": "2 Year Extended",
       "Brand": "IKEA",
       "Model": "KALLAX Shelving Unit",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Highly durable",
+      "Good value for money"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Higher price point",
+      "May not fit all setups"
     ],
     "description": "The IKEA KALLAX Shelving Unit is one of the most sought-after products in the furniture category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -7503,17 +8026,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Professional Grade",
+      "Warranty": "Lifetime Support",
       "Brand": "IKEA",
       "Model": "POÄNG Armchair",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Fast operation",
+      "Excellent customer support"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Steep learning curve",
+      "May not fit all setups"
     ],
     "description": "The IKEA POÄNG Armchair is one of the most sought-after products in the furniture category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -7545,17 +8070,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Standard Grade",
+      "Warranty": "1 Year Limited",
       "Brand": "West Elm",
       "Model": "Mid-Century Show Wood Chair",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Easy to use",
+      "Good value for money"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Higher price point",
+      "May not fit all setups"
     ],
     "description": "The West Elm Mid-Century Show Wood Chair is one of the most sought-after products in the furniture category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "Low Stock",
@@ -7587,17 +8114,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Premium Grade",
+      "Warranty": "2 Year Extended",
       "Brand": "West Elm",
       "Model": "Andes Sofa",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Fast operation",
+      "Good value for money"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Steep learning curve",
+      "Bulky design"
     ],
     "description": "The West Elm Andes Sofa is one of the most sought-after products in the furniture category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -7629,17 +8158,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Standard Grade",
+      "Warranty": "Lifetime Support",
       "Brand": "West Elm",
       "Model": "Industrial Storage Desk",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Fast operation",
+      "Good value for money"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Requires maintenance",
+      "Bulky design"
     ],
     "description": "The West Elm Industrial Storage Desk is one of the most sought-after products in the furniture category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -7671,17 +8202,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Professional Grade",
+      "Warranty": "Lifetime Support",
       "Brand": "Breville",
       "Model": "Barista Express Impress",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Great aesthetics",
+      "Good value for money"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Steep learning curve",
+      "Bulky design"
     ],
     "description": "The Breville Barista Express Impress is one of the most sought-after products in the kitchen category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "Low Stock",
@@ -7713,17 +8246,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Standard Grade",
+      "Warranty": "2 Year Extended",
       "Brand": "Breville",
       "Model": "Smart Oven Air Fryer Pro",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Fast operation",
+      "Excellent customer support"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Higher price point",
+      "Limited color options"
     ],
     "description": "The Breville Smart Oven Air Fryer Pro is one of the most sought-after products in the kitchen category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -7755,17 +8290,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Premium Grade",
+      "Warranty": "2 Year Extended",
       "Brand": "Breville",
       "Model": "the Bambino Plus",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Fast operation",
+      "Reliable performance"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Requires maintenance",
+      "Limited color options"
     ],
     "description": "The Breville the Bambino Plus is one of the most sought-after products in the kitchen category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -7797,17 +8334,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Standard Grade",
+      "Warranty": "2 Year Extended",
       "Brand": "KitchenAid",
       "Model": "Artisan Series 5-Quart Stand Mixer",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Great aesthetics",
+      "Excellent customer support"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Steep learning curve",
+      "Bulky design"
     ],
     "description": "The KitchenAid Artisan Series 5-Quart Stand Mixer is one of the most sought-after products in the kitchen category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "Low Stock",
@@ -7839,17 +8378,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Professional Grade",
+      "Warranty": "1 Year Limited",
       "Brand": "KitchenAid",
       "Model": "Pro Line Series Blender",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Great aesthetics",
+      "Excellent customer support"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Higher price point",
+      "Limited color options"
     ],
     "description": "The KitchenAid Pro Line Series Blender is one of the most sought-after products in the kitchen category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -7881,17 +8422,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Standard Grade",
+      "Warranty": "2 Year Extended",
       "Brand": "KitchenAid",
       "Model": "Digital Countertop Oven",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Highly durable",
+      "Excellent customer support"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Steep learning curve",
+      "Bulky design"
     ],
     "description": "The KitchenAid Digital Countertop Oven is one of the most sought-after products in the kitchen category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -7923,17 +8466,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Standard Grade",
+      "Warranty": "2 Year Extended",
       "Brand": "Ninja",
       "Model": "Foodi 10-in-1 Smart XL Air Fry Oven",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Fast operation",
+      "Excellent customer support"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Requires maintenance",
+      "May not fit all setups"
     ],
     "description": "The Ninja Foodi 10-in-1 Smart XL Air Fry Oven is one of the most sought-after products in the kitchen category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "Low Stock",
@@ -7965,17 +8510,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Premium Grade",
+      "Warranty": "Lifetime Support",
       "Brand": "Ninja",
       "Model": "Creami Ice Cream Maker",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Highly durable",
+      "Good value for money"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Requires maintenance",
+      "Bulky design"
     ],
     "description": "The Ninja Creami Ice Cream Maker is one of the most sought-after products in the kitchen category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -8007,17 +8554,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Standard Grade",
+      "Warranty": "Lifetime Support",
       "Brand": "Ninja",
       "Model": "Professional Plus Blender",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Fast operation",
+      "Reliable performance"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Requires maintenance",
+      "Limited color options"
     ],
     "description": "The Ninja Professional Plus Blender is one of the most sought-after products in the kitchen category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -8049,17 +8598,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Premium Grade",
+      "Warranty": "1 Year Limited",
       "Brand": "Instant Pot",
       "Model": "Duo Plus 9-in-1",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Fast operation",
+      "Good value for money"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Requires maintenance",
+      "May not fit all setups"
     ],
     "description": "The Instant Pot Duo Plus 9-in-1 is one of the most sought-after products in the kitchen category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "Low Stock",
@@ -8091,17 +8642,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Standard Grade",
+      "Warranty": "2 Year Extended",
       "Brand": "Instant Pot",
       "Model": "Vortex Plus 6-Quart Air Fryer",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Great aesthetics",
+      "Excellent customer support"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Steep learning curve",
+      "May not fit all setups"
     ],
     "description": "The Instant Pot Vortex Plus 6-Quart Air Fryer is one of the most sought-after products in the kitchen category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -8133,17 +8686,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Professional Grade",
+      "Warranty": "Lifetime Support",
       "Brand": "Instant Pot",
       "Model": "Pro Crisp 8-Quart",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Great aesthetics",
+      "Reliable performance"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Higher price point",
+      "May not fit all setups"
     ],
     "description": "The Instant Pot Pro Crisp 8-Quart is one of the most sought-after products in the kitchen category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -8175,17 +8730,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Professional Grade",
+      "Warranty": "Lifetime Support",
       "Brand": "Garmin",
       "Model": "Fenix 7X Sapphire Solar",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Easy to use",
+      "Excellent customer support"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Requires maintenance",
+      "May not fit all setups"
     ],
     "description": "The Garmin Fenix 7X Sapphire Solar is one of the most sought-after products in the sports category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "Low Stock",
@@ -8217,17 +8774,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Professional Grade",
+      "Warranty": "1 Year Limited",
       "Brand": "Garmin",
       "Model": "Forerunner 965",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Fast operation",
+      "Reliable performance"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Higher price point",
+      "Bulky design"
     ],
     "description": "The Garmin Forerunner 965 is one of the most sought-after products in the sports category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -8259,17 +8818,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Premium Grade",
+      "Warranty": "Lifetime Support",
       "Brand": "Garmin",
       "Model": "Venu 3",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Highly durable",
+      "Excellent customer support"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Steep learning curve",
+      "Limited color options"
     ],
     "description": "The Garmin Venu 3 is one of the most sought-after products in the sports category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -8301,17 +8862,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Professional Grade",
+      "Warranty": "1 Year Limited",
       "Brand": "Garmin",
       "Model": "Edge 1040 Solar",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Highly durable",
+      "Excellent customer support"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Steep learning curve",
+      "Limited color options"
     ],
     "description": "The Garmin Edge 1040 Solar is one of the most sought-after products in the sports category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -8343,17 +8906,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Premium Grade",
+      "Warranty": "1 Year Limited",
       "Brand": "Therabody",
       "Model": "Theragun PRO",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Highly durable",
+      "Reliable performance"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Requires maintenance",
+      "May not fit all setups"
     ],
     "description": "The Therabody Theragun PRO is one of the most sought-after products in the sports category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "Low Stock",
@@ -8385,17 +8950,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Premium Grade",
+      "Warranty": "Lifetime Support",
       "Brand": "Therabody",
       "Model": "Theragun mini",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Fast operation",
+      "Reliable performance"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Steep learning curve",
+      "Limited color options"
     ],
     "description": "The Therabody Theragun mini is one of the most sought-after products in the sports category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -8427,17 +8994,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Professional Grade",
+      "Warranty": "2 Year Extended",
       "Brand": "Therabody",
       "Model": "RecoveryAir PRO",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Fast operation",
+      "Good value for money"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Requires maintenance",
+      "May not fit all setups"
     ],
     "description": "The Therabody RecoveryAir PRO is one of the most sought-after products in the sports category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -8469,17 +9038,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Premium Grade",
+      "Warranty": "2 Year Extended",
       "Brand": "Bowflex",
       "Model": "SelectTech 552 Dumbbells",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Great aesthetics",
+      "Good value for money"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Higher price point",
+      "Bulky design"
     ],
     "description": "The Bowflex SelectTech 552 Dumbbells is one of the most sought-after products in the sports category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "Low Stock",
@@ -8511,17 +9082,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Professional Grade",
+      "Warranty": "1 Year Limited",
       "Brand": "Bowflex",
       "Model": "Max Trainer M9",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Highly durable",
+      "Reliable performance"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Requires maintenance",
+      "Limited color options"
     ],
     "description": "The Bowflex Max Trainer M9 is one of the most sought-after products in the sports category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -8553,17 +9126,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Standard Grade",
+      "Warranty": "1 Year Limited",
       "Brand": "Bowflex",
       "Model": "Treadmill 22",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Highly durable",
+      "Excellent customer support"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Higher price point",
+      "Bulky design"
     ],
     "description": "The Bowflex Treadmill 22 is one of the most sought-after products in the sports category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -8595,17 +9170,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Standard Grade",
+      "Warranty": "1 Year Limited",
       "Brand": "Fitbit",
       "Model": "Charge 6",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Highly durable",
+      "Reliable performance"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Higher price point",
+      "Bulky design"
     ],
     "description": "The Fitbit Charge 6 is one of the most sought-after products in the sports category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "Low Stock",
@@ -8637,17 +9214,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Premium Grade",
+      "Warranty": "Lifetime Support",
       "Brand": "Fitbit",
       "Model": "Sense 2",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Highly durable",
+      "Reliable performance"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Steep learning curve",
+      "Bulky design"
     ],
     "description": "The Fitbit Sense 2 is one of the most sought-after products in the sports category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -8679,17 +9258,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Premium Grade",
+      "Warranty": "1 Year Limited",
       "Brand": "Fitbit",
       "Model": "Versa 4",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Great aesthetics",
+      "Excellent customer support"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Requires maintenance",
+      "Limited color options"
     ],
     "description": "The Fitbit Versa 4 is one of the most sought-after products in the sports category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -8721,17 +9302,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Premium Grade",
+      "Warranty": "2 Year Extended",
       "Brand": "Samsonite",
       "Model": "Omni PC Hardside Expandable",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Highly durable",
+      "Good value for money"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Requires maintenance",
+      "Limited color options"
     ],
     "description": "The Samsonite Omni PC Hardside Expandable is one of the most sought-after products in the travel category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "Low Stock",
@@ -8763,17 +9346,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Professional Grade",
+      "Warranty": "1 Year Limited",
       "Brand": "Samsonite",
       "Model": "Winfield 2 Hardside",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Great aesthetics",
+      "Good value for money"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Steep learning curve",
+      "Limited color options"
     ],
     "description": "The Samsonite Winfield 2 Hardside is one of the most sought-after products in the travel category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -8805,17 +9390,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Premium Grade",
+      "Warranty": "Lifetime Support",
       "Brand": "Samsonite",
       "Model": "Freeform Hardside Spinner",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Highly durable",
+      "Excellent customer support"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Requires maintenance",
+      "May not fit all setups"
     ],
     "description": "The Samsonite Freeform Hardside Spinner is one of the most sought-after products in the travel category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -8847,17 +9434,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Professional Grade",
+      "Warranty": "Lifetime Support",
       "Brand": "Rimowa",
       "Model": "Original Cabin",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Great aesthetics",
+      "Good value for money"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Requires maintenance",
+      "Bulky design"
     ],
     "description": "The Rimowa Original Cabin is one of the most sought-after products in the travel category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "Low Stock",
@@ -8889,17 +9478,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Standard Grade",
+      "Warranty": "1 Year Limited",
       "Brand": "Rimowa",
       "Model": "Essential Trunk Plus",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Fast operation",
+      "Excellent customer support"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Requires maintenance",
+      "Limited color options"
     ],
     "description": "The Rimowa Essential Trunk Plus is one of the most sought-after products in the travel category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -8931,17 +9522,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Standard Grade",
+      "Warranty": "1 Year Limited",
       "Brand": "Rimowa",
       "Model": "Classic Check-In L",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Fast operation",
+      "Reliable performance"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Requires maintenance",
+      "Bulky design"
     ],
     "description": "The Rimowa Classic Check-In L is one of the most sought-after products in the travel category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -8973,17 +9566,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Professional Grade",
+      "Warranty": "Lifetime Support",
       "Brand": "Away",
       "Model": "The Bigger Carry-On",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Easy to use",
+      "Reliable performance"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Higher price point",
+      "May not fit all setups"
     ],
     "description": "The Away The Bigger Carry-On is one of the most sought-after products in the travel category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "Low Stock",
@@ -9015,17 +9610,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Standard Grade",
+      "Warranty": "Lifetime Support",
       "Brand": "Away",
       "Model": "The Medium",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Easy to use",
+      "Reliable performance"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Higher price point",
+      "Bulky design"
     ],
     "description": "The Away The Medium is one of the most sought-after products in the travel category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -9057,17 +9654,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Premium Grade",
+      "Warranty": "1 Year Limited",
       "Brand": "Away",
       "Model": "The Everywhere Bag",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Fast operation",
+      "Good value for money"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Requires maintenance",
+      "Bulky design"
     ],
     "description": "The Away The Everywhere Bag is one of the most sought-after products in the travel category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -9099,17 +9698,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Professional Grade",
+      "Warranty": "Lifetime Support",
       "Brand": "Peak Design",
       "Model": "Travel Backpack 45L",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Great aesthetics",
+      "Excellent customer support"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Steep learning curve",
+      "May not fit all setups"
     ],
     "description": "The Peak Design Travel Backpack 45L is one of the most sought-after products in the travel category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "Low Stock",
@@ -9141,17 +9742,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Premium Grade",
+      "Warranty": "2 Year Extended",
       "Brand": "Peak Design",
       "Model": "Everyday Backpack V2",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Great aesthetics",
+      "Reliable performance"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Steep learning curve",
+      "May not fit all setups"
     ],
     "description": "The Peak Design Everyday Backpack V2 is one of the most sought-after products in the travel category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
@@ -9183,17 +9786,19 @@ export const PRODUCTS = [
       "Ergonomic Design"
     ],
     "specs": {
+      "Quality": "Standard Grade",
+      "Warranty": "Lifetime Support",
       "Brand": "Peak Design",
       "Model": "Wash Pouch",
       "Year": "2024"
     },
     "pros": [
-      "Industry leading performance",
-      "Great value for money"
+      "Highly durable",
+      "Good value for money"
     ],
     "cons": [
-      "May require setup",
-      "Availability can be limited"
+      "Higher price point",
+      "May not fit all setups"
     ],
     "description": "The Peak Design Wash Pouch is one of the most sought-after products in the travel category. It features cutting edge design and uncompromising quality. NOTE: Image is a placeholder and will be updated shortly by the administrator.",
     "availability": "In Stock",
